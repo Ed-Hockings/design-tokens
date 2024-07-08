@@ -1,0 +1,452 @@
+{
+  "semantic": {
+    "color": {
+      "background": {
+        "neutralTop": {
+          "value": "{primitive.colorRamp.brandNeutral.1000.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "neutralMiddle": {
+          "value": "{primitive.colorRamp.brandNeutral.1100.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "brandAccentSecondary": {
+          "value": "{primitive.color.brandAccentSecondary.background.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "dangerTop": {
+          "value": "{primitive.colorRamp.red.600.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "dangerBottom": {
+          "value": "{primitive.colorRamp.red.1100.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "warningTop": {
+          "value": "{primitive.colorRamp.orange.600.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "warningBottom": {
+          "value": "{primitive.colorRamp.orange.1100.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "positiveTop": {
+          "value": "{primitive.colorRamp.green.600.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "positiveBottom": {
+          "value": "{primitive.colorRamp.green.1100.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "informationTop": {
+          "value": "{primitive.colorRamp.blue.600.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "informationBottom": {
+          "value": "{primitive.colorRamp.blue.1100.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "neutralBottom": {
+          "value": "{primitive.colorRamp.brandNeutral.1300.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "brandAccentPrimary": {
+          "value": "{primitive.color.brandAccentPrimary.background.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        }
+      },
+      "foreground": {
+        "onNeutralStrong": {
+          "value": "{primitive.colorRamp.brandNeutral.100.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Use for headings and labels"
+        },
+        "onNeutralSubtle": {
+          "value": "{primitive.colorRamp.brandNeutral.300.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Use for body and labels"
+        },
+        "onNeutralSubtler": {
+          "value": "{primitive.colorRamp.brandNeutral.200.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Use for supplementary content"
+        },
+        "onDangerTop": {
+          "value": "{primitive.colorRamp.brandNeutral.100.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onWarningTop": {
+          "value": "{primitive.colorRamp.brandNeutral.100.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onPositiveTop": {
+          "value": "{primitive.colorRamp.brandNeutral.100.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onInformationTop": {
+          "value": "{primitive.colorRamp.brandNeutral.100.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onDangerBottom": {
+          "value": "{primitive.colorRamp.red.200.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onWarningBottom": {
+          "value": "{primitive.colorRamp.orange.200.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onPositiveBottom": {
+          "value": "{primitive.colorRamp.green.200.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onInformationBottom": {
+          "value": "{primitive.colorRamp.blue.200.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onNeutralDanger": {
+          "value": "{primitive.colorRamp.red.500.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onNeutralWarning": {
+          "value": "{primitive.colorRamp.orange.500.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onNeutralPositive": {
+          "value": "{primitive.colorRamp.green.600.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onNeutralInformation": {
+          "value": "{primitive.colorRamp.blue.500.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onBrandAccentSecondary": {
+          "value": "{primitive.color.brandAccentSecondary.onBackground.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onNeutralBrandAccentPrimary": {
+          "value": "{primitive.color.brandAccentPrimary.foreground.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onNeutralBrandAccentSecondary": {
+          "value": "{primitive.color.brandAccentSecondary.foreground.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onBrandAccentPrimary": {
+          "value": "{primitive.color.brandAccentPrimary.onBackground.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "onNeutralIcon": {
+          "value": "{primitive.color.icon.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        }
+      },
+      "border": {
+        "brandAccentPrimary": {
+          "value": "{primitive.color.brandAccentPrimary.background.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "container": {
+          "value": "{primitive.colorRamp.brandNeutral.700.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": ""
+        },
+        "danger": {
+          "value": "{primitive.colorRamp.red.500.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": ""
+        },
+        "warning": {
+          "value": "{primitive.colorRamp.orange.500.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": ""
+        },
+        "positive": {
+          "value": "{primitive.colorRamp.green.500.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": ""
+        },
+        "information": {
+          "value": "{primitive.colorRamp.blue.500.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": ""
+        },
+        "seperator": {
+          "value": "#ffffff52",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": ""
+        },
+        "brandAccentSecondary": {
+          "value": "{primitive.colorRamp.brandNeutral.1300.dark}",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        }
+      },
+      "overlay": {
+        "scrim": {
+          "value": "#0000008f",
+          "type": "color",
+          "parent": "Mode/Dark",
+          "description": "Description goes here"
+        }
+      },
+      "stateLayer": {
+        "darkenFixed": {
+          "hovered": {
+            "value": "#0000001f",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "pressed": {
+            "value": "#00000029",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "focused": {
+            "value": "#0000001f",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "dragged": {
+            "value": "#00000029",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "resting": {
+            "value": "#00000014",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          }
+        },
+        "lightenFixed": {
+          "hovered": {
+            "value": "#ffffff1f",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "pressed": {
+            "value": "#ffffff29",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "focused": {
+            "value": "#ffffff1f",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "dragged": {
+            "value": "#ffffff29",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "resting": {
+            "value": "#ffffff14",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          }
+        },
+        "darkenInvertible": {
+          "hovered": {
+            "value": "#ffffff1f",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "pressed": {
+            "value": "#ffffff29",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "focused": {
+            "value": "#ffffff1f",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "dragged": {
+            "value": "#ffffff29",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "resting": {
+            "value": "#ffffff14",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          }
+        },
+        "lightenInvertible": {
+          "hovered": {
+            "value": "#0000001f",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "pressed": {
+            "value": "#00000029",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "focused": {
+            "value": "#0000001f",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "dragged": {
+            "value": "#00000029",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          },
+          "resting": {
+            "value": "#00000014",
+            "type": "color",
+            "parent": "Mode/Dark",
+            "description": "Description goes here"
+          }
+        }
+      }
+    }
+  },
+  "component": {
+    "fuelGauge": {
+      "gas": {
+        "value": "{primitive.colorRamp.blue.600.dark}",
+        "type": "color",
+        "parent": "Mode/Dark",
+        "description": "Description goes here"
+      },
+      "electric": {
+        "value": "{primitive.colorRamp.teal.600.dark}",
+        "type": "color",
+        "parent": "Mode/Dark",
+        "description": "Description goes here"
+      }
+    },
+    "climate": {
+      "hot": {
+        "value": "{primitive.colorRamp.red.600.dark}",
+        "type": "color",
+        "parent": "Mode/Dark",
+        "description": "Description goes here"
+      },
+      "mild": {
+        "value": "{primitive.colorRamp.purple.600.dark}",
+        "type": "color",
+        "parent": "Mode/Dark",
+        "description": "Description goes here"
+      },
+      "cold": {
+        "value": "{primitive.colorRamp.blue.600.dark}",
+        "type": "color",
+        "parent": "Mode/Dark",
+        "description": "Description goes here"
+      }
+    },
+    "rating": {
+      "stars": {
+        "value": "{primitive.colorRamp.yellow.700.dark}",
+        "type": "color",
+        "parent": "Mode/Dark",
+        "description": ""
+      }
+    }
+  },
+  "isLight": {
+    "value": "false",
+    "type": "boolean",
+    "parent": "Mode/Dark",
+    "description": "For Figma Variables"
+  },
+  "isDark": {
+    "value": "true",
+    "type": "boolean",
+    "parent": "Mode/Dark",
+    "description": "For Figma Variables"
+  }
+}
