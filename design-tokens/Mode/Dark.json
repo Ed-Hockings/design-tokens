@@ -41,7 +41,7 @@
         "warningBottom": {
           "parent": "Mode/Dark",
           "$type": "color",
-          "$value": "{primitive.colorRamp.orange.1100.dark}",
+          "$value": "{primitive.colorRamp.orange.1300.dark}",
           "$description": "Description goes here"
         },
         "positiveTop": {
@@ -79,6 +79,11 @@
           "$type": "color",
           "$value": "{primitive.color.brandAccentPrimary.background.dark}",
           "$description": "Description goes here"
+        },
+        "brand": {
+          "$type": "color",
+          "$value": "{primitive.color.brand.dark}",
+          "$description": "Description goes here"
         }
       },
       "foreground": {
@@ -91,13 +96,13 @@
         "onNeutralSubtle": {
           "parent": "Mode/Dark",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.300.dark}",
+          "$value": "{primitive.colorRamp.brandNeutral.200.dark}",
           "$description": "Use for body and labels"
         },
         "onNeutralSubtler": {
           "parent": "Mode/Dark",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.200.dark}",
+          "$value": "{primitive.colorRamp.brandNeutral.300.dark}",
           "$description": "Use for supplementary content"
         },
         "onDangerTop": {
@@ -201,6 +206,11 @@
           "$type": "color",
           "$value": "{primitive.color.icon.dark}",
           "$description": "Description goes here"
+        },
+        "onNeutralBrand": {
+          "$type": "color",
+          "$value": "{primitive.color.brand.light}",
+          "$description": "Description goes here"
         }
       },
       "border": {
@@ -249,7 +259,12 @@
         "brandAccentSecondary": {
           "parent": "Mode/Dark",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.1300.dark}",
+          "$value": "{primitive.color.brandAccentSecondary.border.dark}",
+          "$description": "Description goes here"
+        },
+        "brand": {
+          "$type": "color",
+          "$value": "{primitive.color.brand.dark}",
           "$description": "Description goes here"
         }
       },
@@ -398,7 +413,7 @@
       "gas": {
         "parent": "Mode/Dark",
         "$type": "color",
-        "$value": "{primitive.colorRamp.blue.600.dark}",
+        "$value": "{primitive.colorRamp.purple.700.light}",
         "$description": "Description goes here"
       },
       "electric": {
