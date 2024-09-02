@@ -79,6 +79,11 @@
           "type": "color",
           "parent": "Mode/Light",
           "description": "Description goes here"
+        },
+        "brand": {
+          "value": "{primitive.color.brand.light}",
+          "type": "color",
+          "description": "Description goes here"
         }
       },
       "foreground": {
@@ -201,6 +206,11 @@
           "type": "color",
           "parent": "Mode/Light",
           "description": "Description goes here"
+        },
+        "onNeutralBrand": {
+          "value": "{primitive.color.brand.light}",
+          "type": "color",
+          "description": "Description goes here"
         }
       },
       "border": {
@@ -247,9 +257,14 @@
           "description": ""
         },
         "brandAccentSecondary": {
-          "value": "{primitive.color.brandAccentPrimary.border.light}",
+          "value": "{primitive.color.brandAccentPrimary.foreground.light}",
           "type": "color",
           "parent": "Mode/Light",
+          "description": "Description goes here"
+        },
+        "brand": {
+          "value": "{primitive.color.brand.light}",
+          "type": "color",
           "description": "Description goes here"
         }
       },
@@ -396,7 +411,7 @@
   "component": {
     "fuelGauge": {
       "gas": {
-        "value": "{primitive.colorRamp.blue.600.light}",
+        "value": "{primitive.colorRamp.purple.700.dark}",
         "type": "color",
         "parent": "Mode/Light",
         "description": "Description goes here"

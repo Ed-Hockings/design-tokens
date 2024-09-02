@@ -39,7 +39,7 @@
           "description": "Description goes here"
         },
         "warningBottom": {
-          "value": "{primitive.colorRamp.orange.1100.dark}",
+          "value": "{primitive.colorRamp.orange.1300.dark}",
           "type": "color",
           "parent": "Mode/Dark",
           "description": "Description goes here"
@@ -79,6 +79,11 @@
           "type": "color",
           "parent": "Mode/Dark",
           "description": "Description goes here"
+        },
+        "brand": {
+          "value": "{primitive.color.brand.dark}",
+          "type": "color",
+          "description": "Description goes here"
         }
       },
       "foreground": {
@@ -89,13 +94,13 @@
           "description": "Use for headings and labels"
         },
         "onNeutralSubtle": {
-          "value": "{primitive.colorRamp.brandNeutral.300.dark}",
+          "value": "{primitive.colorRamp.brandNeutral.200.dark}",
           "type": "color",
           "parent": "Mode/Dark",
           "description": "Use for body and labels"
         },
         "onNeutralSubtler": {
-          "value": "{primitive.colorRamp.brandNeutral.200.dark}",
+          "value": "{primitive.colorRamp.brandNeutral.300.dark}",
           "type": "color",
           "parent": "Mode/Dark",
           "description": "Use for supplementary content"
@@ -201,6 +206,11 @@
           "type": "color",
           "parent": "Mode/Dark",
           "description": "Description goes here"
+        },
+        "onNeutralBrand": {
+          "value": "{primitive.color.brand.light}",
+          "type": "color",
+          "description": "Description goes here"
         }
       },
       "border": {
@@ -247,9 +257,14 @@
           "description": ""
         },
         "brandAccentSecondary": {
-          "value": "{primitive.colorRamp.brandNeutral.1300.dark}",
+          "value": "{primitive.color.brandAccentSecondary.border.dark}",
           "type": "color",
           "parent": "Mode/Dark",
+          "description": "Description goes here"
+        },
+        "brand": {
+          "value": "{primitive.color.brand.dark}",
+          "type": "color",
           "description": "Description goes here"
         }
       },
@@ -396,7 +411,7 @@
   "component": {
     "fuelGauge": {
       "gas": {
-        "value": "{primitive.colorRamp.blue.600.dark}",
+        "value": "{primitive.colorRamp.purple.700.light}",
         "type": "color",
         "parent": "Mode/Dark",
         "description": "Description goes here"

@@ -1888,16 +1888,14 @@
         },
         "border": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.light}",
+            "value": "{primitive.colorRamp.brandAccentPrimary.800.dark}",
             "type": "color",
-            "parent": "Brand/Subaru",
-            "description": ""
+            "parent": "Brand/Subaru"
           },
           "dark": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
+            "value": "{primitive.colorRamp.brandAccentPrimary.600.dark}",
             "type": "color",
-            "parent": "Brand/Subaru",
-            "description": ""
+            "parent": "Brand/Subaru"
           }
         },
         "onBackground": {
@@ -1918,10 +1916,9 @@
       "brandAccentSecondary": {
         "background": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.light}",
+            "value": "{primitive.colorRamp.brandAccentPrimary.600.light}",
             "type": "color",
-            "parent": "Brand/Subaru",
-            "description": ""
+            "parent": "Brand/Subaru"
           },
           "dark": {
             "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
@@ -1932,10 +1929,9 @@
         },
         "foreground": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.light}",
+            "value": "{primitive.colorRamp.brandAccentPrimary.600.light}",
             "type": "color",
-            "parent": "Brand/Subaru",
-            "description": ""
+            "parent": "Brand/Subaru"
           },
           "dark": {
             "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
@@ -1946,10 +1942,9 @@
         },
         "border": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.light}",
+            "value": "{primitive.colorRamp.brandAccentPrimary.600.light}",
             "type": "color",
-            "parent": "Brand/Subaru",
-            "description": ""
+            "parent": "Brand/Subaru"
           },
           "dark": {
             "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
@@ -1966,25 +1961,33 @@
             "description": ""
           },
           "dark": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
+            "value": "{primitive.colorRamp.brandAccentPrimary.800.dark}",
             "type": "color",
-            "parent": "Brand/Subaru",
-            "description": ""
+            "parent": "Brand/Subaru"
           }
         }
       },
       "icon": {
         "light": {
-          "value": "{primitive.colorRamp.brandAccentPrimary.300.light}",
+          "value": "{primitive.colorRamp.brandAccentPrimary.400.light}",
           "type": "color",
-          "parent": "Brand/Subaru",
-          "description": ""
+          "parent": "Brand/Subaru"
         },
         "dark": {
           "value": "{primitive.colorRamp.brandAccentPrimary.200.dark}",
           "type": "color",
           "parent": "Brand/Subaru",
           "description": ""
+        }
+      },
+      "brand": {
+        "light": {
+          "value": "#0099d4",
+          "type": "color"
+        },
+        "dark": {
+          "value": "#0099d4",
+          "type": "color"
         }
       }
     }
@@ -2033,6 +2036,10 @@
           "type": "text",
           "parent": "Brand/Subaru",
           "description": ""
+        },
+        "medium": {
+          "value": "Regular",
+          "type": "text"
         }
       },
       "fontFamily": {

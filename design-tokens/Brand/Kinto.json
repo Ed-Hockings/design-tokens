@@ -1888,16 +1888,14 @@
         },
         "border": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.light}",
+            "value": "{primitive.colorRamp.brandAccentPrimary.500.dark}",
             "type": "color",
-            "parent": "Brand/Kinto",
-            "description": ""
+            "parent": "Brand/Kinto"
           },
           "dark": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
+            "value": "{primitive.colorRamp.brandAccentPrimary.300.dark}",
             "type": "color",
-            "parent": "Brand/Kinto",
-            "description": ""
+            "parent": "Brand/Kinto"
           }
         },
         "onBackground": {
@@ -1918,10 +1916,9 @@
       "brandAccentSecondary": {
         "background": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.light}",
+            "value": "{primitive.colorRamp.brandAccentPrimary.600.light}",
             "type": "color",
-            "parent": "Brand/Kinto",
-            "description": ""
+            "parent": "Brand/Kinto"
           },
           "dark": {
             "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
@@ -1932,10 +1929,9 @@
         },
         "foreground": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.light}",
+            "value": "{primitive.colorRamp.brandAccentPrimary.600.light}",
             "type": "color",
-            "parent": "Brand/Kinto",
-            "description": ""
+            "parent": "Brand/Kinto"
           },
           "dark": {
             "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
@@ -1946,10 +1942,9 @@
         },
         "border": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.light}",
+            "value": "{primitive.colorRamp.brandAccentPrimary.600.light}",
             "type": "color",
-            "parent": "Brand/Kinto",
-            "description": ""
+            "parent": "Brand/Kinto"
           },
           "dark": {
             "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
@@ -1966,10 +1961,9 @@
             "description": ""
           },
           "dark": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
+            "value": "{primitive.colorRamp.brandAccentPrimary.900.dark}",
             "type": "color",
-            "parent": "Brand/Kinto",
-            "description": ""
+            "parent": "Brand/Kinto"
           }
         }
       },
@@ -1985,6 +1979,16 @@
           "type": "color",
           "parent": "Brand/Kinto",
           "description": ""
+        }
+      },
+      "brand": {
+        "light": {
+          "value": "#04708c",
+          "type": "color"
+        },
+        "dark": {
+          "value": "#04708c",
+          "type": "color"
         }
       }
     }
@@ -2023,16 +2027,18 @@
           "description": ""
         },
         "bold": {
-          "value": "SemiBold",
+          "value": "Bold",
           "type": "text",
-          "parent": "Brand/Kinto",
-          "description": ""
+          "parent": "Brand/Kinto"
         },
         "title": {
-          "value": "Book",
+          "value": "Bold",
           "type": "text",
-          "parent": "Brand/Kinto",
-          "description": ""
+          "parent": "Brand/Kinto"
+        },
+        "medium": {
+          "value": "Regular",
+          "type": "text"
         }
       },
       "fontFamily": {
