@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": "b8a1d3b34b063048f1e934a15dbbbfe46f420e7a",
+    "name": "toyotaLight",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Mode/Light": "enabled",
+      "Brand/Toyota": "enabled"
+    }
+  },
+  {
+    "id": "3df02b15d10434ffbaa62413acdacb63c67117d7",
+    "name": "lexusLight",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Mode/Light": "enabled",
+      "Brand/Lexus": "enabled"
+    }
+  },
+  {
+    "id": "f4844c548de2f28fa8157984cdfbb39b71b00637",
+    "name": "subaruLight",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Mode/Light": "enabled",
+      "Brand/Subaru": "enabled"
+    }
+  },
+  {
+    "id": "ea020dc259d938586dd3ee0339936e3971fa4f15",
+    "name": "kintoLight",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Mode/Light": "enabled",
+      "Brand/Kinto": "enabled"
+    }
+  },
+  {
+    "id": "adde55934f2309bb728c3881c9a3e64a7f18ad02",
+    "name": "toyotaDark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Mode/Dark": "enabled",
+      "Brand/Toyota": "enabled"
+    }
+  },
+  {
+    "id": "c4c70a21aa8e4584bf13595ff49e6fc536c99d89",
+    "name": "lexusDark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Mode/Light": "enabled",
+      "Brand/Lexus": "enabled"
+    }
+  },
+  {
+    "id": "a47d702e0298019f9373e1cfa888055ad76fd185",
+    "name": "subaruDark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Mode/Dark": "enabled",
+      "Brand/Subaru": "enabled"
+    }
+  },
+  {
+    "id": "d85d7abe7f78374f9c1cd0e035a7ed34cc1fc516",
+    "name": "kintoDark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled",
+      "Mode/Dark": "enabled",
+      "Brand/Kinto": "enabled"
+    }
+  }
+]
