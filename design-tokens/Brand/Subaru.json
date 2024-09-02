@@ -1889,15 +1889,13 @@
         "border": {
           "light": {
             "parent": "Brand/Subaru",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
+            "$value": "{primitive.colorRamp.brandAccentPrimary.800.dark}"
           },
           "dark": {
             "parent": "Brand/Subaru",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
+            "$value": "{primitive.colorRamp.brandAccentPrimary.600.dark}"
           }
         },
         "onBackground": {
@@ -1919,9 +1917,8 @@
         "background": {
           "light": {
             "parent": "Brand/Subaru",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
+            "$value": "{primitive.colorRamp.brandAccentPrimary.600.light}"
           },
           "dark": {
             "parent": "Brand/Subaru",
@@ -1933,9 +1930,8 @@
         "foreground": {
           "light": {
             "parent": "Brand/Subaru",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
+            "$value": "{primitive.colorRamp.brandAccentPrimary.600.light}"
           },
           "dark": {
             "parent": "Brand/Subaru",
@@ -1947,9 +1943,8 @@
         "border": {
           "light": {
             "parent": "Brand/Subaru",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
+            "$value": "{primitive.colorRamp.brandAccentPrimary.600.light}"
           },
           "dark": {
             "parent": "Brand/Subaru",
@@ -1967,24 +1962,32 @@
           },
           "dark": {
             "parent": "Brand/Subaru",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
+            "$value": "{primitive.colorRamp.brandAccentPrimary.800.dark}"
           }
         }
       },
       "icon": {
         "light": {
           "parent": "Brand/Subaru",
-          "description": "",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandAccentPrimary.300.light}"
+          "$value": "{primitive.colorRamp.brandAccentPrimary.400.light}"
         },
         "dark": {
           "parent": "Brand/Subaru",
           "description": "",
           "$type": "color",
           "$value": "{primitive.colorRamp.brandAccentPrimary.200.dark}"
+        }
+      },
+      "brand": {
+        "light": {
+          "$type": "color",
+          "$value": "#0099d4"
+        },
+        "dark": {
+          "$type": "color",
+          "$value": "#0099d4"
         }
       }
     }
@@ -2033,6 +2036,10 @@
           "description": "",
           "$type": "text",
           "$value": "Bold"
+        },
+        "medium": {
+          "$type": "text",
+          "$value": "Regular"
         }
       },
       "fontFamily": {

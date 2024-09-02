@@ -79,6 +79,11 @@
           "$type": "color",
           "$value": "{primitive.color.brandAccentPrimary.background.light}",
           "$description": "Description goes here"
+        },
+        "brand": {
+          "$type": "color",
+          "$value": "{primitive.color.brand.light}",
+          "$description": "Description goes here"
         }
       },
       "foreground": {
@@ -201,6 +206,11 @@
           "$type": "color",
           "$value": "{primitive.color.icon.light}",
           "$description": "Description goes here"
+        },
+        "onNeutralBrand": {
+          "$type": "color",
+          "$value": "{primitive.color.brand.light}",
+          "$description": "Description goes here"
         }
       },
       "border": {
@@ -249,7 +259,12 @@
         "brandAccentSecondary": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.color.brandAccentPrimary.border.light}",
+          "$value": "{primitive.color.brandAccentPrimary.foreground.light}",
+          "$description": "Description goes here"
+        },
+        "brand": {
+          "$type": "color",
+          "$value": "{primitive.color.brand.light}",
           "$description": "Description goes here"
         }
       },
@@ -398,7 +413,7 @@
       "gas": {
         "parent": "Mode/Light",
         "$type": "color",
-        "$value": "{primitive.colorRamp.blue.600.light}",
+        "$value": "{primitive.colorRamp.purple.700.dark}",
         "$description": "Description goes here"
       },
       "electric": {

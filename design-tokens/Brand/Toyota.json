@@ -1986,6 +1986,16 @@
           "$type": "color",
           "$value": "{primitive.colorRamp.brandNeutral.100.dark}"
         }
+      },
+      "brand": {
+        "light": {
+          "$type": "color",
+          "$value": "#ff0022"
+        },
+        "dark": {
+          "$type": "color",
+          "$value": "#ff0022"
+        }
       }
     }
   },
@@ -2033,6 +2043,10 @@
           "description": "",
           "$type": "text",
           "$value": "Book"
+        },
+        "medium": {
+          "$type": "text",
+          "$value": "Medium"
         }
       },
       "fontFamily": {
