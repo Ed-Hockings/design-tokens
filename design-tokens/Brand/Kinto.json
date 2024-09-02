@@ -4,1840 +4,1840 @@
       "brandNeutral": {
         "100": {
           "light": {
-            "value": "#000000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#000000",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
           },
           "dark": {
-            "value": "#ffffff",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
+            "$type": "color",
+            "$value": "#ffffff",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           }
         },
         "200": {
           "dark": {
-            "value": "#cce2e8",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
+            "$type": "color",
+            "$value": "#cce2e8",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
-            "value": "#191b1e",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#191b1e",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
           }
         },
         "300": {
           "dark": {
-            "value": "#99c6d1",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
+            "$type": "color",
+            "$value": "#99c6d1",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
-            "value": "#2e3035",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#2e3035",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
           }
         },
         "400": {
           "dark": {
-            "value": "#80b8c6",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
+            "$type": "color",
+            "$value": "#80b8c6",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
-            "value": "#434750",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#434750",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
           }
         },
         "500": {
           "dark": {
-            "value": "#4d6e77",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
+            "$type": "color",
+            "$value": "#4d6e77",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
-            "value": "#595e67",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#595e67",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
         "600": {
           "dark": {
-            "value": "#335964",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
+            "$type": "color",
+            "$value": "#335964",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
-            "value": "#6d727a",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#6d727a",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
-            "value": "#1a4550",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
+            "$type": "color",
+            "$value": "#1a4550",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
-            "value": "#7f848c",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#7f848c",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
           }
         },
         "800": {
           "dark": {
-            "value": "#00303d",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#00303d",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
-            "value": "#a7abb0",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#a7abb0",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
           }
         },
         "900": {
           "dark": {
-            "value": "#002b37",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
+            "$type": "color",
+            "$value": "#002b37",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
-            "value": "#c2c6ca",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#c2c6ca",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
           }
         },
         "1000": {
           "dark": {
-            "value": "#001d25",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#001d25",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
-            "value": "#e0e2e5",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#e0e2e5",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
           }
         },
         "1100": {
           "dark": {
-            "value": "#001318",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
+            "$type": "color",
+            "$value": "#001318",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
-            "value": "#f0f0f2",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#f0f0f2",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
-            "value": "#000a0c",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
+            "$type": "color",
+            "$value": "#000a0c",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
-            "value": "#fcfcfc",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fcfcfc",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
           }
         },
         "1300": {
           "dark": {
-            "value": "#000000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
+            "$type": "color",
+            "$value": "#000000",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
-            "value": "#fefefe",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fefefe",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
       },
       "brandAccentPrimary": {
         "100": {
           "dark": {
-            "value": "#ffffff",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
+            "$type": "color",
+            "$value": "#ffffff",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
-            "value": "#000000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#000000",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
           }
         },
         "200": {
           "dark": {
-            "value": "#d6e8ed",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
+            "$type": "color",
+            "$value": "#d6e8ed",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
-            "value": "#001b22",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#001b22",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
           }
         },
         "300": {
           "dark": {
-            "value": "#b3d4dd",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
+            "$type": "color",
+            "$value": "#b3d4dd",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
-            "value": "#002d39",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#002d39",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
           }
         },
         "400": {
           "dark": {
-            "value": "#8fc0cd",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
+            "$type": "color",
+            "$value": "#8fc0cd",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
-            "value": "#004151",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#004151",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
           }
         },
         "500": {
           "dark": {
-            "value": "#69abbc",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
+            "$type": "color",
+            "$value": "#69abbc",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
-            "value": "#00556b",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#00556b",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
         "600": {
           "dark": {
-            "value": "#4596ac",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
+            "$type": "color",
+            "$value": "#4596ac",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
-            "value": "#196a7f",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#196a7f",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
-            "value": "#1d809a",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
+            "$type": "color",
+            "$value": "#1d809a",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
-            "value": "#397f91",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#397f91",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
           }
         },
         "800": {
           "dark": {
-            "value": "#006a86",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#006a86",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
-            "value": "#5a94a3",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#5a94a3",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
           }
         },
         "900": {
           "dark": {
-            "value": "#00566c",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
+            "$type": "color",
+            "$value": "#00566c",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
-            "value": "#79a8b5",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#79a8b5",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
           }
         },
         "1000": {
           "dark": {
-            "value": "#004151",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#004151",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
-            "value": "#9abec7",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#9abec7",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
           }
         },
         "1100": {
           "dark": {
-            "value": "#002d39",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
+            "$type": "color",
+            "$value": "#002d39",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
-            "value": "#bbd3d9",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#bbd3d9",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
-            "value": "#001b23",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
+            "$type": "color",
+            "$value": "#001b23",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
-            "value": "#dbe8eb",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#dbe8eb",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
           }
         },
         "1300": {
           "dark": {
-            "value": "#000000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
+            "$type": "color",
+            "$value": "#000000",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
-            "value": "#fcfdfe",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fcfdfe",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
       },
       "red": {
         "100": {
           "dark": {
-            "value": "#ffffff",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
+            "$type": "color",
+            "$value": "#ffffff",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
-            "value": "#000000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#000000",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
           }
         },
         "200": {
           "dark": {
-            "value": "#ffe2e0",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
+            "$type": "color",
+            "$value": "#ffe2e0",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
-            "value": "#3a0805",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#3a0805",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
           }
         },
         "300": {
           "dark": {
-            "value": "#ffbcb8",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
+            "$type": "color",
+            "$value": "#ffbcb8",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
-            "value": "#620d08",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#620d08",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
           }
         },
         "400": {
           "dark": {
-            "value": "#ff8b83",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
+            "$type": "color",
+            "$value": "#ff8b83",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
-            "value": "#8e140c",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#8e140c",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
           }
         },
         "500": {
           "dark": {
-            "value": "#ff5044",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
+            "$type": "color",
+            "$value": "#ff5044",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
-            "value": "#b91c13",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#b91c13",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
         "600": {
           "dark": {
-            "value": "#e82c20",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
+            "$type": "color",
+            "$value": "#e82c20",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
-            "value": "#dc271c",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#dc271c",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
-            "value": "#ca2117",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
+            "$type": "color",
+            "$value": "#ca2117",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
-            "value": "#f9362a",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#f9362a",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
           }
         },
         "800": {
           "dark": {
-            "value": "#91140d",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#91140d",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
-            "value": "#ff8980",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#ff8980",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
           }
         },
         "900": {
           "dark": {
-            "value": "#6d0f09",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
+            "$type": "color",
+            "$value": "#6d0f09",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
-            "value": "#ffb2ad",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#ffb2ad",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
           }
         },
         "1000": {
           "dark": {
-            "value": "#450a06",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#450a06",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
-            "value": "#ffd8d5",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#ffd8d5",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
           }
         },
         "1100": {
           "dark": {
-            "value": "#2c0604",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
+            "$type": "color",
+            "$value": "#2c0604",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
-            "value": "#ffedec",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#ffedec",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
-            "value": "#110302",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
+            "$type": "color",
+            "$value": "#110302",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
-            "value": "#fff9f8",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fff9f8",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
           }
         },
         "1300": {
           "dark": {
-            "value": "#040101",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
+            "$type": "color",
+            "$value": "#040101",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
-            "value": "#fffdfd",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fffdfd",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
       },
       "blue": {
         "100": {
           "dark": {
-            "value": "#ffffff",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
+            "$type": "color",
+            "$value": "#ffffff",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
-            "value": "#000000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#000000",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
           }
         },
         "200": {
           "dark": {
-            "value": "#e4e8fb",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
+            "$type": "color",
+            "$value": "#e4e8fb",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
-            "value": "#0d193b",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#0d193b",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
           }
         },
         "300": {
           "dark": {
-            "value": "#c3cbf5",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
+            "$type": "color",
+            "$value": "#c3cbf5",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
-            "value": "#172b6a",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#172b6a",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
           }
         },
         "400": {
           "dark": {
-            "value": "#99a9f1",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
+            "$type": "color",
+            "$value": "#99a9f1",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
-            "value": "#1e3da4",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#1e3da4",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
           }
         },
         "500": {
           "dark": {
-            "value": "#7089ec",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
+            "$type": "color",
+            "$value": "#7089ec",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
-            "value": "#224ee0",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#224ee0",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
         "600": {
           "dark": {
-            "value": "#4b70eb",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
+            "$type": "color",
+            "$value": "#4b70eb",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
-            "value": "#4067ea",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#4067ea",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
-            "value": "#315ae6",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
+            "$type": "color",
+            "$value": "#315ae6",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
-            "value": "#5e7dec",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#5e7dec",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
           }
         },
         "800": {
           "dark": {
-            "value": "#1e3ea7",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#1e3ea7",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
-            "value": "#97a7f0",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#97a7f0",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
           }
         },
         "900": {
           "dark": {
-            "value": "#193075",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
+            "$type": "color",
+            "$value": "#193075",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
-            "value": "#b9c3f4",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#b9c3f4",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
           }
         },
         "1000": {
           "dark": {
-            "value": "#101e4a",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#101e4a",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
-            "value": "#dbe0f9",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#dbe0f9",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
           }
         },
         "1100": {
           "dark": {
-            "value": "#0a122c",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
+            "$type": "color",
+            "$value": "#0a122c",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
-            "value": "#eff1fc",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#eff1fc",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
-            "value": "#03050c",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
+            "$type": "color",
+            "$value": "#03050c",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
-            "value": "#fbfcfe",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fbfcfe",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
           }
         },
         "1300": {
           "dark": {
-            "value": "#010206",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
+            "$type": "color",
+            "$value": "#010206",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
-            "value": "#fefeff",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fefeff",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
       },
       "gray": {
         "100": {
           "dark": {
-            "value": "#ffffff",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
+            "$type": "color",
+            "$value": "#ffffff",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
-            "value": "#000000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#000000",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
           }
         },
         "200": {
           "dark": {
-            "value": "#e8e8e8",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
+            "$type": "color",
+            "$value": "#e8e8e8",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
-            "value": "#1b1b1b",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#1b1b1b",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
           }
         },
         "300": {
           "dark": {
-            "value": "#cdcdcd",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
+            "$type": "color",
+            "$value": "#cdcdcd",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
-            "value": "#303030",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#303030",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
           }
         },
         "400": {
           "dark": {
-            "value": "#acacac",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
+            "$type": "color",
+            "$value": "#acacac",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
-            "value": "#474747",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#474747",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
           }
         },
         "500": {
           "dark": {
-            "value": "#8f8f8f",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
+            "$type": "color",
+            "$value": "#8f8f8f",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
-            "value": "#5e5e5e",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#5e5e5e",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
         "600": {
           "dark": {
-            "value": "#797979",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
+            "$type": "color",
+            "$value": "#797979",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
-            "value": "#727272",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#727272",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
-            "value": "#676767",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
+            "$type": "color",
+            "$value": "#676767",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
-            "value": "#848484",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#848484",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
           }
         },
         "800": {
           "dark": {
-            "value": "#484848",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#484848",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
-            "value": "#ababab",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#ababab",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
           }
         },
         "900": {
           "dark": {
-            "value": "#353535",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
+            "$type": "color",
+            "$value": "#353535",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
-            "value": "#c6c6c6",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#c6c6c6",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
           }
         },
         "1000": {
           "dark": {
-            "value": "#212121",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#212121",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
-            "value": "#e1e1e1",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#e1e1e1",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
           }
         },
         "1100": {
           "dark": {
-            "value": "#141414",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
+            "$type": "color",
+            "$value": "#141414",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
-            "value": "#f1f1f1",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#f1f1f1",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
-            "value": "#060606",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
+            "$type": "color",
+            "$value": "#060606",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
-            "value": "#fbfbfb",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fbfbfb",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
           }
         },
         "1300": {
           "dark": {
-            "value": "#020202",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
+            "$type": "color",
+            "$value": "#020202",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
-            "value": "#fefefe",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fefefe",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
       },
       "teal": {
         "100": {
           "dark": {
-            "value": "#ffffff",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
+            "$type": "color",
+            "$value": "#ffffff",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
-            "value": "#000000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#000000",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
           }
         },
         "200": {
           "dark": {
-            "value": "#ccf0eb",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
+            "$type": "color",
+            "$value": "#ccf0eb",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
-            "value": "#001f1b",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#001f1b",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
           }
         },
         "300": {
           "dark": {
-            "value": "#87dcd2",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
+            "$type": "color",
+            "$value": "#87dcd2",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
-            "value": "#003730",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#003730",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
           }
         },
         "400": {
           "dark": {
-            "value": "#3bbfaf",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
+            "$type": "color",
+            "$value": "#3bbfaf",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
-            "value": "#005046",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#005046",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
           }
         },
         "500": {
           "dark": {
-            "value": "#0fa08f",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
+            "$type": "color",
+            "$value": "#0fa08f",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
-            "value": "#006a5d",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#006a5d",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
         "600": {
           "dark": {
-            "value": "#038878",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
+            "$type": "color",
+            "$value": "#038878",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
-            "value": "#018071",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#018071",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
-            "value": "#007566",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
+            "$type": "color",
+            "$value": "#007566",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
-            "value": "#089483",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#089483",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
           }
         },
         "800": {
           "dark": {
-            "value": "#005248",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#005248",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
-            "value": "#38bead",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#38bead",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
           }
         },
         "900": {
           "dark": {
-            "value": "#003d35",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
+            "$type": "color",
+            "$value": "#003d35",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
-            "value": "#74d6ca",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#74d6ca",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
           }
         },
         "1000": {
           "dark": {
-            "value": "#002722",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#002722",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
-            "value": "#b9ebe5",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#b9ebe5",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
           }
         },
         "1100": {
           "dark": {
-            "value": "#001714",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
+            "$type": "color",
+            "$value": "#001714",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
-            "value": "#dff5f2",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#dff5f2",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
-            "value": "#000807",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
+            "$type": "color",
+            "$value": "#000807",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
-            "value": "#f7fcfc",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#f7fcfc",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
           }
         },
         "1300": {
           "dark": {
-            "value": "#000302",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
+            "$type": "color",
+            "$value": "#000302",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
-            "value": "#fbfefd",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fbfefd",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
       },
       "green": {
         "100": {
           "dark": {
-            "value": "#ffffff",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
+            "$type": "color",
+            "$value": "#ffffff",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
-            "value": "#000000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#000000",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
           }
         },
         "200": {
           "dark": {
-            "value": "#c1f5ce",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
+            "$type": "color",
+            "$value": "#c1f5ce",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
-            "value": "#05200c",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#05200c",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
           }
         },
         "300": {
           "dark": {
-            "value": "#6ee48b",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
+            "$type": "color",
+            "$value": "#6ee48b",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
-            "value": "#083814",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#083814",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
           }
         },
         "400": {
           "dark": {
-            "value": "#34c558",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
+            "$type": "color",
+            "$value": "#34c558",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
-            "value": "#0c521d",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#0c521d",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
           }
         },
         "500": {
           "dark": {
-            "value": "#20a440",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
+            "$type": "color",
+            "$value": "#20a440",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
-            "value": "#106d27",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#106d27",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
         "600": {
           "dark": {
-            "value": "#178b34",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
+            "$type": "color",
+            "$value": "#178b34",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
-            "value": "#158330",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#158330",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
-            "value": "#13782c",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
+            "$type": "color",
+            "$value": "#13782c",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
-            "value": "#1b983a",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#1b983a",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
           }
         },
         "800": {
           "dark": {
-            "value": "#0c541e",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#0c541e",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
-            "value": "#32c355",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#32c355",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
           }
         },
         "900": {
           "dark": {
-            "value": "#093e16",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
+            "$type": "color",
+            "$value": "#093e16",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
-            "value": "#5bde7b",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#5bde7b",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
           }
         },
         "1000": {
           "dark": {
-            "value": "#06270e",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#06270e",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
-            "value": "#a9f2bb",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#a9f2bb",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
           }
         },
         "1100": {
           "dark": {
-            "value": "#041809",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
+            "$type": "color",
+            "$value": "#041809",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
-            "value": "#daf9e1",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#daf9e1",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
-            "value": "#020803",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
+            "$type": "color",
+            "$value": "#020803",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
-            "value": "#f6fdf8",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#f6fdf8",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
           }
         },
         "1300": {
           "dark": {
-            "value": "#010301",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
+            "$type": "color",
+            "$value": "#010301",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
-            "value": "#fdfefd",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fdfefd",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
       },
       "orange": {
         "100": {
           "dark": {
-            "value": "#fdefe6",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
+            "$type": "color",
+            "$value": "#fdefe6",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
-            "value": "#451d00",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#451d00",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
           }
         },
         "200": {
           "dark": {
-            "value": "#f8cfb3",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
+            "$type": "color",
+            "$value": "#f8cfb3",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
-            "value": "#733000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#733000",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
           }
         },
         "300": {
           "dark": {
-            "value": "#f3b080",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
+            "$type": "color",
+            "$value": "#f3b080",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
-            "value": "#a14300",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#a14300",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
           }
         },
         "400": {
           "dark": {
-            "value": "#f0a066",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
+            "$type": "color",
+            "$value": "#f0a066",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
-            "value": "#b84d00",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#b84d00",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
           }
         },
         "500": {
           "dark": {
-            "value": "#ee904d",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
+            "$type": "color",
+            "$value": "#ee904d",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
-            "value": "#cf5600",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#cf5600",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
         "600": {
           "dark": {
-            "value": "#eb8033",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
+            "$type": "color",
+            "$value": "#eb8033",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
-            "value": "#e66000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#e66000",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
-            "value": "#e9701a",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
+            "$type": "color",
+            "$value": "#e9701a",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
-            "value": "#e9701a",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#e9701a",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
           }
         },
         "800": {
           "dark": {
-            "value": "#e66000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#e66000",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
-            "value": "#eb8033",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#eb8033",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
           }
         },
         "900": {
           "dark": {
-            "value": "#cf5600",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
+            "$type": "color",
+            "$value": "#cf5600",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
-            "value": "#ee904d",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#ee904d",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
           }
         },
         "1000": {
           "dark": {
-            "value": "#b84d00",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#b84d00",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
-            "value": "#f0a066",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#f0a066",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
           }
         },
         "1100": {
           "dark": {
-            "value": "#a14300",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
+            "$type": "color",
+            "$value": "#a14300",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
-            "value": "#f3b080",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#f3b080",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
-            "value": "#733000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
+            "$type": "color",
+            "$value": "#733000",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
-            "value": "#f8cfb3",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#f8cfb3",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
           }
         },
         "1300": {
           "dark": {
-            "value": "#451d00",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
+            "$type": "color",
+            "$value": "#451d00",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
-            "value": "#fdefe6",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fdefe6",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
       },
       "purple": {
         "100": {
           "dark": {
-            "value": "#ffffff",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
+            "$type": "color",
+            "$value": "#ffffff",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
-            "value": "#000000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#000000",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
           }
         },
         "200": {
           "dark": {
-            "value": "#eae5fe",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
+            "$type": "color",
+            "$value": "#eae5fe",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
-            "value": "#1b1734",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#1b1734",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
           }
         },
         "300": {
           "dark": {
-            "value": "#cfc6fa",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
+            "$type": "color",
+            "$value": "#cfc6fa",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
-            "value": "#31285b",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#31285b",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
           }
         },
         "400": {
           "dark": {
-            "value": "#afa2f4",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
+            "$type": "color",
+            "$value": "#afa2f4",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
-            "value": "#483b88",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#483b88",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
           }
         },
         "500": {
           "dark": {
-            "value": "#9180e9",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
+            "$type": "color",
+            "$value": "#9180e9",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
-            "value": "#5f4eb4",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#5f4eb4",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
         "600": {
           "dark": {
-            "value": "#7b69d4",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
+            "$type": "color",
+            "$value": "#7b69d4",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
-            "value": "#7462cc",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#7462cc",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
-            "value": "#6957c1",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
+            "$type": "color",
+            "$value": "#6957c1",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
-            "value": "#8674df",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#8674df",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
           }
         },
         "800": {
           "dark": {
-            "value": "#493c8b",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#493c8b",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
-            "value": "#aea0f4",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#aea0f4",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
           }
         },
         "900": {
           "dark": {
-            "value": "#362d65",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
+            "$type": "color",
+            "$value": "#362d65",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
-            "value": "#c9bff9",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#c9bff9",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
           }
         },
         "1000": {
           "dark": {
-            "value": "#211c3e",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#211c3e",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
-            "value": "#e4ddfe",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#e4ddfe",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
           }
         },
         "1100": {
           "dark": {
-            "value": "#131023",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
+            "$type": "color",
+            "$value": "#131023",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
-            "value": "#f2eeff",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#f2eeff",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
-            "value": "#05040a",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
+            "$type": "color",
+            "$value": "#05040a",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
-            "value": "#fcfbff",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fcfbff",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
           }
         },
         "1300": {
           "dark": {
-            "value": "#030205",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
+            "$type": "color",
+            "$value": "#030205",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
-            "value": "#fefdff",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fefdff",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
       },
       "yellow": {
         "100": {
           "dark": {
-            "value": "#ffffff",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
+            "$type": "color",
+            "$value": "#ffffff",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
-            "value": "#000000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#000000",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
           }
         },
         "200": {
           "dark": {
-            "value": "#ffe974",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
+            "$type": "color",
+            "$value": "#ffe974",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
-            "value": "#231a01",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#231a01",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
           }
         },
         "300": {
           "dark": {
-            "value": "#f1c93c",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
+            "$type": "color",
+            "$value": "#f1c93c",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
-            "value": "#3c2e01",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#3c2e01",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
           }
         },
         "400": {
           "dark": {
-            "value": "#d1a716",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
+            "$type": "color",
+            "$value": "#d1a716",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
-            "value": "#574503",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#574503",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
           }
         },
         "500": {
           "dark": {
-            "value": "#af8a05",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
+            "$type": "color",
+            "$value": "#af8a05",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
-            "value": "#735b05",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#735b05",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
         "600": {
           "dark": {
-            "value": "#947508",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
+            "$type": "color",
+            "$value": "#947508",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
-            "value": "#8b6e08",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#8b6e08",
+            "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
-            "value": "#7f6407",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
+            "$type": "color",
+            "$value": "#7f6407",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
-            "value": "#a18007",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#a18007",
+            "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
           }
         },
         "800": {
           "dark": {
-            "value": "#594603",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#594603",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
-            "value": "#cfa615",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#cfa615",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
           }
         },
         "900": {
           "dark": {
-            "value": "#423302",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
+            "$type": "color",
+            "$value": "#423302",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
-            "value": "#ebc233",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#ebc233",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
           }
         },
         "1000": {
           "dark": {
-            "value": "#2a2001",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
+            "$type": "color",
+            "$value": "#2a2001",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
-            "value": "#fde15e",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fde15e",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
           }
         },
         "1100": {
           "dark": {
-            "value": "#1b1300",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
+            "$type": "color",
+            "$value": "#1b1300",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
-            "value": "#fff2b1",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fff2b1",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
-            "value": "#090500",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
+            "$type": "color",
+            "$value": "#090500",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
-            "value": "#fefdea",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fefdea",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
           }
         },
         "1300": {
           "dark": {
-            "value": "#010000",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
+            "$type": "color",
+            "$value": "#010000",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
-            "value": "#fffef3",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
+            "$type": "color",
+            "$value": "#fffef3",
+            "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
       }
@@ -1845,636 +1845,636 @@
     "color": {
       "fixed": {
         "black": {
-          "value": "#000000",
-          "type": "color",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "color",
+          "$value": "#000000"
         },
         "white": {
-          "value": "#ffffff",
-          "type": "color",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "color",
+          "$value": "#ffffff"
         }
       },
       "brandAccentPrimary": {
         "background": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.600.light}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.600.light}"
           },
           "dark": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.700.dark}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.700.dark}"
           }
         },
         "foreground": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.600.light}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.600.light}"
           },
           "dark": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.500.dark}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.500.dark}"
           }
         },
         "border": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.light}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
           },
           "dark": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
           }
         },
         "onBackground": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.1300.light}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.1300.light}"
           },
           "dark": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
           }
         }
       },
       "brandAccentSecondary": {
         "background": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.light}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
           },
           "dark": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
           }
         },
         "foreground": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.light}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
           },
           "dark": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
           }
         },
         "border": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.light}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
           },
           "dark": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
           }
         },
         "onBackground": {
           "light": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.1300.light}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.1300.light}"
           },
           "dark": {
-            "value": "{primitive.colorRamp.brandAccentPrimary.100.dark}",
-            "type": "color",
             "parent": "Brand/Kinto",
-            "description": ""
+            "description": "",
+            "$type": "color",
+            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
           }
         }
       },
       "icon": {
         "light": {
-          "value": "{primitive.colorRamp.brandAccentPrimary.400.light}",
-          "type": "color",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "color",
+          "$value": "{primitive.colorRamp.brandAccentPrimary.400.light}"
         },
         "dark": {
-          "value": "{primitive.colorRamp.brandAccentPrimary.300.dark}",
-          "type": "color",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "color",
+          "$value": "{primitive.colorRamp.brandAccentPrimary.300.dark}"
         }
       }
     }
   },
   "isToyota": {
-    "value": "false",
-    "type": "boolean",
     "parent": "Brand/Kinto",
-    "description": "For Figma Variables"
+    "$type": "boolean",
+    "$value": "false",
+    "$description": "For Figma Variables"
   },
   "isLexus": {
-    "value": "false",
-    "type": "boolean",
     "parent": "Brand/Kinto",
-    "description": "For Figma Variables"
+    "$type": "boolean",
+    "$value": "false",
+    "$description": "For Figma Variables"
   },
   "isSubaru": {
-    "value": "false",
-    "type": "boolean",
     "parent": "Brand/Kinto",
-    "description": "For Figma Variables"
+    "$type": "boolean",
+    "$value": "false",
+    "$description": "For Figma Variables"
   },
   "isKinto": {
-    "value": "true",
-    "type": "boolean",
     "parent": "Brand/Kinto",
-    "description": ""
+    "description": "",
+    "$type": "boolean",
+    "$value": "true"
   },
   "semantic": {
     "type": {
       "fontWeight": {
         "regular": {
-          "value": "Regular",
-          "type": "text",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "text",
+          "$value": "Regular"
         },
         "bold": {
-          "value": "SemiBold",
-          "type": "text",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "text",
+          "$value": "SemiBold"
         },
         "title": {
-          "value": "Book",
-          "type": "text",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "text",
+          "$value": "Book"
         }
       },
       "fontFamily": {
         "brand": {
-          "value": "Toyota Type W02",
-          "type": "text",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "text",
+          "$value": "Toyota Type W02"
         },
         "system": {
-          "value": "Arial",
-          "type": "text",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "text",
+          "$value": "Arial"
         }
       },
       "fontSize": {
         "10": {
-          "value": "0.625rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.625rem"
         },
         "25": {
-          "value": "0.75rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.75rem"
         },
         "50": {
-          "value": "0.875rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.875rem"
         },
         "75": {
-          "value": "1rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "1rem"
         },
         "100": {
-          "value": "1.125rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "1.125rem"
         },
         "200": {
-          "value": "1.25rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "1.25rem"
         },
         "250": {
-          "value": "1.5rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "1.5rem"
         },
         "275": {
-          "value": "1.75rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "1.75rem"
         },
         "300": {
-          "value": "2rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "2rem"
         },
         "350": {
-          "value": "2.25rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "2.25rem"
         },
         "400": {
-          "value": "2.5rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "2.5rem"
         },
         "450": {
-          "value": "2.75rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "2.75rem"
         },
         "475": {
-          "value": "3rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "3rem"
         },
         "500": {
-          "value": "3.25rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "3.25rem"
         },
         "550": {
-          "value": "3.5rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "3.5rem"
         }
       },
       "lineHeight": {
         "10": {
-          "value": "0.875rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.875rem"
         },
         "25": {
-          "value": "1rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "1rem"
         },
         "50": {
-          "value": "1.25rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "1.25rem"
         },
         "75": {
-          "value": "1.375rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "1.375rem"
         },
         "100": {
-          "value": "1.5rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "1.5rem"
         },
         "200": {
-          "value": "1.75rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "1.75rem"
         },
         "250": {
-          "value": "1.75rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "1.75rem"
         },
         "275": {
-          "value": "2rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "2rem"
         },
         "300": {
-          "value": "2.375rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "2.375rem"
         },
         "350": {
-          "value": "2.625rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "2.625rem"
         },
         "400": {
-          "value": "2.875rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "2.875rem"
         },
         "450": {
-          "value": "3.25rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "3.25rem"
         },
         "475": {
-          "value": "3.5rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "3.5rem"
         },
         "500": {
-          "value": "3.75rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "3.75rem"
         },
         "550": {
-          "value": "4rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "4rem"
         }
       },
       "letterSpacing": {
         "large": {
-          "value": "0.011874999850988388rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.011874999850988388rem"
         },
         "small": {
-          "value": "0.012500000186264515rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.012500000186264515rem"
         },
         "xLarge": {
-          "value": "0.013749999925494194rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.013749999925494194rem"
         },
         "xxLarge": {
-          "value": "0.014375000260770321rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.014375000260770321rem"
         },
         "medium": {
-          "value": "0.008750000037252903rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.008750000037252903rem"
         }
       },
       "paragraphSpacing": {
         "none": {
-          "value": "0rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0rem"
         }
       }
     },
     "layout": {
       "space": {
         "none": {
-          "value": "0rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Equates to `0`. Use for resetting default spacing styles."
+          "$type": "dimension",
+          "$value": "0rem",
+          "$description": "Equates to `0`. Use for resetting default spacing styles."
         },
         "mini": {
-          "value": "0.125rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for small and compact pieces of UI."
+          "$type": "dimension",
+          "$value": "0.125rem",
+          "$description": "Use for small and compact pieces of UI."
         },
         "xxxSmall": {
-          "value": "0.25rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for small and compact pieces of UI."
+          "$type": "dimension",
+          "$value": "0.25rem",
+          "$description": "Use for small and compact pieces of UI."
         },
         "xxSmall": {
-          "value": "0.375rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for small and compact pieces of UI."
+          "$type": "dimension",
+          "$value": "0.375rem",
+          "$description": "Use for small and compact pieces of UI."
         },
         "xSmall": {
-          "value": "0.5rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for small and compact pieces of UI."
+          "$type": "dimension",
+          "$value": "0.5rem",
+          "$description": "Use for small and compact pieces of UI."
         },
         "small": {
-          "value": "0.75rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for larger and less dense pieces of UI."
+          "$type": "dimension",
+          "$value": "0.75rem",
+          "$description": "Use for larger and less dense pieces of UI."
         },
         "medium": {
-          "value": "1rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for larger and less dense pieces of UI."
+          "$type": "dimension",
+          "$value": "1rem",
+          "$description": "Use for larger and less dense pieces of UI."
         },
         "large": {
-          "value": "1.25rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for larger and less dense pieces of UI."
+          "$type": "dimension",
+          "$value": "1.25rem",
+          "$description": "Use for larger and less dense pieces of UI."
         },
         "xLarge": {
-          "value": "1.5rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for larger and less dense pieces of UI."
+          "$type": "dimension",
+          "$value": "1.5rem",
+          "$description": "Use for larger and less dense pieces of UI."
         },
         "xxLarge": {
-          "value": "2rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for the largest pieces of UI and for layout elements."
+          "$type": "dimension",
+          "$value": "2rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
         },
         "xxxLarge": {
-          "value": "2.5rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for the largest pieces of UI and for layout elements."
+          "$type": "dimension",
+          "$value": "2.5rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
         },
         "huge": {
-          "value": "3rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for the largest pieces of UI and for layout elements."
+          "$type": "dimension",
+          "$value": "3rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
         },
         "xHuge": {
-          "value": "3.5rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for the largest pieces of UI and for layout elements."
+          "$type": "dimension",
+          "$value": "3.5rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
         },
         "xxHuge": {
-          "value": "4rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for the largest pieces of UI and for layout elements."
+          "$type": "dimension",
+          "$value": "4rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
         },
         "xxxHuge": {
-          "value": "4.5rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for the largest pieces of UI and for layout elements."
+          "$type": "dimension",
+          "$value": "4.5rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
         },
         "giant": {
-          "value": "5rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for the largest pieces of UI and for layout elements."
+          "$type": "dimension",
+          "$value": "5rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
         },
         "xGiant": {
-          "value": "6rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Use for the largest pieces of UI and for layout elements."
+          "$type": "dimension",
+          "$value": "6rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
         }
       },
       "section": {
         "paddingHorizontal": {
-          "value": "{semantic.layout.space.xLarge}",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Horizontal section padding"
+          "$type": "dimension",
+          "$value": "{semantic.layout.space.xLarge}",
+          "$description": "Horizontal section padding"
         },
         "gapBetweenItems": {
-          "value": "{semantic.layout.space.medium}",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "The gap between items"
+          "$type": "dimension",
+          "$value": "{semantic.layout.space.medium}",
+          "$description": "The gap between items"
         },
         "paddingVertical": {
-          "value": "{semantic.layout.space.medium}",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": "Horizontal section padding"
+          "$type": "dimension",
+          "$value": "{semantic.layout.space.medium}",
+          "$description": "Horizontal section padding"
         }
       }
     },
     "border": {
       "radius": {
         "xxSmall": {
-          "value": "0.125rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.125rem"
         },
         "xSmall": {
-          "value": "0.25rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.25rem"
         },
         "small": {
-          "value": "0.5rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.5rem"
         },
         "medium": {
-          "value": "0.75rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.75rem"
         },
         "large": {
-          "value": "1rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "1rem"
         },
         "xLarge": {
-          "value": "1.5rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "1.5rem"
         },
         "xxLarge": {
-          "value": "2rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "2rem"
         },
         "circle": {
-          "value": "25rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "25rem"
         },
         "none": {
-          "value": "0rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0rem"
         }
       },
       "width": {
         "medium": {
-          "value": "0.0625rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.0625rem"
         },
         "thick": {
-          "value": "0.125rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.125rem"
         },
         "heavy": {
-          "value": "0.25rem",
-          "type": "dimension",
           "parent": "Brand/Kinto",
-          "description": ""
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.25rem"
         }
       }
     }

@@ -2,20 +2,21 @@
   "gradient": {
     "climate": {
       "toyotaLight": {
-        "description": "blue60, blue30, red60",
-        "value": "linear-gradient(90deg, #497cff 0%, #163ea4 51.04%, #f9362a 100%)",
-        "type": "color"
+        "$type": "color",
+        "$value": "linear-gradient(90deg, #497cff 0%, #163ea4 51.04%, #f9362a 100%)",
+        "$description": "blue60, blue30, red60"
       },
       "toyotaDark": {
-        "description": "blue60, blue80, red60",
-        "value": "linear-gradient(90deg, #2a5de1 0%, #0f2e7d 51.04%, #ca2117 100%)",
-        "type": "color"
+        "$type": "color",
+        "$value": "linear-gradient(90deg, #2a5de1 0%, #0f2e7d 51.04%, #ca2117 100%)",
+        "$description": "blue60, blue80, red60"
       }
     }
   },
   "elevation": {
     "level-1": {
-      "value": [
+      "$type": "boxShadow",
+      "$value": [
         {
           "color": "#0000004d",
           "type": "dropShadow",
@@ -32,11 +33,11 @@
           "blur": 3,
           "spread": 1
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "level-2": {
-      "value": [
+      "$type": "boxShadow",
+      "$value": [
         {
           "color": "#0000004d",
           "type": "dropShadow",
@@ -53,11 +54,11 @@
           "blur": 6,
           "spread": 2
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "level-3": {
-      "value": [
+      "$type": "boxShadow",
+      "$value": [
         {
           "color": "#0000004d",
           "type": "dropShadow",
@@ -74,11 +75,11 @@
           "blur": 8,
           "spread": 3
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "level-4": {
-      "value": [
+      "$type": "boxShadow",
+      "$value": [
         {
           "color": "#0000004d",
           "type": "dropShadow",
@@ -95,11 +96,11 @@
           "blur": 10,
           "spread": 4
         }
-      ],
-      "type": "boxShadow"
+      ]
     },
     "level-5": {
-      "value": [
+      "$type": "boxShadow",
+      "$value": [
         {
           "color": "#0000004d",
           "type": "dropShadow",
@@ -116,185 +117,185 @@
           "blur": 12,
           "spread": 6
         }
-      ],
-      "type": "boxShadow"
+      ]
     }
   },
   "fontFamilies": {
     "inter": {
-      "value": "Inter",
-      "type": "fontFamilies"
+      "$type": "fontFamilies",
+      "$value": "Inter"
     },
     "toyota-type-w02": {
-      "value": "Toyota Type W02",
-      "type": "fontFamilies"
+      "$type": "fontFamilies",
+      "$value": "Toyota Type W02"
     }
   },
   "lineHeights": {
     "0": {
-      "value": "28",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "28"
     },
     "1": {
-      "value": "24",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "24"
     },
     "2": {
-      "value": "20",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "20"
     },
     "3": {
-      "value": "16",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "16"
     },
     "4": {
-      "value": "14",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "14"
     },
     "5": {
-      "value": "42",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "42"
     },
     "6": {
-      "value": "38",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "38"
     },
     "7": {
-      "value": "32",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "32"
     },
     "8": {
-      "value": "22",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "22"
     },
     "9": {
-      "value": "64",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "64"
     },
     "10": {
-      "value": "60",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "60"
     },
     "11": {
-      "value": "56",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "56"
     },
     "12": {
-      "value": "52",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "52"
     },
     "13": {
-      "value": "46",
-      "type": "lineHeights"
+      "$type": "lineHeights",
+      "$value": "46"
     }
   },
   "fontWeights": {
     "inter-0": {
-      "value": "Regular",
-      "type": "fontWeights"
+      "$type": "fontWeights",
+      "$value": "Regular"
     },
     "inter-1": {
-      "value": "Bold",
-      "type": "fontWeights"
+      "$type": "fontWeights",
+      "$value": "Bold"
     },
     "toyota-type-w02-2": {
-      "value": "Book",
-      "type": "fontWeights"
+      "$type": "fontWeights",
+      "$value": "Book"
     }
   },
   "fontSize": {
     "0": {
-      "value": "10",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "10"
     },
     "1": {
-      "value": "12",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "12"
     },
     "2": {
-      "value": "14",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "14"
     },
     "3": {
-      "value": "16",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "16"
     },
     "4": {
-      "value": "18",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "18"
     },
     "5": {
-      "value": "20",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "20"
     },
     "6": {
-      "value": "24",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "24"
     },
     "7": {
-      "value": "28",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "28"
     },
     "8": {
-      "value": "32",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "32"
     },
     "9": {
-      "value": "36",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "36"
     },
     "10": {
-      "value": "40",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "40"
     },
     "11": {
-      "value": "44",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "44"
     },
     "12": {
-      "value": "48",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "48"
     },
     "13": {
-      "value": "52",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "52"
     },
     "14": {
-      "value": "56",
-      "type": "fontSizes"
+      "$type": "fontSizes",
+      "$value": "56"
     }
   },
   "letterSpacing": {
     "0": {
-      "value": "0.19",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "0.19"
     },
     "1": {
-      "value": "0.2",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "0.2"
     },
     "2": {
-      "value": "0.22",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "0.22"
     },
     "3": {
-      "value": "0.23",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "0.23"
     },
     "4": {
-      "value": "0.14",
-      "type": "letterSpacing"
+      "$type": "letterSpacing",
+      "$value": "0.14"
     }
   },
   "paragraphSpacing": {
     "0": {
-      "value": "0",
-      "type": "paragraphSpacing"
+      "$type": "paragraphSpacing",
+      "$value": "0"
     }
   },
   "body": {
     "largeRegular": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-0}",
         "lineHeight": "{lineHeights.0}",
@@ -305,11 +306,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography",
-      "description": "Large body is typically used for long-form body content, marketing copy, articles, tutorials, and support content."
+      "$description": "Large body is typically used for long-form body content, marketing copy, articles, tutorials, and support content."
     },
     "largeBold": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.0}",
@@ -320,11 +321,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography",
-      "description": "Large body is typically used for long-form body content, marketing copy, articles, tutorials, and support content."
+      "$description": "Large body is typically used for long-form body content, marketing copy, articles, tutorials, and support content."
     },
     "largeLink": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.0}",
@@ -335,11 +336,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.underline}"
       },
-      "type": "typography",
-      "description": "Large body is typically used for long-form body content, marketing copy, articles, tutorials, and support content."
+      "$description": "Large body is typically used for long-form body content, marketing copy, articles, tutorials, and support content."
     },
     "mediumRegular": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-0}",
         "lineHeight": "{lineHeights.1}",
@@ -350,11 +351,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography",
-      "description": "Medium body is typically used for main UI content."
+      "$description": "Medium body is typically used for main UI content."
     },
     "mediumBold": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.1}",
@@ -365,11 +366,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography",
-      "description": "Medium body is typically used for main UI content."
+      "$description": "Medium body is typically used for main UI content."
     },
     "mediumLink": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.1}",
@@ -380,11 +381,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.underline}"
       },
-      "type": "typography",
-      "description": "Medium body is typically used for main UI content."
+      "$description": "Medium body is typically used for main UI content."
     },
     "smallRegular": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-0}",
         "lineHeight": "{lineHeights.2}",
@@ -395,11 +396,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography",
-      "description": "Small body is typically used for supplementary body content such as captions, footnotes or legal copy."
+      "$description": "Small body is typically used for supplementary body content such as captions, footnotes or legal copy."
     },
     "smallBold": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.2}",
@@ -410,11 +411,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography",
-      "description": "Small body is typically used for supplementary body content such as captions, footnotes or legal copy."
+      "$description": "Small body is typically used for supplementary body content such as captions, footnotes or legal copy."
     },
     "smallLink": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.2}",
@@ -425,11 +426,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.underline}"
       },
-      "type": "typography",
-      "description": "Small body is typically used for supplementary body content such as captions, footnotes or legal copy."
+      "$description": "Small body is typically used for supplementary body content such as captions, footnotes or legal copy."
     },
     "xSmallRegular": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-0}",
         "lineHeight": "{lineHeights.3}",
@@ -440,11 +441,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography",
-      "description": "Extra small body should be used sparingly, typically used as a smaller alternative for supplementary content such as captions, footnotes or legal copy."
+      "$description": "Extra small body should be used sparingly, typically used as a smaller alternative for supplementary content such as captions, footnotes or legal copy."
     },
     "xSmallBold": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.3}",
@@ -455,11 +456,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography",
-      "description": "Extra small body should be used sparingly, typically used as a smaller alternative for supplementary content such as captions, footnotes or legal copy."
+      "$description": "Extra small body should be used sparingly, typically used as a smaller alternative for supplementary content such as captions, footnotes or legal copy."
     },
     "xSmallLink": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.3}",
@@ -470,13 +471,13 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.underline}"
       },
-      "type": "typography",
-      "description": "Extra small body should be used sparingly, typically used as a smaller alternative for supplementary content such as captions, footnotes or legal copy."
+      "$description": "Extra small body should be used sparingly, typically used as a smaller alternative for supplementary content such as captions, footnotes or legal copy."
     }
   },
   "label": {
     "large": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.0}",
@@ -487,11 +488,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography",
-      "description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
+      "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
     },
     "medium": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.1}",
@@ -502,11 +503,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography",
-      "description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
+      "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
     },
     "small": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.2}",
@@ -517,11 +518,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography",
-      "description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
+      "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
     },
     "xSmall": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.3}",
@@ -532,11 +533,11 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography",
-      "description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
+      "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
     },
     "xxSmall": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.4}",
@@ -547,13 +548,13 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
-      "type": "typography",
-      "description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
+      "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
     }
   },
   "heading": {
     "xxLarge": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.toyota-type-w02}",
         "fontWeight": "{fontWeights.toyota-type-w02-2}",
         "lineHeight": "{lineHeights.5}",
@@ -563,11 +564,11 @@
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.uppercase}",
         "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
+      }
     },
     "xLarge": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.toyota-type-w02}",
         "fontWeight": "{fontWeights.toyota-type-w02-2}",
         "lineHeight": "{lineHeights.6}",
@@ -577,11 +578,11 @@
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.uppercase}",
         "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
+      }
     },
     "large": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.toyota-type-w02}",
         "fontWeight": "{fontWeights.toyota-type-w02-2}",
         "lineHeight": "{lineHeights.7}",
@@ -591,11 +592,11 @@
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.uppercase}",
         "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
+      }
     },
     "medium": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.toyota-type-w02}",
         "fontWeight": "{fontWeights.toyota-type-w02-2}",
         "lineHeight": "{lineHeights.0}",
@@ -605,11 +606,11 @@
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.uppercase}",
         "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
+      }
     },
     "small": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.1}",
@@ -619,11 +620,11 @@
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
+      }
     },
     "xSmall": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.inter}",
         "fontWeight": "{fontWeights.inter-1}",
         "lineHeight": "{lineHeights.8}",
@@ -633,13 +634,13 @@
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
+      }
     }
   },
   "display": {
     "xxLarge": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.toyota-type-w02}",
         "fontWeight": "{fontWeights.toyota-type-w02-2}",
         "lineHeight": "{lineHeights.9}",
@@ -649,11 +650,11 @@
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.uppercase}",
         "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
+      }
     },
     "xLarge": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.toyota-type-w02}",
         "fontWeight": "{fontWeights.toyota-type-w02-2}",
         "lineHeight": "{lineHeights.10}",
@@ -663,11 +664,11 @@
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.uppercase}",
         "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
+      }
     },
     "large": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.toyota-type-w02}",
         "fontWeight": "{fontWeights.toyota-type-w02-2}",
         "lineHeight": "{lineHeights.11}",
@@ -677,11 +678,11 @@
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.uppercase}",
         "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
+      }
     },
     "medium": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.toyota-type-w02}",
         "fontWeight": "{fontWeights.toyota-type-w02-2}",
         "lineHeight": "{lineHeights.12}",
@@ -691,11 +692,11 @@
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.uppercase}",
         "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
+      }
     },
     "small": {
-      "value": {
+      "$type": "typography",
+      "$value": {
         "fontFamily": "{fontFamilies.toyota-type-w02}",
         "fontWeight": "{fontWeights.toyota-type-w02-2}",
         "lineHeight": "{lineHeights.13}",
@@ -705,34 +706,33 @@
         "paragraphIndent": "{paragraphIndent.0}",
         "textCase": "{textCase.uppercase}",
         "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
+      }
     }
   },
   "textCase": {
     "none": {
-      "value": "none",
-      "type": "textCase"
+      "$type": "textCase",
+      "$value": "none"
     },
     "uppercase": {
-      "value": "uppercase",
-      "type": "textCase"
+      "$type": "textCase",
+      "$value": "uppercase"
     }
   },
   "textDecoration": {
     "none": {
-      "value": "none",
-      "type": "textDecoration"
+      "$type": "textDecoration",
+      "$value": "none"
     },
     "underline": {
-      "value": "underline",
-      "type": "textDecoration"
+      "$type": "textDecoration",
+      "$value": "underline"
     }
   },
   "paragraphIndent": {
     "0": {
-      "value": "0px",
-      "type": "dimension"
+      "$type": "dimension",
+      "$value": "0px"
     }
   }
 }

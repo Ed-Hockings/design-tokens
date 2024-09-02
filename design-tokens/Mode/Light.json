@@ -3,391 +3,391 @@
     "color": {
       "background": {
         "neutralTop": {
-          "value": "{primitive.colorRamp.brandNeutral.1300.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.brandNeutral.1300.light}",
+          "$description": "Description goes here"
         },
         "neutralMiddle": {
-          "value": "{primitive.colorRamp.brandNeutral.1100.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.brandNeutral.1100.light}",
+          "$description": "Description goes here"
         },
         "brandAccentSecondary": {
-          "value": "{primitive.color.brandAccentSecondary.background.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.color.brandAccentSecondary.background.light}",
+          "$description": "Description goes here"
         },
         "dangerTop": {
-          "value": "{primitive.colorRamp.red.600.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.red.600.light}",
+          "$description": "Description goes here"
         },
         "dangerBottom": {
-          "value": "{primitive.colorRamp.red.1100.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.red.1100.light}",
+          "$description": "Description goes here"
         },
         "warningTop": {
-          "value": "{primitive.colorRamp.orange.600.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.orange.600.light}",
+          "$description": "Description goes here"
         },
         "warningBottom": {
-          "value": "{primitive.colorRamp.orange.1300.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.orange.1300.light}",
+          "$description": "Description goes here"
         },
         "positiveTop": {
-          "value": "{primitive.colorRamp.green.600.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.green.600.light}",
+          "$description": "Description goes here"
         },
         "positiveBottom": {
-          "value": "{primitive.colorRamp.green.1100.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.green.1100.light}",
+          "$description": "Description goes here"
         },
         "informationTop": {
-          "value": "{primitive.colorRamp.blue.600.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.blue.600.light}",
+          "$description": "Description goes here"
         },
         "informationBottom": {
-          "value": "{primitive.colorRamp.blue.1100.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.blue.1100.light}",
+          "$description": "Description goes here"
         },
         "neutralBottom": {
-          "value": "{primitive.colorRamp.brandNeutral.1000.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.brandNeutral.1000.light}",
+          "$description": "Description goes here"
         },
         "brandAccentPrimary": {
-          "value": "{primitive.color.brandAccentPrimary.background.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.color.brandAccentPrimary.background.light}",
+          "$description": "Description goes here"
         }
       },
       "foreground": {
         "onNeutralStrong": {
-          "value": "{primitive.colorRamp.brandNeutral.100.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Use for headings and labels"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.brandNeutral.100.light}",
+          "$description": "Use for headings and labels"
         },
         "onNeutralSubtle": {
-          "value": "{primitive.colorRamp.brandNeutral.400.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Use for body and labels"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.brandNeutral.400.light}",
+          "$description": "Use for body and labels"
         },
         "onNeutralSubtler": {
-          "value": "{primitive.colorRamp.brandNeutral.500.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Use for supplementary content"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.brandNeutral.500.light}",
+          "$description": "Use for supplementary content"
         },
         "onDangerTop": {
-          "value": "{primitive.colorRamp.brandNeutral.1300.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.brandNeutral.1300.light}",
+          "$description": "Description goes here"
         },
         "onWarningTop": {
-          "value": "{primitive.colorRamp.brandNeutral.1300.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.brandNeutral.1300.light}",
+          "$description": "Description goes here"
         },
         "onPositiveTop": {
-          "value": "{primitive.colorRamp.brandNeutral.1300.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.brandNeutral.1300.light}",
+          "$description": "Description goes here"
         },
         "onInformationTop": {
-          "value": "{primitive.colorRamp.brandNeutral.1300.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.brandNeutral.1300.light}",
+          "$description": "Description goes here"
         },
         "onDangerBottom": {
-          "value": "{primitive.colorRamp.red.200.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.red.200.light}",
+          "$description": "Description goes here"
         },
         "onWarningBottom": {
-          "value": "{primitive.colorRamp.orange.200.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.orange.200.light}",
+          "$description": "Description goes here"
         },
         "onPositiveBottom": {
-          "value": "{primitive.colorRamp.green.200.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.green.200.light}",
+          "$description": "Description goes here"
         },
         "onInformationBottom": {
-          "value": "{primitive.colorRamp.blue.200.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.blue.200.light}",
+          "$description": "Description goes here"
         },
         "onNeutralDanger": {
-          "value": "{primitive.colorRamp.red.500.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.red.500.light}",
+          "$description": "Description goes here"
         },
         "onNeutralWarning": {
-          "value": "{primitive.colorRamp.orange.500.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.orange.500.light}",
+          "$description": "Description goes here"
         },
         "onNeutralPositive": {
-          "value": "{primitive.colorRamp.green.600.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.green.600.light}",
+          "$description": "Description goes here"
         },
         "onNeutralInformation": {
-          "value": "{primitive.colorRamp.blue.500.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.colorRamp.blue.500.light}",
+          "$description": "Description goes here"
         },
         "onBrandAccentSecondary": {
-          "value": "{primitive.color.brandAccentSecondary.onBackground.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.color.brandAccentSecondary.onBackground.light}",
+          "$description": "Description goes here"
         },
         "onNeutralBrandAccentPrimary": {
-          "value": "{primitive.color.brandAccentPrimary.foreground.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.color.brandAccentPrimary.foreground.light}",
+          "$description": "Description goes here"
         },
         "onNeutralBrandAccentSecondary": {
-          "value": "{primitive.color.brandAccentSecondary.foreground.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.color.brandAccentSecondary.foreground.light}",
+          "$description": "Description goes here"
         },
         "onBrandAccentPrimary": {
-          "value": "{primitive.color.brandAccentPrimary.onBackground.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.color.brandAccentPrimary.onBackground.light}",
+          "$description": "Description goes here"
         },
         "onNeutralIcon": {
-          "value": "{primitive.color.icon.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.color.icon.light}",
+          "$description": "Description goes here"
         }
       },
       "border": {
         "brandAccentPrimary": {
-          "value": "{primitive.color.brandAccentPrimary.background.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.color.brandAccentPrimary.background.light}",
+          "$description": "Description goes here"
         },
         "container": {
-          "value": "{primitive.colorRamp.brandNeutral.700.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": ""
+          "description": "",
+          "$type": "color",
+          "$value": "{primitive.colorRamp.brandNeutral.700.light}"
         },
         "danger": {
-          "value": "{primitive.colorRamp.red.500.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": ""
+          "description": "",
+          "$type": "color",
+          "$value": "{primitive.colorRamp.red.500.light}"
         },
         "warning": {
-          "value": "{primitive.colorRamp.orange.500.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": ""
+          "description": "",
+          "$type": "color",
+          "$value": "{primitive.colorRamp.orange.500.light}"
         },
         "positive": {
-          "value": "{primitive.colorRamp.green.500.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": ""
+          "description": "",
+          "$type": "color",
+          "$value": "{primitive.colorRamp.green.500.light}"
         },
         "information": {
-          "value": "{primitive.colorRamp.blue.500.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": ""
+          "description": "",
+          "$type": "color",
+          "$value": "{primitive.colorRamp.blue.500.light}"
         },
         "seperator": {
-          "value": "#00000052",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": ""
+          "description": "",
+          "$type": "color",
+          "$value": "#00000052"
         },
         "brandAccentSecondary": {
-          "value": "{primitive.color.brandAccentPrimary.border.light}",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "{primitive.color.brandAccentPrimary.border.light}",
+          "$description": "Description goes here"
         }
       },
       "overlay": {
         "scrim": {
-          "value": "#0000008f",
-          "type": "color",
           "parent": "Mode/Light",
-          "description": "Description goes here"
+          "$type": "color",
+          "$value": "#0000008f",
+          "$description": "Description goes here"
         }
       },
       "stateLayer": {
         "darkenFixed": {
           "hovered": {
-            "value": "#0000001f",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#0000001f",
+            "$description": "Description goes here"
           },
           "pressed": {
-            "value": "#00000029",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#00000029",
+            "$description": "Description goes here"
           },
           "focused": {
-            "value": "#0000001f",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#0000001f",
+            "$description": "Description goes here"
           },
           "dragged": {
-            "value": "#00000029",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#00000029",
+            "$description": "Description goes here"
           },
           "resting": {
-            "value": "#00000014",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#00000014",
+            "$description": "Description goes here"
           }
         },
         "lightenFixed": {
           "hovered": {
-            "value": "#ffffff1f",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#ffffff1f",
+            "$description": "Description goes here"
           },
           "pressed": {
-            "value": "#ffffff29",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#ffffff29",
+            "$description": "Description goes here"
           },
           "focused": {
-            "value": "#ffffff1f",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#ffffff1f",
+            "$description": "Description goes here"
           },
           "dragged": {
-            "value": "#ffffff29",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#ffffff29",
+            "$description": "Description goes here"
           },
           "resting": {
-            "value": "#ffffff14",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#ffffff14",
+            "$description": "Description goes here"
           }
         },
         "darkenInvertible": {
           "hovered": {
-            "value": "#0000001f",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#0000001f",
+            "$description": "Description goes here"
           },
           "pressed": {
-            "value": "#00000029",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#00000029",
+            "$description": "Description goes here"
           },
           "focused": {
-            "value": "#0000001f",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#0000001f",
+            "$description": "Description goes here"
           },
           "dragged": {
-            "value": "#00000029",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#00000029",
+            "$description": "Description goes here"
           },
           "resting": {
-            "value": "#00000014",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#00000014",
+            "$description": "Description goes here"
           }
         },
         "lightenInvertible": {
           "hovered": {
-            "value": "#ffffff1f",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#ffffff1f",
+            "$description": "Description goes here"
           },
           "pressed": {
-            "value": "#ffffff29",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#ffffff29",
+            "$description": "Description goes here"
           },
           "focused": {
-            "value": "#ffffff1f",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#ffffff1f",
+            "$description": "Description goes here"
           },
           "dragged": {
-            "value": "#ffffff29",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#ffffff29",
+            "$description": "Description goes here"
           },
           "resting": {
-            "value": "#ffffff14",
-            "type": "color",
             "parent": "Mode/Light",
-            "description": "Description goes here"
+            "$type": "color",
+            "$value": "#ffffff14",
+            "$description": "Description goes here"
           }
         }
       }
@@ -396,57 +396,57 @@
   "component": {
     "fuelGauge": {
       "gas": {
-        "value": "{primitive.colorRamp.blue.600.light}",
-        "type": "color",
         "parent": "Mode/Light",
-        "description": "Description goes here"
+        "$type": "color",
+        "$value": "{primitive.colorRamp.blue.600.light}",
+        "$description": "Description goes here"
       },
       "electric": {
-        "value": "{primitive.colorRamp.teal.600.light}",
-        "type": "color",
         "parent": "Mode/Light",
-        "description": "Description goes here"
+        "$type": "color",
+        "$value": "{primitive.colorRamp.teal.600.light}",
+        "$description": "Description goes here"
       }
     },
     "climate": {
       "hot": {
-        "value": "{primitive.colorRamp.red.600.light}",
-        "type": "color",
         "parent": "Mode/Light",
-        "description": "Description goes here"
+        "$type": "color",
+        "$value": "{primitive.colorRamp.red.600.light}",
+        "$description": "Description goes here"
       },
       "mild": {
-        "value": "{primitive.colorRamp.purple.600.light}",
-        "type": "color",
         "parent": "Mode/Light",
-        "description": "Description goes here"
+        "$type": "color",
+        "$value": "{primitive.colorRamp.purple.600.light}",
+        "$description": "Description goes here"
       },
       "cold": {
-        "value": "{primitive.colorRamp.blue.600.light}",
-        "type": "color",
         "parent": "Mode/Light",
-        "description": "Description goes here"
+        "$type": "color",
+        "$value": "{primitive.colorRamp.blue.600.light}",
+        "$description": "Description goes here"
       }
     },
     "rating": {
       "stars": {
-        "value": "{primitive.colorRamp.yellow.700.light}",
-        "type": "color",
         "parent": "Mode/Light",
-        "description": ""
+        "description": "",
+        "$type": "color",
+        "$value": "{primitive.colorRamp.yellow.700.light}"
       }
     }
   },
   "isLight": {
-    "value": "true",
-    "type": "boolean",
     "parent": "Mode/Light",
-    "description": "For Figma Variables"
+    "$type": "boolean",
+    "$value": "true",
+    "$description": "For Figma Variables"
   },
   "isDark": {
-    "value": "false",
-    "type": "boolean",
     "parent": "Mode/Light",
-    "description": "For Figma Variables"
+    "$type": "boolean",
+    "$value": "false",
+    "$description": "For Figma Variables"
   }
 }
