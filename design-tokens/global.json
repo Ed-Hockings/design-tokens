@@ -191,19 +191,19 @@
   "fontWeights": {
     "regular": {
       "$type": "fontWeights",
-      "$value": "Regular"
+      "$value": "400"
     },
     "bold": {
       "$type": "fontWeights",
-      "$value": "Bold"
+      "$value": "600"
     },
     "book": {
       "$type": "fontWeights",
-      "$value": "Book"
+      "$value": "350"
     },
     "medium": {
       "$type": "fontWeights",
-      "$value": "Medium"
+      "$value": "425"
     }
   },
   "fontSize": {
