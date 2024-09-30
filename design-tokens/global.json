@@ -125,9 +125,21 @@
       "$type": "fontFamilies",
       "$value": "Inter"
     },
-    "toyota-type-w02": {
+    "nobel": {
+      "$type": "fontFamilies",
+      "$value": "Nobel"
+    },
+    "toyotaTypeW02": {
       "$type": "fontFamilies",
       "$value": "Toyota Type W02"
+    },
+    "roboto": {
+      "$type": "fontFamilies",
+      "$value": "Roboto"
+    },
+    "arial": {
+      "$type": "fontFamilies",
+      "$value": "Arial"
     }
   },
   "lineHeights": {
