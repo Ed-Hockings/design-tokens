@@ -2018,30 +2018,6 @@
   },
   "semantic": {
     "type": {
-      "fontWeight": {
-        "regular": {
-          "parent": "Brand/Subaru",
-          "description": "",
-          "$type": "text",
-          "$value": "Regular"
-        },
-        "bold": {
-          "parent": "Brand/Subaru",
-          "description": "",
-          "$type": "text",
-          "$value": "Bold"
-        },
-        "title": {
-          "parent": "Brand/Subaru",
-          "description": "",
-          "$type": "text",
-          "$value": "Bold"
-        },
-        "medium": {
-          "$type": "text",
-          "$value": "Regular"
-        }
-      },
       "fontFamily": {
         "brand": {
           "parent": "Brand/Subaru",
@@ -2278,6 +2254,27 @@
           "description": "",
           "$type": "dimension",
           "$value": "0rem"
+        }
+      },
+      "fontWeight": {
+        "regular": {
+          "parent": "Brand/Toyota",
+          "$type": "text",
+          "$value": "400"
+        },
+        "bold": {
+          "parent": "Brand/Toyota",
+          "$type": "text",
+          "$value": "600"
+        },
+        "title": {
+          "parent": "Brand/Toyota",
+          "$type": "text",
+          "$value": "350"
+        },
+        "medium": {
+          "$type": "text",
+          "$value": "425"
         }
       }
     },

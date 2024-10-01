@@ -2025,30 +2025,6 @@
   },
   "semantic": {
     "type": {
-      "fontWeight": {
-        "regular": {
-          "parent": "Brand/Toyota",
-          "description": "",
-          "$type": "text",
-          "$value": "Regular"
-        },
-        "bold": {
-          "parent": "Brand/Toyota",
-          "description": "",
-          "$type": "text",
-          "$value": "Bold"
-        },
-        "title": {
-          "parent": "Brand/Toyota",
-          "description": "",
-          "$type": "text",
-          "$value": "Book"
-        },
-        "medium": {
-          "$type": "text",
-          "$value": "Medium"
-        }
-      },
       "fontFamily": {
         "brand": {
           "parent": "Brand/Toyota",
@@ -2285,6 +2261,27 @@
           "description": "",
           "$type": "dimension",
           "$value": "0rem"
+        }
+      },
+      "fontWeight": {
+        "regular": {
+          "parent": "Brand/Toyota",
+          "$type": "text",
+          "$value": "400"
+        },
+        "bold": {
+          "parent": "Brand/Toyota",
+          "$type": "text",
+          "$value": "600"
+        },
+        "title": {
+          "parent": "Brand/Toyota",
+          "$type": "text",
+          "$value": "350"
+        },
+        "medium": {
+          "$type": "text",
+          "$value": "425"
         }
       }
     },

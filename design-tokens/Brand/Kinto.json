@@ -2019,28 +2019,6 @@
   },
   "semantic": {
     "type": {
-      "fontWeight": {
-        "regular": {
-          "parent": "Brand/Kinto",
-          "description": "",
-          "$type": "text",
-          "$value": "Regular"
-        },
-        "bold": {
-          "parent": "Brand/Kinto",
-          "$type": "text",
-          "$value": "Bold"
-        },
-        "title": {
-          "parent": "Brand/Kinto",
-          "$type": "text",
-          "$value": "Bold"
-        },
-        "medium": {
-          "$type": "text",
-          "$value": "Regular"
-        }
-      },
       "fontFamily": {
         "brand": {
           "parent": "Brand/Kinto",
@@ -2277,6 +2255,27 @@
           "description": "",
           "$type": "dimension",
           "$value": "0rem"
+        }
+      },
+      "fontWeight": {
+        "regular": {
+          "parent": "Brand/Toyota",
+          "$type": "text",
+          "$value": "400"
+        },
+        "bold": {
+          "parent": "Brand/Toyota",
+          "$type": "text",
+          "$value": "600"
+        },
+        "title": {
+          "parent": "Brand/Toyota",
+          "$type": "text",
+          "$value": "350"
+        },
+        "medium": {
+          "$type": "text",
+          "$value": "425"
         }
       }
     },

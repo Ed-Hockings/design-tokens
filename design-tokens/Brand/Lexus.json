@@ -2020,30 +2020,6 @@
   },
   "semantic": {
     "type": {
-      "fontWeight": {
-        "regular": {
-          "parent": "Brand/Lexus",
-          "description": "",
-          "$type": "text",
-          "$value": "Regular"
-        },
-        "bold": {
-          "parent": "Brand/Lexus",
-          "description": "",
-          "$type": "text",
-          "$value": "Bold"
-        },
-        "title": {
-          "parent": "Brand/Lexus",
-          "description": "",
-          "$type": "text",
-          "$value": "Book"
-        },
-        "medium": {
-          "$type": "text",
-          "$value": "Medium"
-        }
-      },
       "fontFamily": {
         "brand": {
           "parent": "Brand/Lexus",
@@ -2280,6 +2256,27 @@
           "description": "",
           "$type": "dimension",
           "$value": "0rem"
+        }
+      },
+      "fontWeights": {
+        "regular": {
+          "parent": "Brand/Toyota",
+          "$type": "text",
+          "$value": "400"
+        },
+        "bold": {
+          "parent": "Brand/Toyota",
+          "$type": "text",
+          "$value": "600"
+        },
+        "title": {
+          "parent": "Brand/Toyota",
+          "$type": "text",
+          "$value": "350"
+        },
+        "medium": {
+          "$type": "text",
+          "$value": "425"
         }
       }
     },
