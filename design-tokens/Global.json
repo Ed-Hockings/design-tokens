@@ -1,360 +1,370 @@
 {
-  "gradient": {
-    "climate": {
-      "toyotaLight": {
-        "$type": "color",
-        "$value": "linear-gradient(90deg, #497cff 0%, #163ea4 51.04%, #f9362a 100%)",
-        "$description": "blue60, blue30, red60"
-      },
-      "toyotaDark": {
-        "$type": "color",
-        "$value": "linear-gradient(90deg, #2a5de1 0%, #0f2e7d 51.04%, #ca2117 100%)",
-        "$description": "blue60, blue80, red60"
+  "primitive": {
+    "gradient": {
+      "climate": {
+        "toyotaLight": {
+          "$type": "color",
+          "$value": "linear-gradient(90deg, #497cff 0%, #163ea4 51.04%, #f9362a 100%)",
+          "$description": "blue60, blue30, red60"
+        },
+        "toyotaDark": {
+          "$type": "color",
+          "$value": "linear-gradient(90deg, #2a5de1 0%, #0f2e7d 51.04%, #ca2117 100%)",
+          "$description": "blue60, blue80, red60"
+        }
       }
-    }
-  },
-  "elevation": {
-    "level-1": {
-      "$type": "boxShadow",
-      "$value": [
-        {
-          "color": "#00000026",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 1,
-          "blur": 3,
-          "spread": 1
+    },
+    "elevation": {
+      "level-1": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "color": "#00000026",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "1",
+            "blur": "3",
+            "spread": "1"
+          },
+          {
+            "color": "#0000004d",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
+          }
+        ]
+      },
+      "level-2": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "color": "#00000026",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "2",
+            "blur": "6",
+            "spread": "2"
+          },
+          {
+            "color": "#0000004d",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "1",
+            "blur": "2",
+            "spread": "0"
+          }
+        ]
+      },
+      "level-3": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "color": "#00000026",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "4",
+            "blur": "8",
+            "spread": "3"
+          },
+          {
+            "color": "#0000004d",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "1",
+            "blur": "3",
+            "spread": "0"
+          }
+        ]
+      },
+      "level-4": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "color": "#00000026",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "6",
+            "blur": "10",
+            "spread": "4"
+          },
+          {
+            "color": "#0000004d",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "2",
+            "blur": "3",
+            "spread": "0"
+          }
+        ]
+      },
+      "level-5": {
+        "$type": "boxShadow",
+        "$value": [
+          {
+            "color": "#00000026",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "8",
+            "blur": "12",
+            "spread": "6"
+          },
+          {
+            "color": "#0000004d",
+            "type": "dropShadow",
+            "x": "0",
+            "y": "4",
+            "blur": "4",
+            "spread": "0"
+          }
+        ]
+      }
+    },
+    "type": {
+      "fontFamilies": {
+        "inter": {
+          "$type": "fontFamilies",
+          "$value": "Inter"
         },
-        {
-          "color": "#0000004d",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 1,
-          "blur": 2,
-          "spread": 0
-        }
-      ]
-    },
-    "level-2": {
-      "$type": "boxShadow",
-      "$value": [
-        {
-          "color": "#00000026",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 2,
-          "blur": 6,
-          "spread": 2
+        "nobel": {
+          "$type": "fontFamilies",
+          "$value": "Nobel"
         },
-        {
-          "color": "#0000004d",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 1,
-          "blur": 2,
-          "spread": 0
-        }
-      ]
-    },
-    "level-3": {
-      "$type": "boxShadow",
-      "$value": [
-        {
-          "color": "#00000026",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 4,
-          "blur": 8,
-          "spread": 3
+        "toyotaTypeW02": {
+          "$type": "fontFamilies",
+          "$value": "Toyota Type W02"
         },
-        {
-          "color": "#0000004d",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 1,
-          "blur": 3,
-          "spread": 0
-        }
-      ]
-    },
-    "level-4": {
-      "$type": "boxShadow",
-      "$value": [
-        {
-          "color": "#00000026",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 6,
-          "blur": 10,
-          "spread": 4
+        "roboto": {
+          "$type": "fontFamilies",
+          "$value": "Roboto"
         },
-        {
-          "color": "#0000004d",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 2,
-          "blur": 3,
-          "spread": 0
+        "arial": {
+          "$type": "fontFamilies",
+          "$value": "Arial"
         }
-      ]
-    },
-    "level-5": {
-      "$type": "boxShadow",
-      "$value": [
-        {
-          "color": "#00000026",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 8,
-          "blur": 12,
-          "spread": 6
+      },
+      "lineHeight": {
+        "10": {
+          "$type": "lineHeights",
+          "$value": "16"
         },
-        {
-          "color": "#0000004d",
-          "type": "dropShadow",
-          "x": 0,
-          "y": 4,
-          "blur": 4,
-          "spread": 0
+        "25": {
+          "$type": "lineHeights",
+          "$value": "18"
+        },
+        "50": {
+          "$type": "lineHeights",
+          "$value": "20"
+        },
+        "75": {
+          "$type": "lineHeights",
+          "$value": "22"
+        },
+        "100": {
+          "$type": "lineHeights",
+          "$value": "24"
+        },
+        "200": {
+          "$type": "lineHeights",
+          "$value": "28"
+        },
+        "250": {
+          "$type": "lineHeights",
+          "$value": "30"
+        },
+        "275": {
+          "$type": "lineHeights",
+          "$value": "32"
+        },
+        "300": {
+          "$type": "lineHeights",
+          "$value": "36"
+        },
+        "350": {
+          "$type": "lineHeights",
+          "$value": "48"
+        },
+        "375": {
+          "$type": "lineHeights",
+          "$value": "46"
+        },
+        "400": {
+          "$type": "lineHeights",
+          "$value": "54"
+        },
+        "450": {
+          "$type": "lineHeights",
+          "$value": "58"
+        },
+        "500": {
+          "$type": "lineHeights",
+          "$value": "68"
+        },
+        "550": {
+          "$type": "lineHeights",
+          "$value": "76"
         }
-      ]
-    }
-  },
-  "fontFamilies": {
-    "inter": {
-      "$type": "fontFamilies",
-      "$value": "Inter"
+      },
+      "fontWeight": {
+        "regular": {
+          "$type": "fontWeights",
+          "$value": "400"
+        },
+        "bold": {
+          "$type": "fontWeights",
+          "$value": "600"
+        },
+        "title": {
+          "$type": "fontWeights",
+          "$value": "350"
+        },
+        "medium": {
+          "$type": "fontWeights",
+          "$value": "425"
+        }
+      },
+      "fontSize": {
+        "10": {
+          "$type": "fontSizes",
+          "$value": "10"
+        },
+        "25": {
+          "$type": "fontSizes",
+          "$value": "12"
+        },
+        "50": {
+          "$type": "fontSizes",
+          "$value": "14"
+        },
+        "75": {
+          "$type": "fontSizes",
+          "$value": "16"
+        },
+        "100": {
+          "$type": "fontSizes",
+          "$value": "18"
+        },
+        "200": {
+          "$type": "fontSizes",
+          "$value": "20"
+        },
+        "250": {
+          "$type": "fontSizes",
+          "$value": "24"
+        },
+        "275": {
+          "$type": "fontSizes",
+          "$value": "26"
+        },
+        "300": {
+          "$type": "fontSizes",
+          "$value": "30"
+        },
+        "350": {
+          "$type": "fontSizes",
+          "$value": "34"
+        },
+        "375": {
+          "$type": "fontSizes",
+          "$value": "38"
+        },
+        "400": {
+          "$type": "fontSizes",
+          "$value": "44"
+        },
+        "450": {
+          "$type": "fontSizes",
+          "$value": "48"
+        },
+        "500": {
+          "$type": "fontSizes",
+          "$value": "56"
+        },
+        "550": {
+          "$type": "fontSizes",
+          "$value": "62"
+        }
+      },
+      "letterSpacing": {
+        "small": {
+          "$type": "letterSpacing",
+          "$value": "0.2"
+        },
+        "medium": {
+          "$type": "letterSpacing",
+          "$value": "0.14"
+        },
+        "large": {
+          "$type": "letterSpacing",
+          "$value": "0.19"
+        },
+        "xLarge": {
+          "$type": "letterSpacing",
+          "$value": "0.22"
+        },
+        "xxLarge": {
+          "$type": "letterSpacing",
+          "$value": "0.23"
+        }
+      },
+      "paragraphSpacing": {
+        "none": {
+          "$type": "paragraphSpacing",
+          "$value": "0"
+        }
+      },
+      "textCase": {
+        "none": {
+          "$type": "textCase",
+          "$value": "none"
+        },
+        "uppercase": {
+          "$type": "textCase",
+          "$value": "uppercase"
+        }
+      },
+      "textDecoration": {
+        "none": {
+          "$type": "textDecoration",
+          "$value": "none"
+        },
+        "underline": {
+          "$type": "textDecoration",
+          "$value": "underline"
+        }
+      },
+      "paragraphIndent": {
+        "none": {
+          "$type": "dimension",
+          "$value": "0rem"
+        }
+      }
     },
-    "nobel": {
-      "$type": "fontFamilies",
-      "$value": "Nobel"
+    "size": {
+      "icon": {
+        "xSmall": {
+          "$type": "sizing",
+          "$value": "12"
+        },
+        "small": {
+          "$type": "sizing",
+          "$value": "16"
+        },
+        "medium": {
+          "$type": "sizing",
+          "$value": "24"
+        },
+        "large": {
+          "$type": "sizing",
+          "$value": "32"
+        },
+        "xLarge": {
+          "$type": "sizing",
+          "$value": "48"
+        }
+      }
     },
-    "toyotaTypeW02": {
-      "$type": "fontFamilies",
-      "$value": "Toyota Type W02"
-    },
-    "roboto": {
-      "$type": "fontFamilies",
-      "$value": "Roboto"
-    },
-    "arial": {
-      "$type": "fontFamilies",
-      "$value": "Arial"
-    }
-  },
-  "lineHeight": {
-    "10": {
-      "$type": "lineHeights",
-      "$value": "14"
-    },
-    "25": {
-      "$type": "lineHeights",
-      "$value": "16"
-    },
-    "50": {
-      "$type": "lineHeights",
-      "$value": "20"
-    },
-    "75": {
-      "$type": "lineHeights",
-      "$value": "22"
-    },
-    "100": {
-      "$type": "lineHeights",
-      "$value": "16"
-    },
-    "200": {
-      "$type": "lineHeights",
-      "$value": "28"
-    },
-    "250": {
-      "$type": "lineHeights",
-      "$value": "28"
-    },
-    "275": {
-      "$type": "lineHeights",
-      "$value": "32"
-    },
-    "300": {
-      "$type": "lineHeights",
-      "$value": "38"
-    },
-    "350": {
-      "$type": "lineHeights",
-      "$value": "42"
-    },
-    "400": {
-      "$type": "lineHeights",
-      "$value": "46"
-    },
-    "450": {
-      "$type": "lineHeights",
-      "$value": "52"
-    },
-    "475": {
-      "$type": "lineHeights",
-      "$value": "56"
-    },
-    "500": {
-      "$type": "lineHeights",
-      "$value": "60"
-    },
-    "550": {
-      "$type": "lineHeights",
-      "$value": "64"
-    }
-  },
-  "fontWeight": {
-    "regular": {
-      "$type": "fontWeights",
-      "$value": "400"
-    },
-    "bold": {
-      "$type": "fontWeights",
-      "$value": "600"
-    },
-    "book": {
-      "$type": "fontWeights",
-      "$value": "350"
-    },
-    "medium": {
-      "$type": "fontWeights",
-      "$value": "425"
-    }
-  },
-  "fontSize": {
-    "10": {
-      "$type": "fontSizes",
-      "$value": "10"
-    },
-    "25": {
-      "$type": "fontSizes",
-      "$value": "12"
-    },
-    "50": {
-      "$type": "fontSizes",
-      "$value": "14"
-    },
-    "75": {
-      "$type": "fontSizes",
-      "$value": "16"
-    },
-    "100": {
-      "$type": "fontSizes",
-      "$value": "18"
-    },
-    "200": {
-      "$type": "fontSizes",
-      "$value": "20"
-    },
-    "250": {
-      "$type": "fontSizes",
-      "$value": "24"
-    },
-    "275": {
-      "$type": "fontSizes",
-      "$value": "28"
-    },
-    "300": {
-      "$type": "fontSizes",
-      "$value": "32"
-    },
-    "350": {
-      "$type": "fontSizes",
-      "$value": "36"
-    },
-    "400": {
-      "$type": "fontSizes",
-      "$value": "40"
-    },
-    "450": {
-      "$type": "fontSizes",
-      "$value": "44"
-    },
-    "475": {
-      "$type": "fontSizes",
-      "$value": "48"
-    },
-    "500": {
-      "$type": "fontSizes",
-      "$value": "52"
-    },
-    "550": {
-      "$type": "fontSizes",
-      "$value": "56"
-    }
-  },
-  "letterSpacing": {
-    "small": {
-      "$type": "letterSpacing",
-      "$value": "0.2"
-    },
-    "medium": {
-      "$type": "letterSpacing",
-      "$value": "0.14"
-    },
-    "large": {
-      "$type": "letterSpacing",
-      "$value": "0.19"
-    },
-    "xLarge": {
-      "$type": "letterSpacing",
-      "$value": "0.22"
-    },
-    "xxLarge": {
-      "$type": "letterSpacing",
-      "$value": "0.23"
-    }
-  },
-  "paragraphSpacing": {
-    "none": {
-      "$type": "paragraphSpacing",
-      "$value": "0"
-    }
-  },
-  "textCase": {
-    "none": {
-      "$type": "textCase",
-      "$value": "none"
-    },
-    "uppercase": {
-      "$type": "textCase",
-      "$value": "uppercase"
-    }
-  },
-  "textDecoration": {
-    "none": {
-      "$type": "textDecoration",
-      "$value": "none"
-    },
-    "underline": {
-      "$type": "textDecoration",
-      "$value": "underline"
-    }
-  },
-  "iconSize": {
-    "xSmall": {
-      "$type": "sizing",
-      "$value": "12"
-    },
-    "small": {
-      "$type": "sizing",
-      "$value": "16"
-    },
-    "medium": {
-      "$type": "sizing",
-      "$value": "24"
-    },
-    "large": {
-      "$type": "sizing",
-      "$value": "32"
-    },
-    "xLarge": {
-      "$type": "sizing",
-      "$value": "48"
-    }
-  },
-  "layout": {
     "space": {
       "none": {
         "parent": "Brand/Toyota",
@@ -458,25 +468,426 @@
         "$value": "6rem",
         "$description": "Use for the largest pieces of UI and for layout elements."
       }
-    },
-    "section": {
-      "paddingHorizontal": {
-        "parent": "Brand/Toyota",
-        "$type": "dimension",
-        "$value": "{semantic.layout.space.xLarge}",
-        "$description": "Horizontal section padding"
+    }
+  },
+  "semantic": {
+    "type": {
+      "body": {
+        "largeRegular": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.regular}",
+            "lineHeight": "{primitive.type.lineHeight.200}",
+            "fontSize": "{primitive.type.fontSize.100}",
+            "letterSpacing": "{primitive.type.letterSpacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          },
+          "$description": "Large body is typically used for long-form body content, marketing copy, articles, tutorials, and support content."
+        },
+        "largeBold": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.bold}",
+            "lineHeight": "{primitive.type.lineHeight.200}",
+            "fontSize": "{primitive.type.fontSize.100}",
+            "letterSpacing": "{primitive.type.letterSpacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          },
+          "$description": "Large body is typically used for long-form body content, marketing copy, articles, tutorials, and support content."
+        },
+        "largeLink": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.bold}",
+            "lineHeight": "{primitive.type.lineHeight.200}",
+            "fontSize": "{primitive.type.fontSize.100}",
+            "letterSpacing": "{primitive.type.letterSpacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.underline}"
+          },
+          "$description": "Large body is typically used for long-form body content, marketing copy, articles, tutorials, and support content."
+        },
+        "mediumRegular": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.regular}",
+            "lineHeight": "{primitive.type.lineHeight.100}",
+            "fontSize": "{primitive.type.fontSize.75}",
+            "letterSpacing": "{primitive.type.letterSpacing.small}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          },
+          "$description": "Medium body is typically used for main UI content."
+        },
+        "mediumBold": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.bold}",
+            "lineHeight": "{primitive.type.lineHeight.100}",
+            "fontSize": "{primitive.type.fontSize.75}",
+            "letterSpacing": "{primitive.type.letterSpacing.small}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          },
+          "$description": "Medium body is typically used for main UI content."
+        },
+        "mediumLink": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.bold}",
+            "lineHeight": "{primitive.type.lineHeight.100}",
+            "fontSize": "{primitive.type.fontSize.75}",
+            "letterSpacing": "{primitive.type.letterSpacing.small}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.underline}"
+          },
+          "$description": "Medium body is typically used for main UI content."
+        },
+        "smallRegular": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.regular}",
+            "lineHeight": "{primitive.type.lineHeight.50}",
+            "fontSize": "{primitive.type.fontSize.50}",
+            "letterSpacing": "{primitive.type.letterSpacing.xLarge}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          },
+          "$description": "Small body is typically used for supplementary body content such as captions, footnotes or legal copy."
+        },
+        "smallBold": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.bold}",
+            "lineHeight": "{primitive.type.lineHeight.50}",
+            "fontSize": "{primitive.type.fontSize.50}",
+            "letterSpacing": "{primitive.type.letterSpacing.xLarge}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          },
+          "$description": "Small body is typically used for supplementary body content such as captions, footnotes or legal copy."
+        },
+        "smallLink": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.bold}",
+            "lineHeight": "{primitive.type.lineHeight.50}",
+            "fontSize": "{primitive.type.fontSize.50}",
+            "letterSpacing": "{primitive.type.letterSpacing.xLarge}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.underline}"
+          },
+          "$description": "Small body is typically used for supplementary body content such as captions, footnotes or legal copy."
+        },
+        "xSmallRegular": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.regular}",
+            "lineHeight": "{primitive.type.lineHeight.10}",
+            "fontSize": "{primitive.type.fontSize.25}",
+            "letterSpacing": "{primitive.type.letterSpacing.xxLarge}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          },
+          "$description": "Extra small body should be used sparingly, typically used as a smaller alternative for supplementary content such as captions, footnotes or legal copy."
+        },
+        "xSmallBold": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.bold}",
+            "lineHeight": "{primitive.type.lineHeight.10}",
+            "fontSize": "{primitive.type.fontSize.25}",
+            "letterSpacing": "{primitive.type.letterSpacing.xxLarge}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          },
+          "$description": "Extra small body should be used sparingly, typically used as a smaller alternative for supplementary content such as captions, footnotes or legal copy."
+        },
+        "xSmallLink": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.bold}",
+            "lineHeight": "{primitive.type.lineHeight.10}",
+            "fontSize": "{primitive.type.fontSize.25}",
+            "letterSpacing": "{primitive.type.letterSpacing.xxLarge}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.underline}"
+          },
+          "$description": "Extra small body should be used sparingly, typically used as a smaller alternative for supplementary content such as captions, footnotes or legal copy."
+        }
       },
-      "gapBetweenItems": {
-        "parent": "Brand/Toyota",
-        "$type": "dimension",
-        "$value": "{semantic.layout.space.medium}",
-        "$description": "The gap between items"
+      "label": {
+        "large": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.bold}",
+            "lineHeight": "{primitive.type.lineHeight.200}",
+            "fontSize": "{primitive.type.fontSize.100}",
+            "letterSpacing": "{primitive.type.letterSpacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          },
+          "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
+        },
+        "medium": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.bold}",
+            "lineHeight": "{primitive.type.lineHeight.100}",
+            "fontSize": "{primitive.type.fontSize.75}",
+            "letterSpacing": "{primitive.type.letterSpacing.small}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          },
+          "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
+        },
+        "small": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.bold}",
+            "lineHeight": "{primitive.type.lineHeight.75}",
+            "fontSize": "{primitive.type.fontSize.50}",
+            "letterSpacing": "{primitive.type.letterSpacing.xLarge}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          },
+          "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
+        },
+        "xSmall": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.bold}",
+            "lineHeight": "{primitive.type.lineHeight.25}",
+            "fontSize": "{primitive.type.fontSize.25}",
+            "letterSpacing": "{primitive.type.letterSpacing.xxLarge}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          },
+          "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
+        },
+        "xxSmall": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.bold}",
+            "lineHeight": "{primitive.type.lineHeight.10}",
+            "fontSize": "{primitive.type.fontSize.10}",
+            "letterSpacing": "{primitive.type.letterSpacing.xxLarge}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          },
+          "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
+        }
       },
-      "paddingVertical": {
-        "parent": "Brand/Toyota",
-        "$type": "dimension",
-        "$value": "{semantic.layout.space.medium}",
-        "$description": "Horizontal section padding"
+      "heading": {
+        "xxLarge": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.brand}",
+            "fontWeight": "{primitive.type.fontWeight.title}",
+            "lineHeight": "{primitive.type.lineHeight.350}",
+            "fontSize": "{primitive.type.fontSize.350}",
+            "letterSpacing": "{primitive.type.letterSpacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.uppercase}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          }
+        },
+        "xLarge": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.brand}",
+            "fontWeight": "{primitive.type.fontWeight.title}",
+            "lineHeight": "{primitive.type.lineHeight.300}",
+            "fontSize": "{primitive.type.fontSize.300}",
+            "letterSpacing": "{primitive.type.letterSpacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.uppercase}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          }
+        },
+        "large": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.brand}",
+            "fontWeight": "{primitive.type.fontWeight.title}",
+            "lineHeight": "{primitive.type.lineHeight.275}",
+            "fontSize": "{primitive.type.fontSize.275}",
+            "letterSpacing": "{primitive.type.letterSpacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.uppercase}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          }
+        },
+        "medium": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.brand}",
+            "lineHeight": "{primitive.type.lineHeight.250}",
+            "fontSize": "{primitive.type.fontSize.250}",
+            "letterSpacing": "{primitive.type.letterSpacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.uppercase}",
+            "textDecoration": "{primitive.type.textDecoration.none}",
+            "fontWeight": "{primitive.type.fontWeight.title}"
+          }
+        },
+        "small": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.title}",
+            "lineHeight": "{primitive.type.lineHeight.100}",
+            "fontSize": "{primitive.type.fontSize.200}",
+            "letterSpacing": "{primitive.type.letterSpacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          }
+        },
+        "xSmall": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.system}",
+            "fontWeight": "{primitive.type.fontWeight.title}",
+            "lineHeight": "{primitive.type.lineHeight.75}",
+            "fontSize": "{primitive.type.fontSize.100}",
+            "letterSpacing": "{primitive.type.letterSpacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.none}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          }
+        }
+      },
+      "display": {
+        "xxLarge": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.brand}",
+            "fontWeight": "{primitive.type.fontWeight.title}",
+            "lineHeight": "{primitive.type.lineHeight.550}",
+            "fontSize": "{primitive.type.fontSize.550}",
+            "letterSpacing": "{primitive.type.letterSpacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.uppercase}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          }
+        },
+        "xLarge": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.brand}",
+            "fontWeight": "{primitive.type.fontWeight.title}",
+            "lineHeight": "{primitive.type.lineHeight.500}",
+            "fontSize": "{primitive.type.fontSize.500}",
+            "letterSpacing": "{primitive.type.letterSpacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.uppercase}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          }
+        },
+        "large": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.brand}",
+            "fontWeight": "{primitive.type.fontWeight.title}",
+            "lineHeight": "{primitive.type.lineHeight.450}",
+            "fontSize": "{primitive.type.fontSize.450}",
+            "letterSpacing": "{primitive.type.letterSpacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.uppercase}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          }
+        },
+        "medium": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.brand}",
+            "fontWeight": "{primitive.type.fontWeight.title}",
+            "lineHeight": "{primitive.type.lineHeight.400}",
+            "fontSize": "{primitive.type.fontSize.400}",
+            "letterSpacing": "{primitive.type.letterSpacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.uppercase}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          }
+        },
+        "small": {
+          "$type": "typography",
+          "$value": {
+            "fontFamily": "{semantic.type.fontFamily.brand}",
+            "fontWeight": "{primitive.type.fontWeight.title}",
+            "lineHeight": "{primitive.type.lineHeight.375}",
+            "fontSize": "{primitive.type.fontSize.375}",
+            "letterSpacing": "{primitive.type.letterSpacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
+            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
+            "textCase": "{primitive.type.textCase.uppercase}",
+            "textDecoration": "{primitive.type.textDecoration.none}"
+          }
+        }
       }
     }
   }
