@@ -4,9 +4,9 @@
     "name": "toyotaLight",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
       "Mode/Light": "enabled",
-      "Brand/Toyota": "enabled"
+      "Brand/Toyota": "enabled",
+      "Global": "enabled"
     }
   },
   {
@@ -14,9 +14,9 @@
     "name": "lexusLight",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
       "Mode/Light": "enabled",
-      "Brand/Lexus": "enabled"
+      "Brand/Lexus": "enabled",
+      "Global": "enabled"
     }
   },
   {
@@ -24,9 +24,9 @@
     "name": "subaruLight",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
       "Mode/Light": "enabled",
-      "Brand/Subaru": "enabled"
+      "Brand/Subaru": "enabled",
+      "Global": "enabled"
     }
   },
   {
@@ -34,9 +34,9 @@
     "name": "kintoLight",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
       "Mode/Light": "enabled",
-      "Brand/Kinto": "enabled"
+      "Brand/Kinto": "enabled",
+      "Global": "enabled"
     }
   },
   {
@@ -44,9 +44,9 @@
     "name": "toyotaDark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
       "Mode/Dark": "enabled",
-      "Brand/Toyota": "enabled"
+      "Brand/Toyota": "enabled",
+      "Global": "enabled"
     }
   },
   {
@@ -54,9 +54,9 @@
     "name": "lexusDark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
       "Mode/Light": "enabled",
-      "Brand/Lexus": "enabled"
+      "Brand/Lexus": "enabled",
+      "Global": "enabled"
     }
   },
   {
@@ -64,9 +64,9 @@
     "name": "subaruDark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
       "Mode/Dark": "enabled",
-      "Brand/Subaru": "enabled"
+      "Brand/Subaru": "enabled",
+      "Global": "enabled"
     }
   },
   {
@@ -74,9 +74,9 @@
     "name": "kintoDark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "global": "enabled",
       "Mode/Dark": "enabled",
-      "Brand/Kinto": "enabled"
+      "Brand/Kinto": "enabled",
+      "Global": "enabled"
     }
   }
 ]

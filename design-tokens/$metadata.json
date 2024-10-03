@@ -1,11 +1,13 @@
 {
   "tokenSetOrder": [
-    "global",
+    "Global",
     "Mode/Light",
     "Mode/Dark",
     "Brand/Toyota",
     "Brand/Lexus",
     "Brand/Subaru",
-    "Brand/Kinto"
+    "Brand/Kinto",
+    "Platform/Mobile",
+    "Platform/Web"
   ]
 }
