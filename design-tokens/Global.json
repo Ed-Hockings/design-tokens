@@ -15,7 +15,7 @@
       }
     },
     "elevation": {
-      "level-1": {
+      "level01": {
         "$type": "boxShadow",
         "$value": [
           {
@@ -36,7 +36,7 @@
           }
         ]
       },
-      "level-2": {
+      "level02": {
         "$type": "boxShadow",
         "$value": [
           {
@@ -57,7 +57,7 @@
           }
         ]
       },
-      "level-3": {
+      "level03": {
         "$type": "boxShadow",
         "$value": [
           {
@@ -78,7 +78,7 @@
           }
         ]
       },
-      "level-4": {
+      "level04": {
         "$type": "boxShadow",
         "$value": [
           {
@@ -99,7 +99,7 @@
           }
         ]
       },
-      "level-5": {
+      "level05": {
         "$type": "boxShadow",
         "$value": [
           {
