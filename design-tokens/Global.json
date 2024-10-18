@@ -341,8 +341,8 @@
         }
       }
     },
-    "size": {
-      "icon": {
+    "layout": {
+      "iconSize": {
         "xSmall": {
           "$type": "sizing",
           "$value": "12"
@@ -363,9 +363,7 @@
           "$type": "sizing",
           "$value": "48"
         }
-      }
-    },
-    "layout": {
+      },
       "space": {
         "none": {
           "parent": "Brand/Toyota",
