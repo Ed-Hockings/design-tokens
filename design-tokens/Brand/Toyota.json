@@ -2043,19 +2043,19 @@
         "paddingHorizontal": {
           "parent": "Brand/Toyota",
           "$type": "dimension",
-          "$value": "{primitive.space.xLarge}",
+          "$value": "{primitive.layout.space.xLarge}",
           "$description": "Horizontal section padding"
         },
         "gapBetweenItems": {
           "parent": "Brand/Toyota",
           "$type": "dimension",
-          "$value": "{primitive.space.medium}",
+          "$value": "{primitive.layout.space.medium}",
           "$description": "The gap between items"
         },
         "paddingVertical": {
           "parent": "Brand/Toyota",
           "$type": "dimension",
-          "$value": "{primitive.space.medium}",
+          "$value": "{primitive.layout.space.medium}",
           "$description": "Horizontal section padding"
         }
       }

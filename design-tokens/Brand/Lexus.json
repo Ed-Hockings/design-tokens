@@ -2040,19 +2040,19 @@
         "paddingHorizontal": {
           "parent": "Brand/Lexus",
           "$type": "dimension",
-          "$value": "{primitive.space.xLarge}",
+          "$value": "{primitive.layout.space.xLarge}",
           "$description": "Horizontal section padding"
         },
         "gapBetweenItems": {
           "parent": "Brand/Lexus",
           "$type": "dimension",
-          "$value": "{primitive.space.small}",
+          "$value": "{primitive.layout.space.small}",
           "$description": "The gap between items"
         },
         "paddingVertical": {
           "parent": "Brand/Lexus",
           "$type": "dimension",
-          "$value": "{primitive.space.small}",
+          "$value": "{primitive.layout.space.small}",
           "$description": "Horizontal section padding"
         }
       }
