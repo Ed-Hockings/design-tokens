@@ -2,12 +2,12 @@
   "primitive": {
     "gradient": {
       "climate": {
-        "toyotaLight": {
+        "Light": {
           "$type": "color",
           "$value": "linear-gradient(90deg, #497cff 0%, #163ea4 51.04%, #f9362a 100%)",
           "$description": "blue60, blue30, red60"
         },
-        "toyotaDark": {
+        "Dark": {
           "$type": "color",
           "$value": "linear-gradient(90deg, #2a5de1 0%, #0f2e7d 51.04%, #ca2117 100%)",
           "$description": "blue60, blue80, red60"
