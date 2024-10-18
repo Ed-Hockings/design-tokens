@@ -339,6 +339,28 @@
           "$type": "dimension",
           "$value": "0rem"
         }
+      },
+      "listSpacing": {
+        "none": {
+          "$type": "spacing",
+          "$value": "0"
+        },
+        "small": {
+          "$type": "spacing",
+          "$value": "10"
+        },
+        "medium": {
+          "$type": "spacing",
+          "$value": "12"
+        },
+        "large": {
+          "$type": "spacing",
+          "$value": "16"
+        },
+        "xLarge": {
+          "$type": "spacing",
+          "$value": "18"
+        }
       }
     },
     "layout": {
