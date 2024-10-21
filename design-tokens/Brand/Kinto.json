@@ -2022,15 +2022,13 @@
       "fontFamily": {
         "brand": {
           "parent": "Brand/Kinto",
-          "description": "",
           "$type": "text",
-          "$value": "Toyota Type W02"
+          "$value": "{primitive.type.fontFamilies.toyotaTypeW02}"
         },
         "system": {
           "parent": "Brand/Kinto",
-          "description": "",
           "$type": "text",
-          "$value": "Arial"
+          "$value": "{primitive.type.fontFamilies.arial}"
         }
       }
     },

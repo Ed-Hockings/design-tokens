@@ -2021,15 +2021,13 @@
       "fontFamily": {
         "brand": {
           "parent": "Brand/Subaru",
-          "description": "",
           "$type": "text",
-          "$value": "Roboto"
+          "$value": "{primitive.type.fontFamilies.roboto}"
         },
         "system": {
           "parent": "Brand/Subaru",
-          "description": "",
           "$type": "text",
-          "$value": "Roboto"
+          "$value": "{primitive.type.fontFamilies.roboto}"
         }
       }
     },

@@ -2023,15 +2023,13 @@
       "fontFamily": {
         "brand": {
           "parent": "Brand/Lexus",
-          "description": "",
           "$type": "text",
-          "$value": "Nobel"
+          "$value": "{primitive.type.fontFamilies.nobel}"
         },
         "system": {
           "parent": "Brand/Lexus",
-          "description": "",
           "$type": "text",
-          "$value": "Inter"
+          "$value": "{primitive.type.fontFamilies.inter}"
         }
       }
     },
