@@ -125,23 +125,23 @@
       "fontFamilies": {
         "inter": {
           "$type": "fontFamilies",
-          "$value": "Inter"
+          "$value": "interRegular"
         },
         "nobel": {
           "$type": "fontFamilies",
-          "$value": "Nobel"
+          "$value": "nobelRegular"
         },
         "toyotaTypeW02": {
           "$type": "fontFamilies",
-          "$value": "Toyota Type W02"
+          "$value": "toyotaTypeW02Regular"
         },
         "roboto": {
           "$type": "fontFamilies",
-          "$value": "Roboto"
+          "$value": "robotoRegular"
         },
         "arial": {
           "$type": "fontFamilies",
-          "$value": "Arial"
+          "$value": "arialRegular"
         }
       },
       "lineHeight": {
