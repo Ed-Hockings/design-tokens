@@ -2,82 +2,82 @@
   "semantic": {
     "color": {
       "background": {
-        "neutralTop": {
+        "neutral-top": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.1300.light}",
+          "$value": "{primitive.color-ramp.brand-neutral.1300.light}",
           "$description": "Description goes here"
         },
-        "neutralMiddle": {
+        "neutral-middle": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.1100.light}",
+          "$value": "{primitive.color-ramp.brand-neutral.1100.light}",
           "$description": "Description goes here"
         },
-        "brandAccentSecondary": {
+        "brand-accent-secondary": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.color.brandAccentSecondary.background.light}",
+          "$value": "{primitive.color.brand-accent-secondary.background.light}",
           "$description": "Description goes here"
         },
-        "dangerTop": {
+        "danger-top": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.red.600.light}",
+          "$value": "{primitive.color-ramp.red.600.light}",
           "$description": "Description goes here"
         },
-        "dangerBottom": {
+        "danger-bottom": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.red.1100.light}",
+          "$value": "{primitive.color-ramp.red.1100.light}",
           "$description": "Description goes here"
         },
-        "warningTop": {
+        "warning-top": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.orange.600.light}",
+          "$value": "{primitive.color-ramp.orange.600.light}",
           "$description": "Description goes here"
         },
-        "warningBottom": {
+        "warning-bottom": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.orange.1300.light}",
+          "$value": "{primitive.color-ramp.orange.1300.light}",
           "$description": "Description goes here"
         },
-        "positiveTop": {
+        "positive-top": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.green.600.light}",
+          "$value": "{primitive.color-ramp.green.600.light}",
           "$description": "Description goes here"
         },
-        "positiveBottom": {
+        "positive-bottom": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.green.1100.light}",
+          "$value": "{primitive.color-ramp.green.1100.light}",
           "$description": "Description goes here"
         },
-        "informationTop": {
+        "information-top": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.blue.600.light}",
+          "$value": "{primitive.color-ramp.blue.600.light}",
           "$description": "Description goes here"
         },
-        "informationBottom": {
+        "information-bottom": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.blue.1100.light}",
+          "$value": "{primitive.color-ramp.blue.1100.light}",
           "$description": "Description goes here"
         },
-        "neutralBottom": {
+        "neutral-bottom": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.1000.light}",
+          "$value": "{primitive.color-ramp.brand-neutral.1000.light}",
           "$description": "Description goes here"
         },
-        "brandAccentPrimary": {
+        "brand-accent-primary": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.color.brandAccentPrimary.background.light}",
+          "$value": "{primitive.color.brand-accent-primary.background.light}",
           "$description": "Description goes here"
         },
         "brand": {
@@ -87,179 +87,178 @@
         }
       },
       "foreground": {
-        "onNeutralStrong": {
+        "on-neutral-strong": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.100.light}",
+          "$value": "{primitive.color-ramp.brand-neutral.100.light}",
           "$description": "Use for headings and labels"
         },
-        "onNeutralSubtle": {
+        "on-neutral-subtle": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.400.light}",
+          "$value": "{primitive.color-ramp.brand-neutral.400.light}",
           "$description": "Use for body and labels"
         },
-        "onNeutralSubtler": {
+        "on-neutral-subtler": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.500.light}",
+          "$value": "{primitive.color-ramp.brand-neutral.500.light}",
           "$description": "Use for supplementary content"
         },
-        "onDangerTop": {
+        "on-danger-top": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.1300.light}",
+          "$value": "{primitive.color-ramp.brand-neutral.1300.light}",
           "$description": "Description goes here"
         },
-        "onWarningTop": {
+        "on-warning-top": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.1300.light}",
+          "$value": "{primitive.color-ramp.brand-neutral.1300.light}",
           "$description": "Description goes here"
         },
-        "onPositiveTop": {
+        "on-positive-top": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.1300.light}",
+          "$value": "{primitive.color-ramp.brand-neutral.1300.light}",
           "$description": "Description goes here"
         },
-        "onInformationTop": {
+        "on-information-top": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.1300.light}",
+          "$value": "{primitive.color-ramp.brand-neutral.1300.light}",
           "$description": "Description goes here"
         },
-        "onDangerBottom": {
+        "on-danger-bottom": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.red.200.light}",
+          "$value": "{primitive.color-ramp.red.200.light}",
           "$description": "Description goes here"
         },
-        "onWarningBottom": {
+        "on-warning-bottom": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.orange.200.light}",
+          "$value": "{primitive.color-ramp.orange.200.light}",
           "$description": "Description goes here"
         },
-        "onPositiveBottom": {
+        "on-positive-bottom": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.green.200.light}",
+          "$value": "{primitive.color-ramp.green.200.light}",
           "$description": "Description goes here"
         },
-        "onInformationBottom": {
+        "on-information-bottom": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.blue.200.light}",
+          "$value": "{primitive.color-ramp.blue.200.light}",
           "$description": "Description goes here"
         },
-        "onNeutralDanger": {
+        "on-neutral-danger": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.red.500.light}",
+          "$value": "{primitive.color-ramp.red.500.light}",
           "$description": "Description goes here"
         },
-        "onNeutralWarning": {
+        "on-neutral-warning": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.orange.500.light}",
+          "$value": "{primitive.color-ramp.orange.500.light}",
           "$description": "Description goes here"
         },
-        "onNeutralPositive": {
+        "on-neutral-positive": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.green.600.light}",
+          "$value": "{primitive.color-ramp.green.600.light}",
           "$description": "Description goes here"
         },
-        "onNeutralInformation": {
+        "on-neutral-information": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.colorRamp.blue.500.light}",
+          "$value": "{primitive.color-ramp.blue.500.light}",
           "$description": "Description goes here"
         },
-        "onBrandAccentSecondary": {
+        "on-brand-accent-secondary": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.color.brandAccentSecondary.onBackground.light}",
+          "$value": "{primitive.color.brand-accent-secondary.onBackground.light}",
           "$description": "Description goes here"
         },
-        "onNeutralBrandAccentPrimary": {
+        "on-neutral-brand-accent-primary": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.color.brandAccentPrimary.foreground.light}",
+          "$value": "{primitive.color.brand-accent-primary.foreground.light}",
           "$description": "Description goes here"
         },
-        "onNeutralBrandAccentSecondary": {
+        "on-neutral-brand-accent-secondary": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.color.brandAccentSecondary.foreground.light}",
+          "$value": "{primitive.color.brand-accent-secondary.foreground.light}",
           "$description": "Description goes here"
         },
-        "onBrandAccentPrimary": {
+        "on-brand-accent-primary": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.color.brandAccentPrimary.onBackground.light}",
+          "$value": "{primitive.color.brand-accent-primary.onBackground.light}",
           "$description": "Description goes here"
         },
-        "onNeutralIcon": {
+        "on-neutral-icon": {
           "parent": "Mode/Light",
           "$type": "color",
           "$value": "{primitive.color.icon.light}",
           "$description": "Description goes here"
         },
-        "onNeutralBrand": {
+        "on-neutral-brand": {
           "$type": "color",
           "$value": "{primitive.color.brand.light}",
           "$description": "Description goes here"
         }
       },
       "border": {
-        "brandAccentPrimary": {
+        "brand-accent-primary": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.color.brandAccentPrimary.background.light}",
+          "$value": "{primitive.color.brand-accent-primary.background.light}",
           "$description": "Description goes here"
         },
         "container": {
           "parent": "Mode/Light",
           "description": "",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.700.light}"
+          "$value": "{primitive.color-ramp.brand-neutral.700.light}"
         },
         "danger": {
           "parent": "Mode/Light",
           "description": "",
           "$type": "color",
-          "$value": "{primitive.colorRamp.red.500.light}"
+          "$value": "{primitive.color-ramp.red.500.light}"
         },
         "warning": {
           "parent": "Mode/Light",
           "description": "",
           "$type": "color",
-          "$value": "{primitive.colorRamp.orange.500.light}"
+          "$value": "{primitive.color-ramp.orange.500.light}"
         },
         "positive": {
           "parent": "Mode/Light",
           "description": "",
           "$type": "color",
-          "$value": "{primitive.colorRamp.green.500.light}"
+          "$value": "{primitive.color-ramp.green.500.light}"
         },
         "information": {
           "parent": "Mode/Light",
           "description": "",
           "$type": "color",
-          "$value": "{primitive.colorRamp.blue.500.light}"
+          "$value": "{primitive.color-ramp.blue.500.light}"
         },
-        "seperator": {
+        "separator": {
           "parent": "Mode/Light",
-          "description": "",
           "$type": "color",
           "$value": "#00000052"
         },
-        "brandAccentSecondary": {
+        "brand-accent-secondary": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.color.brandAccentPrimary.foreground.light}",
+          "$value": "{primitive.color.brand-accent-primary.foreground.light}",
           "$description": "Description goes here"
         },
         "brand": {
@@ -276,8 +275,8 @@
           "$description": "Description goes here"
         }
       },
-      "stateLayer": {
-        "darkenFixed": {
+      "state-layer": {
+        "darken-fixed": {
           "hovered": {
             "parent": "Mode/Light",
             "$type": "color",
@@ -309,7 +308,7 @@
             "$description": "Description goes here"
           }
         },
-        "lightenFixed": {
+        "lighten-fixed": {
           "hovered": {
             "parent": "Mode/Light",
             "$type": "color",
@@ -341,7 +340,7 @@
             "$description": "Description goes here"
           }
         },
-        "darkenInvertible": {
+        "darken-invertible": {
           "hovered": {
             "parent": "Mode/Light",
             "$type": "color",
@@ -373,7 +372,7 @@
             "$description": "Description goes here"
           }
         },
-        "lightenInvertible": {
+        "lighten-invertible": {
           "hovered": {
             "parent": "Mode/Light",
             "$type": "color",
@@ -409,17 +408,17 @@
     }
   },
   "component": {
-    "fuelGauge": {
+    "fuel-gauge": {
       "gas": {
         "parent": "Mode/Light",
         "$type": "color",
-        "$value": "{primitive.colorRamp.purple.700.dark}",
+        "$value": "{primitive.color-ramp.purple.700.dark}",
         "$description": "Description goes here"
       },
       "electric": {
         "parent": "Mode/Light",
         "$type": "color",
-        "$value": "{primitive.colorRamp.teal.600.light}",
+        "$value": "{primitive.color-ramp.teal.600.light}",
         "$description": "Description goes here"
       }
     },
@@ -427,19 +426,19 @@
       "hot": {
         "parent": "Mode/Light",
         "$type": "color",
-        "$value": "{primitive.colorRamp.red.600.light}",
+        "$value": "{primitive.color-ramp.red.600.light}",
         "$description": "Description goes here"
       },
       "mild": {
         "parent": "Mode/Light",
         "$type": "color",
-        "$value": "{primitive.colorRamp.purple.600.light}",
+        "$value": "{primitive.color-ramp.purple.600.light}",
         "$description": "Description goes here"
       },
       "cold": {
         "parent": "Mode/Light",
         "$type": "color",
-        "$value": "{primitive.colorRamp.blue.600.light}",
+        "$value": "{primitive.color-ramp.blue.600.light}",
         "$description": "Description goes here"
       }
     },
@@ -448,7 +447,7 @@
         "parent": "Mode/Light",
         "description": "",
         "$type": "color",
-        "$value": "{primitive.colorRamp.yellow.700.light}"
+        "$value": "{primitive.color-ramp.yellow.700.light}"
       }
     }
   },

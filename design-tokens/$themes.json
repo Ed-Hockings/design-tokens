@@ -54,9 +54,9 @@
     "name": "lexusDark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "Mode/Light": "enabled",
       "Brand/Lexus": "enabled",
-      "Global": "enabled"
+      "Global": "enabled",
+      "Mode/Dark": "enabled"
     }
   },
   {

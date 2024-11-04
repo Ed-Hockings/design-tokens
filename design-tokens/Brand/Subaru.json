@@ -1,7 +1,7 @@
 {
   "primitive": {
-    "colorRamp": {
-      "brandNeutral": {
+    "color-ramp": {
+      "brand-neutral": {
         "100": {
           "light": {
             "parent": "Brand/Subaru",
@@ -185,7 +185,7 @@
           }
         }
       },
-      "brandAccentPrimary": {
+      "brand-accent-primary": {
         "100": {
           "dark": {
             "parent": "Brand/Subaru",
@@ -1857,19 +1857,19 @@
           "$value": "#ffffff"
         }
       },
-      "brandAccentPrimary": {
+      "brand-accent-primary": {
         "background": {
           "light": {
             "parent": "Brand/Subaru",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.600.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.600.light}"
           },
           "dark": {
             "parent": "Brand/Subaru",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.800.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.800.dark}"
           }
         },
         "foreground": {
@@ -1877,25 +1877,25 @@
             "parent": "Brand/Subaru",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.600.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.600.light}"
           },
           "dark": {
             "parent": "Brand/Subaru",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.800.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.800.dark}"
           }
         },
         "border": {
           "light": {
             "parent": "Brand/Subaru",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.800.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.800.dark}"
           },
           "dark": {
             "parent": "Brand/Subaru",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.600.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.600.dark}"
           }
         },
         "onBackground": {
@@ -1903,54 +1903,54 @@
             "parent": "Brand/Subaru",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.1300.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.1300.light}"
           },
           "dark": {
             "parent": "Brand/Subaru",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         }
       },
-      "brandAccentSecondary": {
+      "brand-accent-secondary": {
         "background": {
           "light": {
             "parent": "Brand/Subaru",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.600.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.600.light}"
           },
           "dark": {
             "parent": "Brand/Subaru",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         },
         "foreground": {
           "light": {
             "parent": "Brand/Subaru",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.600.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.600.light}"
           },
           "dark": {
             "parent": "Brand/Subaru",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         },
         "border": {
           "light": {
             "parent": "Brand/Subaru",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.600.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.600.light}"
           },
           "dark": {
             "parent": "Brand/Subaru",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         },
         "onBackground": {
@@ -1958,12 +1958,12 @@
             "parent": "Brand/Subaru",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.1300.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.1300.light}"
           },
           "dark": {
             "parent": "Brand/Subaru",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.800.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.800.dark}"
           }
         }
       },
@@ -1971,13 +1971,13 @@
         "light": {
           "parent": "Brand/Subaru",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandAccentPrimary.400.light}"
+          "$value": "{primitive.color-ramp.brand-accent-primary.400.light}"
         },
         "dark": {
           "parent": "Brand/Subaru",
           "description": "",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandAccentPrimary.200.dark}"
+          "$value": "{primitive.color-ramp.brand-accent-primary.200.dark}"
         }
       },
       "brand": {
@@ -2022,30 +2022,30 @@
         "brand": {
           "parent": "Brand/Subaru",
           "$type": "text",
-          "$value": "{primitive.type.fontFamilies.roboto}"
+          "$value": "{primitive.type.font-families.roboto}"
         },
         "system": {
           "parent": "Brand/Subaru",
           "$type": "text",
-          "$value": "{primitive.type.fontFamilies.roboto}"
+          "$value": "{primitive.type.font-families.roboto}"
         }
       }
     },
     "layout": {
       "section": {
-        "paddingHorizontal": {
+        "padding-horizontal": {
           "parent": "Brand/Subaru",
           "$type": "dimension",
           "$value": "{primitive.layout.space.xLarge}",
           "$description": "Horizontal section padding"
         },
-        "gapBetweenItems": {
+        "gap-between-items": {
           "parent": "Brand/Subaru",
           "$type": "dimension",
           "$value": "{primitive.layout.space.medium}",
           "$description": "The gap between items"
         },
-        "paddingVertical": {
+        "padding-vertical": {
           "parent": "Brand/Subaru",
           "$type": "dimension",
           "$value": "{primitive.layout.space.medium}",
