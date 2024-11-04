@@ -1,7 +1,7 @@
 {
   "primitive": {
-    "colorRamp": {
-      "brandNeutral": {
+    "color-ramp": {
+      "brand-neutral": {
         "100": {
           "light": {
             "parent": "Brand/Toyota",
@@ -185,7 +185,7 @@
           }
         }
       },
-      "brandAccentPrimary": {
+      "brand-accent-primary": {
         "100": {
           "dark": {
             "parent": "Brand/Toyota",
@@ -1857,19 +1857,19 @@
           "$value": "#ffffff"
         }
       },
-      "brandAccentPrimary": {
+      "brand-accent-primary": {
         "background": {
           "light": {
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         },
         "foreground": {
@@ -1877,13 +1877,13 @@
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         },
         "border": {
@@ -1891,13 +1891,13 @@
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         },
         "onBackground": {
@@ -1905,29 +1905,29 @@
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.1300.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.1300.light}"
           },
           "dark": {
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.1300.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.1300.dark}"
           }
         }
       },
-      "brandAccentSecondary": {
+      "brand-accent-secondary": {
         "background": {
           "light": {
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         },
         "foreground": {
@@ -1935,13 +1935,13 @@
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         },
         "border": {
@@ -1949,13 +1949,13 @@
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.100.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         },
         "onBackground": {
@@ -1963,13 +1963,13 @@
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.1300.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.1300.light}"
           },
           "dark": {
             "parent": "Brand/Toyota",
             "description": "",
             "$type": "color",
-            "$value": "{primitive.colorRamp.brandAccentPrimary.1300.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.1300.dark}"
           }
         }
       },
@@ -1978,13 +1978,13 @@
           "parent": "Brand/Toyota",
           "description": "",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.100.light}"
+          "$value": "{primitive.color-ramp.brand-neutral.100.light}"
         },
         "dark": {
           "parent": "Brand/Toyota",
           "description": "",
           "$type": "color",
-          "$value": "{primitive.colorRamp.brandNeutral.100.dark}"
+          "$value": "{primitive.color-ramp.brand-neutral.100.dark}"
         }
       },
       "brand": {
@@ -2029,30 +2029,30 @@
         "brand": {
           "parent": "Brand/Toyota",
           "$type": "text",
-          "$value": "{primitive.type.fontFamilies.toyotaTypeW02}"
+          "$value": "{primitive.type.font-families.toyota-type-W02}"
         },
         "system": {
           "parent": "Brand/Toyota",
           "$type": "text",
-          "$value": "{primitive.type.fontFamilies.inter}"
+          "$value": "{primitive.type.font-families.inter}"
         }
       }
     },
     "layout": {
       "section": {
-        "paddingHorizontal": {
+        "padding-horizontal": {
           "parent": "Brand/Toyota",
           "$type": "dimension",
           "$value": "{primitive.layout.space.xLarge}",
           "$description": "Horizontal section padding"
         },
-        "gapBetweenItems": {
+        "gap-between-items": {
           "parent": "Brand/Toyota",
           "$type": "dimension",
           "$value": "{primitive.layout.space.medium}",
           "$description": "The gap between items"
         },
-        "paddingVertical": {
+        "padding-vertical": {
           "parent": "Brand/Toyota",
           "$type": "dimension",
           "$value": "{primitive.layout.space.medium}",

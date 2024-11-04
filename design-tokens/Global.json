@@ -15,7 +15,7 @@
       }
     },
     "elevation": {
-      "level01": {
+      "level-01": {
         "$type": "boxShadow",
         "$value": [
           {
@@ -36,7 +36,7 @@
           }
         ]
       },
-      "level02": {
+      "level-02": {
         "$type": "boxShadow",
         "$value": [
           {
@@ -57,7 +57,7 @@
           }
         ]
       },
-      "level03": {
+      "level-03": {
         "$type": "boxShadow",
         "$value": [
           {
@@ -78,7 +78,7 @@
           }
         ]
       },
-      "level04": {
+      "level-04": {
         "$type": "boxShadow",
         "$value": [
           {
@@ -99,7 +99,7 @@
           }
         ]
       },
-      "level05": {
+      "level-05": {
         "$type": "boxShadow",
         "$value": [
           {
@@ -122,29 +122,29 @@
       }
     },
     "type": {
-      "fontFamilies": {
+      "font-families": {
         "inter": {
           "$type": "fontFamilies",
-          "$value": "interRegular"
+          "$value": "inter-regular"
         },
         "nobel": {
           "$type": "fontFamilies",
-          "$value": "nobelRegular"
+          "$value": "nobel-regular"
         },
-        "toyotaTypeW02": {
+        "toyota-type-W02": {
           "$type": "fontFamilies",
-          "$value": "toyotaTypeW02Regular"
+          "$value": "toyota-type-W02-regular"
         },
         "roboto": {
           "$type": "fontFamilies",
-          "$value": "robotoRegular"
+          "$value": "roboto-regular"
         },
         "arial": {
           "$type": "fontFamilies",
-          "$value": "arialRegular"
+          "$value": "arial-regular"
         }
       },
-      "lineHeight": {
+      "line-height": {
         "10": {
           "$type": "lineHeights",
           "$value": "16"
@@ -206,7 +206,7 @@
           "$value": "76"
         }
       },
-      "fontWeight": {
+      "font-weight": {
         "regular": {
           "$type": "fontWeights",
           "$value": "400"
@@ -224,7 +224,7 @@
           "$value": "425"
         }
       },
-      "fontSize": {
+      "font-size": {
         "10": {
           "$type": "fontSizes",
           "$value": "10"
@@ -286,7 +286,7 @@
           "$value": "62"
         }
       },
-      "letterSpacing": {
+      "letter-spacing": {
         "small": {
           "$type": "letterSpacing",
           "$value": "0.2"
@@ -308,13 +308,13 @@
           "$value": "0.23"
         }
       },
-      "paragraphSpacing": {
+      "paragraph-spacing": {
         "none": {
           "$type": "paragraphSpacing",
           "$value": "0"
         }
       },
-      "textCase": {
+      "text-case": {
         "none": {
           "$type": "textCase",
           "$value": "none"
@@ -324,7 +324,7 @@
           "$value": "uppercase"
         }
       },
-      "textDecoration": {
+      "text-decoration": {
         "none": {
           "$type": "textDecoration",
           "$value": "none"
@@ -334,13 +334,13 @@
           "$value": "underline"
         }
       },
-      "paragraphIndent": {
+      "paragraph-indent": {
         "none": {
           "$type": "dimension",
           "$value": "0rem"
         }
       },
-      "listSpacing": {
+      "list-spacing": {
         "none": {
           "$type": "spacing",
           "$value": "0"
@@ -364,7 +364,7 @@
       }
     },
     "layout": {
-      "iconSize": {
+      "icon-size": {
         "xSmall": {
           "$type": "sizing",
           "$value": "12"
@@ -515,183 +515,183 @@
   "semantic": {
     "type": {
       "body": {
-        "largeRegular": {
+        "large-regular": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.regular}",
-            "lineHeight": "{primitive.type.lineHeight.200}",
-            "fontSize": "{primitive.type.fontSize.100}",
-            "letterSpacing": "{primitive.type.letterSpacing.large}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.regular}",
+            "lineHeight": "{primitive.type.line-height.200}",
+            "fontSize": "{primitive.type.font-size.100}",
+            "letterSpacing": "{primitive.type.letter-spacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           },
           "$description": "Large body is typically used for long-form body content, marketing copy, articles, tutorials, and support content."
         },
-        "largeBold": {
+        "large-bold": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.bold}",
-            "lineHeight": "{primitive.type.lineHeight.200}",
-            "fontSize": "{primitive.type.fontSize.100}",
-            "letterSpacing": "{primitive.type.letterSpacing.large}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.bold}",
+            "lineHeight": "{primitive.type.line-height.200}",
+            "fontSize": "{primitive.type.font-size.100}",
+            "letterSpacing": "{primitive.type.letter-spacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           },
           "$description": "Large body is typically used for long-form body content, marketing copy, articles, tutorials, and support content."
         },
-        "largeLink": {
+        "large-link": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.bold}",
-            "lineHeight": "{primitive.type.lineHeight.200}",
-            "fontSize": "{primitive.type.fontSize.100}",
-            "letterSpacing": "{primitive.type.letterSpacing.large}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.underline}"
+            "fontWeight": "{primitive.type.font-weight.bold}",
+            "lineHeight": "{primitive.type.line-height.200}",
+            "fontSize": "{primitive.type.font-size.100}",
+            "letterSpacing": "{primitive.type.letter-spacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.underline}"
           },
           "$description": "Large body is typically used for long-form body content, marketing copy, articles, tutorials, and support content."
         },
-        "mediumRegular": {
+        "medium-regular": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.regular}",
-            "lineHeight": "{primitive.type.lineHeight.100}",
-            "fontSize": "{primitive.type.fontSize.75}",
-            "letterSpacing": "{primitive.type.letterSpacing.small}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.regular}",
+            "lineHeight": "{primitive.type.line-height.100}",
+            "fontSize": "{primitive.type.font-size.75}",
+            "letterSpacing": "{primitive.type.letter-spacing.small}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           },
           "$description": "Medium body is typically used for main UI content."
         },
-        "mediumBold": {
+        "medium-bold": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.bold}",
-            "lineHeight": "{primitive.type.lineHeight.100}",
-            "fontSize": "{primitive.type.fontSize.75}",
-            "letterSpacing": "{primitive.type.letterSpacing.small}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.bold}",
+            "lineHeight": "{primitive.type.line-height.100}",
+            "fontSize": "{primitive.type.font-size.75}",
+            "letterSpacing": "{primitive.type.letter-spacing.small}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           },
           "$description": "Medium body is typically used for main UI content."
         },
-        "mediumLink": {
+        "medium-link": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.bold}",
-            "lineHeight": "{primitive.type.lineHeight.100}",
-            "fontSize": "{primitive.type.fontSize.75}",
-            "letterSpacing": "{primitive.type.letterSpacing.small}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.underline}"
+            "fontWeight": "{primitive.type.font-weight.bold}",
+            "lineHeight": "{primitive.type.line-height.100}",
+            "fontSize": "{primitive.type.font-size.75}",
+            "letterSpacing": "{primitive.type.letter-spacing.small}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.underline}"
           },
           "$description": "Medium body is typically used for main UI content."
         },
-        "smallRegular": {
+        "small-regular": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.regular}",
-            "lineHeight": "{primitive.type.lineHeight.50}",
-            "fontSize": "{primitive.type.fontSize.50}",
-            "letterSpacing": "{primitive.type.letterSpacing.xLarge}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.regular}",
+            "lineHeight": "{primitive.type.line-height.50}",
+            "fontSize": "{primitive.type.font-size.50}",
+            "letterSpacing": "{primitive.type.letter-spacing.xLarge}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           },
           "$description": "Small body is typically used for supplementary body content such as captions, footnotes or legal copy."
         },
-        "smallBold": {
+        "small-bold": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.bold}",
-            "lineHeight": "{primitive.type.lineHeight.50}",
-            "fontSize": "{primitive.type.fontSize.50}",
-            "letterSpacing": "{primitive.type.letterSpacing.xLarge}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.bold}",
+            "lineHeight": "{primitive.type.line-height.50}",
+            "fontSize": "{primitive.type.font-size.50}",
+            "letterSpacing": "{primitive.type.letter-spacing.xLarge}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           },
           "$description": "Small body is typically used for supplementary body content such as captions, footnotes or legal copy."
         },
-        "smallLink": {
+        "small-link": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.bold}",
-            "lineHeight": "{primitive.type.lineHeight.50}",
-            "fontSize": "{primitive.type.fontSize.50}",
-            "letterSpacing": "{primitive.type.letterSpacing.xLarge}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.underline}"
+            "fontWeight": "{primitive.type.font-weight.bold}",
+            "lineHeight": "{primitive.type.line-height.50}",
+            "fontSize": "{primitive.type.font-size.50}",
+            "letterSpacing": "{primitive.type.letter-spacing.xLarge}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.underline}"
           },
           "$description": "Small body is typically used for supplementary body content such as captions, footnotes or legal copy."
         },
-        "xSmallRegular": {
+        "xSmall-regular": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.regular}",
-            "lineHeight": "{primitive.type.lineHeight.10}",
-            "fontSize": "{primitive.type.fontSize.25}",
-            "letterSpacing": "{primitive.type.letterSpacing.xxLarge}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.regular}",
+            "lineHeight": "{primitive.type.line-height.10}",
+            "fontSize": "{primitive.type.font-size.25}",
+            "letterSpacing": "{primitive.type.letter-spacing.xxLarge}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           },
           "$description": "Extra small body should be used sparingly, typically used as a smaller alternative for supplementary content such as captions, footnotes or legal copy."
         },
-        "xSmallBold": {
+        "xSmall-bold": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.bold}",
-            "lineHeight": "{primitive.type.lineHeight.10}",
-            "fontSize": "{primitive.type.fontSize.25}",
-            "letterSpacing": "{primitive.type.letterSpacing.xxLarge}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.bold}",
+            "lineHeight": "{primitive.type.line-height.10}",
+            "fontSize": "{primitive.type.font-size.25}",
+            "letterSpacing": "{primitive.type.letter-spacing.xxLarge}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           },
           "$description": "Extra small body should be used sparingly, typically used as a smaller alternative for supplementary content such as captions, footnotes or legal copy."
         },
-        "xSmallLink": {
+        "xSmall-link": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.bold}",
-            "lineHeight": "{primitive.type.lineHeight.10}",
-            "fontSize": "{primitive.type.fontSize.25}",
-            "letterSpacing": "{primitive.type.letterSpacing.xxLarge}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.underline}"
+            "fontWeight": "{primitive.type.font-weight.bold}",
+            "lineHeight": "{primitive.type.line-height.10}",
+            "fontSize": "{primitive.type.font-size.25}",
+            "letterSpacing": "{primitive.type.letter-spacing.xxLarge}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.underline}"
           },
           "$description": "Extra small body should be used sparingly, typically used as a smaller alternative for supplementary content such as captions, footnotes or legal copy."
         }
@@ -701,14 +701,14 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.bold}",
-            "lineHeight": "{primitive.type.lineHeight.200}",
-            "fontSize": "{primitive.type.fontSize.100}",
-            "letterSpacing": "{primitive.type.letterSpacing.large}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.bold}",
+            "lineHeight": "{primitive.type.line-height.200}",
+            "fontSize": "{primitive.type.font-size.100}",
+            "letterSpacing": "{primitive.type.letter-spacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           },
           "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
         },
@@ -716,14 +716,14 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.bold}",
-            "lineHeight": "{primitive.type.lineHeight.100}",
-            "fontSize": "{primitive.type.fontSize.75}",
-            "letterSpacing": "{primitive.type.letterSpacing.small}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.bold}",
+            "lineHeight": "{primitive.type.line-height.100}",
+            "fontSize": "{primitive.type.font-size.75}",
+            "letterSpacing": "{primitive.type.letter-spacing.small}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           },
           "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
         },
@@ -731,14 +731,14 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.bold}",
-            "lineHeight": "{primitive.type.lineHeight.75}",
-            "fontSize": "{primitive.type.fontSize.50}",
-            "letterSpacing": "{primitive.type.letterSpacing.xLarge}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.bold}",
+            "lineHeight": "{primitive.type.line-height.75}",
+            "fontSize": "{primitive.type.font-size.50}",
+            "letterSpacing": "{primitive.type.letter-spacing.xLarge}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           },
           "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
         },
@@ -746,14 +746,14 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.bold}",
-            "lineHeight": "{primitive.type.lineHeight.25}",
-            "fontSize": "{primitive.type.fontSize.25}",
-            "letterSpacing": "{primitive.type.letterSpacing.xxLarge}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.bold}",
+            "lineHeight": "{primitive.type.line-height.25}",
+            "fontSize": "{primitive.type.font-size.25}",
+            "letterSpacing": "{primitive.type.letter-spacing.xxLarge}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           },
           "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
         },
@@ -761,14 +761,14 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.bold}",
-            "lineHeight": "{primitive.type.lineHeight.10}",
-            "fontSize": "{primitive.type.fontSize.10}",
-            "letterSpacing": "{primitive.type.letterSpacing.xxLarge}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.bold}",
+            "lineHeight": "{primitive.type.line-height.10}",
+            "fontSize": "{primitive.type.font-size.10}",
+            "letterSpacing": "{primitive.type.letter-spacing.xxLarge}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           },
           "$description": "Label styles are smaller, utilitarian styles, used for text inside components. \n\nButtons, for example, use the Label Medium style."
         }
@@ -778,84 +778,84 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.brand}",
-            "fontWeight": "{primitive.type.fontWeight.title}",
-            "lineHeight": "{primitive.type.lineHeight.350}",
-            "fontSize": "{primitive.type.fontSize.350}",
-            "letterSpacing": "{primitive.type.letterSpacing.medium}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.uppercase}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.title}",
+            "lineHeight": "{primitive.type.line-height.350}",
+            "fontSize": "{primitive.type.font-size.350}",
+            "letterSpacing": "{primitive.type.letter-spacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.uppercase}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
         "xLarge": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.brand}",
-            "fontWeight": "{primitive.type.fontWeight.title}",
-            "lineHeight": "{primitive.type.lineHeight.300}",
-            "fontSize": "{primitive.type.fontSize.300}",
-            "letterSpacing": "{primitive.type.letterSpacing.medium}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.uppercase}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.title}",
+            "lineHeight": "{primitive.type.line-height.300}",
+            "fontSize": "{primitive.type.font-size.300}",
+            "letterSpacing": "{primitive.type.letter-spacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.uppercase}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
         "large": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.brand}",
-            "fontWeight": "{primitive.type.fontWeight.title}",
-            "lineHeight": "{primitive.type.lineHeight.275}",
-            "fontSize": "{primitive.type.fontSize.275}",
-            "letterSpacing": "{primitive.type.letterSpacing.medium}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.uppercase}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.title}",
+            "lineHeight": "{primitive.type.line-height.275}",
+            "fontSize": "{primitive.type.font-size.275}",
+            "letterSpacing": "{primitive.type.letter-spacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.uppercase}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
         "medium": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.brand}",
-            "lineHeight": "{primitive.type.lineHeight.250}",
-            "fontSize": "{primitive.type.fontSize.250}",
-            "letterSpacing": "{primitive.type.letterSpacing.large}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.uppercase}",
-            "textDecoration": "{primitive.type.textDecoration.none}",
-            "fontWeight": "{primitive.type.fontWeight.title}"
+            "lineHeight": "{primitive.type.line-height.250}",
+            "fontSize": "{primitive.type.font-size.250}",
+            "letterSpacing": "{primitive.type.letter-spacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.uppercase}",
+            "textDecoration": "{primitive.type.text-decoration.none}",
+            "fontWeight": "{primitive.type.font-weight.title}"
           }
         },
         "small": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.title}",
-            "lineHeight": "{primitive.type.lineHeight.100}",
-            "fontSize": "{primitive.type.fontSize.200}",
-            "letterSpacing": "{primitive.type.letterSpacing.large}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.title}",
+            "lineHeight": "{primitive.type.line-height.100}",
+            "fontSize": "{primitive.type.font-size.200}",
+            "letterSpacing": "{primitive.type.letter-spacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
         "xSmall": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.system}",
-            "fontWeight": "{primitive.type.fontWeight.title}",
-            "lineHeight": "{primitive.type.lineHeight.75}",
-            "fontSize": "{primitive.type.fontSize.100}",
-            "letterSpacing": "{primitive.type.letterSpacing.large}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.none}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.title}",
+            "lineHeight": "{primitive.type.line-height.75}",
+            "fontSize": "{primitive.type.font-size.100}",
+            "letterSpacing": "{primitive.type.letter-spacing.large}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.none}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           }
         }
       },
@@ -864,70 +864,70 @@
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.brand}",
-            "fontWeight": "{primitive.type.fontWeight.title}",
-            "lineHeight": "{primitive.type.lineHeight.550}",
-            "fontSize": "{primitive.type.fontSize.550}",
-            "letterSpacing": "{primitive.type.letterSpacing.medium}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.uppercase}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.title}",
+            "lineHeight": "{primitive.type.line-height.550}",
+            "fontSize": "{primitive.type.font-size.550}",
+            "letterSpacing": "{primitive.type.letter-spacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.uppercase}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
         "xLarge": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.brand}",
-            "fontWeight": "{primitive.type.fontWeight.title}",
-            "lineHeight": "{primitive.type.lineHeight.500}",
-            "fontSize": "{primitive.type.fontSize.500}",
-            "letterSpacing": "{primitive.type.letterSpacing.medium}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.uppercase}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.title}",
+            "lineHeight": "{primitive.type.line-height.500}",
+            "fontSize": "{primitive.type.font-size.500}",
+            "letterSpacing": "{primitive.type.letter-spacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.uppercase}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
         "large": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.brand}",
-            "fontWeight": "{primitive.type.fontWeight.title}",
-            "lineHeight": "{primitive.type.lineHeight.450}",
-            "fontSize": "{primitive.type.fontSize.450}",
-            "letterSpacing": "{primitive.type.letterSpacing.medium}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.uppercase}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.title}",
+            "lineHeight": "{primitive.type.line-height.450}",
+            "fontSize": "{primitive.type.font-size.450}",
+            "letterSpacing": "{primitive.type.letter-spacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.uppercase}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
         "medium": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.brand}",
-            "fontWeight": "{primitive.type.fontWeight.title}",
-            "lineHeight": "{primitive.type.lineHeight.400}",
-            "fontSize": "{primitive.type.fontSize.400}",
-            "letterSpacing": "{primitive.type.letterSpacing.medium}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.uppercase}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.title}",
+            "lineHeight": "{primitive.type.line-height.400}",
+            "fontSize": "{primitive.type.font-size.400}",
+            "letterSpacing": "{primitive.type.letter-spacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.uppercase}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
         "small": {
           "$type": "typography",
           "$value": {
             "fontFamily": "{semantic.type.fontFamily.brand}",
-            "fontWeight": "{primitive.type.fontWeight.title}",
-            "lineHeight": "{primitive.type.lineHeight.375}",
-            "fontSize": "{primitive.type.fontSize.375}",
-            "letterSpacing": "{primitive.type.letterSpacing.medium}",
-            "paragraphSpacing": "{primitive.type.paragraphSpacing.none}",
-            "paragraphIndent": "{primitive.type.paragraphIndent.none}",
-            "textCase": "{primitive.type.textCase.uppercase}",
-            "textDecoration": "{primitive.type.textDecoration.none}"
+            "fontWeight": "{primitive.type.font-weight.title}",
+            "lineHeight": "{primitive.type.line-height.375}",
+            "fontSize": "{primitive.type.font-size.375}",
+            "letterSpacing": "{primitive.type.letter-spacing.medium}",
+            "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
+            "paragraphIndent": "{primitive.type.paragraph-indent.none}",
+            "textCase": "{primitive.type.text-case.uppercase}",
+            "textDecoration": "{primitive.type.text-decoration.none}"
           }
         }
       }
