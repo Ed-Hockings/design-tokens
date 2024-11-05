@@ -2019,7 +2019,7 @@
   },
   "semantic": {
     "type": {
-      "fontFamily": {
+      "font-family": {
         "brand": {
           "parent": "Brand/Kinto",
           "$type": "text",
@@ -2029,6 +2029,24 @@
           "parent": "Brand/Kinto",
           "$type": "text",
           "$value": "{primitive.type.font-families.arial}"
+        }
+      },
+      "font-weight": {
+        "regular": {
+          "$type": "fontWeights",
+          "$value": "regular"
+        },
+        "bold": {
+          "$type": "fontWeights",
+          "$value": "bold"
+        },
+        "title": {
+          "$type": "fontWeights",
+          "$value": "bold"
+        },
+        "medium": {
+          "$type": "fontWeights",
+          "$value": "regluar"
         }
       }
     },

@@ -2025,7 +2025,7 @@
   },
   "semantic": {
     "type": {
-      "fontFamily": {
+      "font-family": {
         "brand": {
           "parent": "Brand/Toyota",
           "$type": "text",
@@ -2035,6 +2035,24 @@
           "parent": "Brand/Toyota",
           "$type": "text",
           "$value": "{primitive.type.font-families.inter}"
+        }
+      },
+      "font-weight": {
+        "regular": {
+          "$type": "fontWeights",
+          "$value": "regular"
+        },
+        "bold": {
+          "$type": "fontWeights",
+          "$value": "bold"
+        },
+        "title": {
+          "$type": "fontWeights",
+          "$value": "book"
+        },
+        "medium": {
+          "$type": "fontWeights",
+          "$value": "medium"
         }
       }
     },

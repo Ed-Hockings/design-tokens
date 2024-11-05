@@ -2018,7 +2018,7 @@
   },
   "semantic": {
     "type": {
-      "fontFamily": {
+      "font-family": {
         "brand": {
           "parent": "Brand/Subaru",
           "$type": "text",
@@ -2028,6 +2028,24 @@
           "parent": "Brand/Subaru",
           "$type": "text",
           "$value": "{primitive.type.font-families.roboto}"
+        }
+      },
+      "font-weight": {
+        "regular": {
+          "$type": "fontWeights",
+          "$value": "regular"
+        },
+        "bold": {
+          "$type": "fontWeights",
+          "$value": "bold"
+        },
+        "title": {
+          "$type": "fontWeights",
+          "$value": "bold"
+        },
+        "medium": {
+          "$type": "fontWeights",
+          "$value": "regular"
         }
       }
     },
