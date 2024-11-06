@@ -2028,23 +2028,23 @@
       "font-families": {
         "system-regular": {
           "$type": "fontWeights",
-          "$value": "primitive.type.font-families.inter"
+          "$value": "{primitive.type.font-families.inter-regular}"
         },
         "system-bold": {
           "$type": "fontWeights",
-          "$value": "primitive.type.font-families.inter-bold"
+          "$value": "{primitive.type.font-families.inter-bold}"
         },
         "brand-regular": {
           "$type": "fontWeights",
-          "$value": "primitive.type.font-families.toyota-type-W02"
+          "$value": "{primitive.type.font-families.toyota-type-w02-regular}"
         },
         "brand-bold": {
           "$type": "fontWeights",
-          "$value": "primitive.type.font-families.toyota-type-W02-bold"
+          "$value": "{primitive.type.font-families.toyota-type-w02-bold}"
         },
         "brand-title": {
           "$type": "fontWeights",
-          "$value": "primitive.type.font-families.toyota-type-W02-book"
+          "$value": "{primitive.type.font-families.toyota-type-w02-book}"
         }
       }
     },

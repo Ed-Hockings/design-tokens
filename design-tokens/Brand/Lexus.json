@@ -2103,23 +2103,23 @@
       "font-families": {
         "system-regular": {
           "$type": "fontWeights",
-          "$value": "primitive.type.font-families.inter"
+          "$value": "{primitive.type.font-families.inter-regular}"
         },
         "system-bold": {
           "$type": "fontWeights",
-          "$value": "primitive.type.font-families.inter-bold"
+          "$value": "{primitive.type.font-families.inter-bold}"
         },
         "brand-regular": {
           "$type": "fontWeights",
-          "$value": "primitive.type.font-families.nobel"
+          "$value": "{primitive.type.font-families.nobel-regular}"
         },
         "brand-bold": {
           "$type": "fontWeights",
-          "$value": "primitive.type.font-families.nobel-bold"
+          "$value": "{primitive.type.font-families.nobel-bold}"
         },
         "brand-title": {
           "$type": "fontWeights",
-          "$value": "primitive.type.font-families.nobel-book"
+          "$value": "{primitive.type.font-families.nobel-book}"
         }
       }
     }
