@@ -2116,10 +2116,6 @@
           "$type": "fontWeights",
           "$value": "primitive.type.font-families.toyota-type-W02-bold"
         },
-        "brand-medium": {
-          "$type": "fontWeights",
-          "$value": "primitive.type.font-families.toyota-type-W02"
-        },
         "brand-title": {
           "$type": "fontWeights",
           "$value": "primitive.type.font-families.toyota-type-W02-bold"

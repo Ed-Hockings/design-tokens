@@ -2117,10 +2117,6 @@
           "$type": "fontWeights",
           "$value": "primitive.type.font-families.nobel-bold"
         },
-        "brand-medium": {
-          "$type": "fontWeights",
-          "$value": "primitive.type.font-families.nobel-medium"
-        },
         "brand-title": {
           "$type": "fontWeights",
           "$value": "primitive.type.font-families.nobel-book"

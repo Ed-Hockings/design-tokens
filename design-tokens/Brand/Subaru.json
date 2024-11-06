@@ -2115,10 +2115,6 @@
           "$type": "fontWeights",
           "$value": "primitive.type.font-families.roboto-bold"
         },
-        "brand-medium": {
-          "$type": "fontWeights",
-          "$value": "primitive.type.font-families.roboto"
-        },
         "brand-title": {
           "$type": "fontWeights",
           "$value": "primitive.type.font-families.roboto"

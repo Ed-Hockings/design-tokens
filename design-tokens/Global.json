@@ -135,10 +135,6 @@
           "$type": "fontFamilies",
           "$value": "nobel-regular"
         },
-        "nobel-medium": {
-          "$type": "fontFamilies",
-          "$value": "nobel-medium"
-        },
         "nobel-book": {
           "$type": "fontFamilies",
           "$value": "nobel-book"
@@ -146,10 +142,6 @@
         "nobel-bold": {
           "$type": "fontFamilies",
           "$value": "nobel-bold"
-        },
-        "toyota-type-W02-regular": {
-          "$type": "fontFamilies",
-          "$value": "toyota-type-W02-regular"
         },
         "roboto-regular": {
           "$type": "fontFamilies",
@@ -167,17 +159,17 @@
           "$type": "fontFamilies",
           "$value": "arial-bold"
         },
-        "toyota-type-W02-medium": {
+        "toyota-type-w02-regular": {
           "$type": "fontFamilies",
-          "$value": "toyota-type-W02-medium"
+          "$value": "toyota-type-w02-regular"
         },
-        "toyota-type-W02-bold": {
+        "toyota-type-w02-bold": {
           "$type": "fontFamilies",
-          "$value": "toyota-type-W02-bold"
+          "$value": "toyota-type-w02-bold"
         },
-        "toyota-type-W02-book": {
+        "toyota-type-w02-book": {
           "$type": "fontFamilies",
-          "$value": "toyota-type-W02-book"
+          "$value": "toyota-type-w02-book"
         }
       },
       "line-height": {
