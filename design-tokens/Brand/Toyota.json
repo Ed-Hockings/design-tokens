@@ -2025,34 +2025,30 @@
   },
   "semantic": {
     "type": {
-      "font-family": {
-        "brand": {
-          "parent": "Brand/Toyota",
-          "$type": "text",
-          "$value": "{primitive.type.font-families.toyota-type-W02}"
-        },
-        "system": {
-          "parent": "Brand/Toyota",
-          "$type": "text",
-          "$value": "{primitive.type.font-families.inter}"
-        }
-      },
-      "font-weight": {
-        "regular": {
+      "font-families": {
+        "system-regular": {
           "$type": "fontWeights",
-          "$value": "regular"
+          "$value": "primitive.type.font-families.inter"
         },
-        "bold": {
+        "system-bold": {
           "$type": "fontWeights",
-          "$value": "bold"
+          "$value": "primitive.type.font-families.inter-bold"
         },
-        "title": {
+        "brand-regular": {
           "$type": "fontWeights",
-          "$value": "book"
+          "$value": "primitive.type.font-families.toyota-type-W02"
         },
-        "medium": {
+        "brand-bold": {
           "$type": "fontWeights",
-          "$value": "medium"
+          "$value": "primitive.type.font-families.toyota-type-W02-bold"
+        },
+        "brand-medium": {
+          "$type": "fontWeights",
+          "$value": "primitive.type.font-families.toyota-type-W02-medium"
+        },
+        "brand-title": {
+          "$type": "fontWeights",
+          "$value": "primitive.type.font-families.toyota-type-W02-book"
         }
       }
     },
