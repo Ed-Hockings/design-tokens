@@ -2019,20 +2019,6 @@
     "$value": "false"
   },
   "semantic": {
-    "type": {
-      "fontFamily": {
-        "brand": {
-          "parent": "Brand/Lexus",
-          "$type": "text",
-          "$value": "{primitive.type.font-families.nobel}"
-        },
-        "system": {
-          "parent": "Brand/Lexus",
-          "$type": "text",
-          "$value": "{primitive.type.font-families.inter}"
-        }
-      }
-    },
     "layout": {
       "section": {
         "padding-horizontal": {
@@ -2110,6 +2096,30 @@
           "description": "",
           "$type": "dimension",
           "$value": "0rem"
+        }
+      }
+    },
+    "type": {
+      "font-families": {
+        "system-regular": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.inter-regular}"
+        },
+        "system-bold": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.inter-bold}"
+        },
+        "brand-regular": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.nobel-regular}"
+        },
+        "brand-bold": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.nobel-bold}"
+        },
+        "brand-title": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.nobel-book}"
         }
       }
     }

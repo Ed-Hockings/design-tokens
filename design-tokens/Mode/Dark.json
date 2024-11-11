@@ -280,31 +280,31 @@
           "hovered": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#0000001f",
+            "$value": "#7089EC3D",
             "$description": "Description goes here"
           },
           "pressed": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#00000029",
+            "$value": "#7089EC5C",
             "$description": "Description goes here"
           },
           "focused": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#0000001f",
+            "$value": "#7089EC47",
             "$description": "Description goes here"
           },
           "dragged": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#00000029",
+            "$value": "#7089EC52",
             "$description": "Description goes here"
           },
           "resting": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#00000014",
+            "$value": "#7089EC29",
             "$description": "Description goes here"
           }
         },
@@ -312,31 +312,31 @@
           "hovered": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff1f",
+            "$value": "#ffffff3D",
             "$description": "Description goes here"
           },
           "pressed": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff29",
+            "$value": "#ffffff5C",
             "$description": "Description goes here"
           },
           "focused": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff1f",
+            "$value": "#ffffff47",
             "$description": "Description goes here"
           },
           "dragged": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff29",
+            "$value": "#ffffff52",
             "$description": "Description goes here"
           },
           "resting": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff14",
+            "$value": "#ffffff29",
             "$description": "Description goes here"
           }
         },
@@ -344,31 +344,31 @@
           "hovered": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff1f",
+            "$value": "#ffffff3D",
             "$description": "Description goes here"
           },
           "pressed": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff29",
+            "$value": "#ffffff5C",
             "$description": "Description goes here"
           },
           "focused": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff1f",
+            "$value": "#ffffff47",
             "$description": "Description goes here"
           },
           "dragged": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff29",
+            "$value": "#ffffff52",
             "$description": "Description goes here"
           },
           "resting": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff14",
+            "$value": "#ffffff29",
             "$description": "Description goes here"
           }
         },
@@ -376,31 +376,31 @@
           "hovered": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#0000001f",
+            "$value": "#7089EC3D",
             "$description": "Description goes here"
           },
           "pressed": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#00000029",
+            "$value": "#7089EC5C",
             "$description": "Description goes here"
           },
           "focused": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#0000001f",
+            "$value": "#7089EC47",
             "$description": "Description goes here"
           },
           "dragged": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#00000029",
+            "$value": "#7089EC52",
             "$description": "Description goes here"
           },
           "resting": {
             "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#00000014",
+            "$value": "#7089EC29",
             "$description": "Description goes here"
           }
         }

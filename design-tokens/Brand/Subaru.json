@@ -2017,20 +2017,6 @@
     "$value": "false"
   },
   "semantic": {
-    "type": {
-      "fontFamily": {
-        "brand": {
-          "parent": "Brand/Subaru",
-          "$type": "text",
-          "$value": "{primitive.type.font-families.roboto}"
-        },
-        "system": {
-          "parent": "Brand/Subaru",
-          "$type": "text",
-          "$value": "{primitive.type.font-families.roboto}"
-        }
-      }
-    },
     "layout": {
       "section": {
         "padding-horizontal": {
@@ -2108,6 +2094,30 @@
           "description": "",
           "$type": "dimension",
           "$value": "0rem"
+        }
+      }
+    },
+    "type": {
+      "font-families": {
+        "system-regular": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.roboto-regular}"
+        },
+        "system-bold": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.roboto-bold}"
+        },
+        "brand-regular": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.roboto-regular}"
+        },
+        "brand-bold": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.roboto-bold}"
+        },
+        "brand-title": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.roboto-regular}"
         }
       }
     }

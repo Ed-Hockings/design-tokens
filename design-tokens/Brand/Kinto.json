@@ -2018,20 +2018,6 @@
     "$value": "true"
   },
   "semantic": {
-    "type": {
-      "fontFamily": {
-        "brand": {
-          "parent": "Brand/Kinto",
-          "$type": "text",
-          "$value": "{primitive.type.font-families.toyota-type-W02}"
-        },
-        "system": {
-          "parent": "Brand/Kinto",
-          "$type": "text",
-          "$value": "{primitive.type.font-families.arial}"
-        }
-      }
-    },
     "layout": {
       "section": {
         "padding-horizontal": {
@@ -2109,6 +2095,30 @@
           "description": "",
           "$type": "dimension",
           "$value": "0rem"
+        }
+      }
+    },
+    "type": {
+      "font-families": {
+        "system-regular": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.arial-regular}"
+        },
+        "system-bold": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.arial-bold}"
+        },
+        "brand-regular": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.toyota-type-w02-regular}"
+        },
+        "brand-bold": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.toyota-type-w02-bold}"
+        },
+        "brand-title": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.toyota-type-w02-bold}"
         }
       }
     }
