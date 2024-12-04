@@ -5,11 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "mode/Light": "enabled",
-      "mode/Dark": "disabled",
       "brand/Toyota": "enabled",
-      "brand/Lexus": "disabled",
-      "brand/Subaru": "disabled",
-      "brand/Kinto": "disabled",
       "global": "enabled"
     }
   },
@@ -19,11 +15,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "mode/Light": "enabled",
-      "mode/Dark": "disabled",
-      "brand/Toyota": "disabled",
       "brand/Lexus": "enabled",
-      "brand/Subaru": "disabled",
-      "brand/Kinto": "disabled",
       "global": "enabled"
     }
   },
@@ -33,11 +25,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "mode/Light": "enabled",
-      "mode/Dark": "disabled",
-      "brand/Toyota": "disabled",
-      "brand/Lexus": "disabled",
       "brand/Subaru": "enabled",
-      "brand/Kinto": "disabled",
       "global": "enabled"
     }
   },
@@ -47,10 +35,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "mode/Light": "enabled",
-      "mode/Dark": "disabled",
-      "brand/Toyota": "disabled",
-      "brand/Lexus": "disabled",
-      "brand/Subaru": "disabled",
       "brand/Kinto": "enabled",
       "global": "enabled"
     }
@@ -60,12 +44,8 @@
     "name": "toyotaDark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/Light": "disabled",
       "mode/Dark": "enabled",
       "brand/Toyota": "enabled",
-      "brand/Lexus": "disabled",
-      "brand/Subaru": "disabled",
-      "brand/Kinto": "disabled",
       "global": "enabled"
     }
   },
@@ -74,12 +54,8 @@
     "name": "lexusDark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/Light": "disabled",
       "mode/Dark": "enabled",
-      "brand/Toyota": "disabled",
       "brand/Lexus": "enabled",
-      "brand/Subaru": "disabled",
-      "brand/Kinto": "disabled",
       "global": "enabled"
     }
   },
@@ -88,12 +64,8 @@
     "name": "subaruDark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/Light": "disabled",
       "mode/Dark": "enabled",
-      "brand/Toyota": "disabled",
-      "brand/Lexus": "disabled",
       "brand/Subaru": "enabled",
-      "brand/Kinto": "disabled",
       "global": "enabled"
     }
   },
@@ -102,11 +74,7 @@
     "name": "kintoDark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/Light": "disabled",
       "mode/Dark": "enabled",
-      "brand/Toyota": "disabled",
-      "brand/Lexus": "disabled",
-      "brand/Subaru": "disabled",
       "brand/Kinto": "enabled",
       "global": "enabled"
     }
