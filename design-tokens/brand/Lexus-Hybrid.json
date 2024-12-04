@@ -1816,5 +1816,14 @@
         }
       }
     }
+  },
+  "button-border-radius": {
+    "$type": "borderRadius",
+    "$value": "{semantic.border.radius.none}",
+    "$description": "Only needed for Hybrid theming \n"
+  },
+  "button-border-padding": {
+    "$type": "spacing",
+    "$value": "{primitive.layout.space.small}"
   }
 }
