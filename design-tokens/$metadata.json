@@ -1,11 +1,14 @@
 {
   "tokenSetOrder": [
-    "Global",
-    "Mode/Light",
-    "Mode/Dark",
-    "Brand/Toyota",
-    "Brand/Lexus",
-    "Brand/Subaru",
-    "Brand/Kinto"
+    "global",
+    "mode/Light",
+    "mode/Dark",
+    "brand/Toyota",
+    "brand/Lexus",
+    "brand/Subaru",
+    "brand/Kinto",
+    "brand/Toyota-Hybrid",
+    "brand/Lexus-Hybrid",
+    "brand/Subaru-Hybrid"
   ]
 }
