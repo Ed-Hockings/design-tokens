@@ -1749,11 +1749,11 @@
       "font-family": {
         "brand": {
           "$type": "text",
-          "$value": "{primitive.type.font-families.nobel}"
+          "$value": "{primitive.type.font-families.nobel-regular}"
         },
         "system": {
           "$type": "text",
-          "$value": "{primitive.type.font-families.nobel}"
+          "$value": "{primitive.type.font-families.nobel-regular}"
         }
       }
     },

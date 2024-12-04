@@ -2147,11 +2147,11 @@
       "font-family": {
         "brand": {
           "$type": "text",
-          "$value": "{primitive.type.font-families.toyotaTypeW02}"
+          "$value": "{primitive.type.font-families.toyota-type-w02-regular}"
         },
         "system": {
           "$type": "text",
-          "$value": "{primitive.type.font-families.arial}"
+          "$value": "{primitive.type.font-families.arial-regular}"
         }
       }
     }
