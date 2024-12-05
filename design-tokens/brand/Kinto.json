@@ -2108,7 +2108,7 @@
       }
     },
     "type": {
-      "font-families": {
+      "font-weight": {
         "system-regular": {
           "$type": "fontWeights",
           "$value": "{primitive.type.font-families.arial-regular}"
@@ -2128,30 +2128,6 @@
         "brand-title": {
           "$type": "fontWeights",
           "$value": "{primitive.type.font-families.toyota-type-w02-bold}"
-        }
-      },
-      "font-weight": {
-        "regular": {
-          "$type": "text",
-          "$value": "Regular"
-        },
-        "title": {
-          "$type": "text",
-          "$value": "Bold"
-        },
-        "bold": {
-          "$type": "text",
-          "$value": "Bold"
-        }
-      },
-      "font-family": {
-        "brand": {
-          "$type": "text",
-          "$value": "{primitive.type.font-families.toyota-type-w02-regular}"
-        },
-        "system": {
-          "$type": "text",
-          "$value": "{primitive.type.font-families.arial-regular}"
         }
       }
     },

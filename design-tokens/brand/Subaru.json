@@ -2108,7 +2108,7 @@
       }
     },
     "type": {
-      "font-families": {
+      "font-weight": {
         "system-regular": {
           "$type": "fontWeights",
           "$value": "{primitive.type.font-families.roboto-regular}"
@@ -2127,30 +2127,6 @@
         },
         "brand-title": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.roboto-regular}"
-        }
-      },
-      "font-weight": {
-        "regular": {
-          "$type": "text",
-          "$value": "Regular"
-        },
-        "title": {
-          "$type": "text",
-          "$value": "Bold"
-        },
-        "bold": {
-          "$type": "text",
-          "$value": "Bold"
-        }
-      },
-      "font-family": {
-        "brand": {
-          "$type": "text",
-          "$value": "{primitive.type.font-families.roboto-regular}"
-        },
-        "system": {
-          "$type": "text",
           "$value": "{primitive.type.font-families.roboto-regular}"
         }
       }

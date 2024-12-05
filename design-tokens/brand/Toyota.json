@@ -2035,7 +2035,7 @@
   },
   "semantic": {
     "type": {
-      "font-families": {
+      "font-weight": {
         "system-regular": {
           "$type": "fontWeights",
           "$value": "{primitive.type.font-families.inter-regular}"
@@ -2055,30 +2055,6 @@
         "brand-title": {
           "$type": "fontWeights",
           "$value": "{primitive.type.font-families.toyota-type-w02-book}"
-        }
-      },
-      "font-weight": {
-        "regular": {
-          "$type": "text",
-          "$value": "Regular"
-        },
-        "title": {
-          "$type": "text",
-          "$value": "Book"
-        },
-        "bold": {
-          "$type": "text",
-          "$value": "Bold"
-        }
-      },
-      "font-family": {
-        "brand": {
-          "$type": "text",
-          "$value": "{primitive.type.font-families.toyota-type-w02-regular}"
-        },
-        "system": {
-          "$type": "text",
-          "$value": "{primitive.type.font-families.inter-regular}"
         }
       }
     },
