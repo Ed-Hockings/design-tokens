@@ -1842,6 +1842,14 @@
             "verticalPadding": "{primitive.layout.space.medium}"
           }
         }
+      },
+      "border": {
+        "radius": {
+          "$type": "composition",
+          "$value": {
+            "borderRadius": "{semantic.border.radius.xSmall}"
+          }
+        }
       }
     }
   },
