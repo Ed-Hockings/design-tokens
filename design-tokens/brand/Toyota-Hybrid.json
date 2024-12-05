@@ -1815,6 +1815,34 @@
           "$description": "Horizontal section padding"
         }
       }
+    },
+    "button": {
+      "padding": {
+        "small-horizontal": {
+          "$type": "composition",
+          "$value": {
+            "horizontalPadding": "{primitive.layout.space.xxSmall}"
+          }
+        },
+        "medium-horizontal": {
+          "$type": "composition",
+          "$value": {
+            "horizontalPadding": "{primitive.layout.space.xxSmall}"
+          }
+        },
+        "small-vertical": {
+          "$type": "composition",
+          "$value": {
+            "verticalPadding": "{primitive.layout.space.xxxLarge}"
+          }
+        },
+        "medium-vertical": {
+          "$type": "composition",
+          "$value": {
+            "verticalPadding": "{primitive.layout.space.huge}"
+          }
+        }
+      }
     }
   },
   "button-border-radius": {

@@ -2161,6 +2161,34 @@
           "$value": "0rem"
         }
       }
+    },
+    "button": {
+      "padding": {
+        "small-horizontal": {
+          "$type": "composition",
+          "$value": {
+            "horizontalPadding": "{primitive.layout.space.xxSmall}"
+          }
+        },
+        "medium-horizontal": {
+          "$type": "composition",
+          "$value": {
+            "horizontalPadding": "{primitive.layout.space.xSmall}"
+          }
+        },
+        "small-vertical": {
+          "$type": "composition",
+          "$value": {
+            "verticalPadding": "{primitive.layout.space.xSmall}"
+          }
+        },
+        "medium-vertical": {
+          "$type": "composition",
+          "$value": {
+            "verticalPadding": "{primitive.layout.space.medium}"
+          }
+        }
+      }
     }
   },
   "isToyota-Hybrid": {
