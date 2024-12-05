@@ -1731,32 +1731,6 @@
     "$value": "false"
   },
   "semantic": {
-    "type": {
-      "font-weight": {
-        "regular": {
-          "$type": "text",
-          "$value": "Book"
-        },
-        "title": {
-          "$type": "text",
-          "$value": "Book"
-        },
-        "bold": {
-          "$type": "text",
-          "$value": "Regular"
-        }
-      },
-      "font-family": {
-        "brand": {
-          "$type": "text",
-          "$value": "{primitive.type.font-families.nobel-regular}"
-        },
-        "system": {
-          "$type": "text",
-          "$value": "{primitive.type.font-families.nobel-regular}"
-        }
-      }
-    },
     "border": {
       "radius": {
         "xxSmall": {
@@ -1849,6 +1823,30 @@
           "$value": {
             "borderRadius": "{semantic.border.radius.xSmall}"
           }
+        }
+      }
+    },
+    "type": {
+      "font-weight": {
+        "system-regular": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.nobel-book}"
+        },
+        "system-bold": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.nobel-regular}"
+        },
+        "brand-regular": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.nobel-book}"
+        },
+        "brand-bold": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.nobel-regular}"
+        },
+        "brand-title": {
+          "$type": "fontWeights",
+          "$value": "{primitive.type.font-families.nobel-book}"
         }
       }
     }
