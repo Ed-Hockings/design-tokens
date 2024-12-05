@@ -1849,9 +1849,5 @@
     "$type": "borderRadius",
     "$value": "{semantic.border.radius.circle}",
     "$description": "Only needed for Hybrid theming \n"
-  },
-  "button-border-padding": {
-    "$type": "spacing",
-    "$value": "{primitive.layout.space.huge}"
   }
 }

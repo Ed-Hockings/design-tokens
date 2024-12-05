@@ -15,7 +15,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "mode/Light": "enabled",
-      "brand/Lexus": "enabled",
       "global": "enabled"
     }
   },
@@ -55,7 +54,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "mode/Dark": "enabled",
-      "brand/Lexus": "enabled",
       "global": "enabled"
     }
   },
