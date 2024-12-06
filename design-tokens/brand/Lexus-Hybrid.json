@@ -1790,42 +1790,6 @@
         }
       }
     },
-    "button": {
-      "padding": {
-        "small-horizontal": {
-          "$type": "composition",
-          "$value": {
-            "horizontalPadding": "{primitive.layout.space.xxSmall}"
-          }
-        },
-        "medium-horizontal": {
-          "$type": "composition",
-          "$value": {
-            "horizontalPadding": "{primitive.layout.space.xSmall}"
-          }
-        },
-        "small-vertical": {
-          "$type": "composition",
-          "$value": {
-            "verticalPadding": "{primitive.layout.space.small}"
-          }
-        },
-        "medium-vertical": {
-          "$type": "composition",
-          "$value": {
-            "verticalPadding": "{primitive.layout.space.medium}"
-          }
-        }
-      },
-      "border": {
-        "radius": {
-          "$type": "composition",
-          "$value": {
-            "borderRadius": "{semantic.border.radius.xSmall}"
-          }
-        }
-      }
-    },
     "type": {
       "font-weight": {
         "system-regular": {
@@ -1847,6 +1811,32 @@
         "brand-title": {
           "$type": "fontWeights",
           "$value": "{primitive.type.font-families.nobel-book}"
+        }
+      }
+    },
+    "button": {
+      "padding": {
+        "small-horizontal": {
+          "$type": "dimension",
+          "$value": "{primitive.layout.space.xxSmall}"
+        },
+        "medium-horizontal": {
+          "$type": "dimension",
+          "$value": "{primitive.layout.space.xSmall}"
+        },
+        "small-vertical": {
+          "$type": "dimension",
+          "$value": "{primitive.layout.space.small}"
+        },
+        "medium-vertical": {
+          "$type": "dimension",
+          "$value": "{primitive.layout.space.medium}"
+        }
+      },
+      "border": {
+        "radius": {
+          "$type": "dimension",
+          "$value": "{semantic.border.radius.xSmall}"
         }
       }
     }
