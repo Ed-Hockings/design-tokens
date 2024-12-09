@@ -6,6 +6,9 @@
     "Brand/Toyota",
     "Brand/Lexus",
     "Brand/Subaru",
-    "Brand/Kinto"
+    "Brand/Kinto",
+    "Brand/Toyota-Hybrid",
+    "Brand/Subaru-Hybrid",
+    "Brand/Lexus-Hybrid"
   ]
 }
