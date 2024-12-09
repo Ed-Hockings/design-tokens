@@ -546,7 +546,7 @@
         "large-regular": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-regular}",
+            "fontFamily": "{semantic.type.font-families.system-regular}",
             "fontWeight": "{primitive.type.font-weight.regular}",
             "lineHeight": "{primitive.type.line-height.200}",
             "fontSize": "{primitive.type.font-size.100}",
@@ -561,7 +561,7 @@
         "large-bold": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-bold}",
+            "fontFamily": "{semantic.type.font-families.system-bold}",
             "fontWeight": "{primitive.type.font-weight.bold}",
             "lineHeight": "{primitive.type.line-height.200}",
             "fontSize": "{primitive.type.font-size.100}",
@@ -576,7 +576,7 @@
         "large-link": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-bold}",
+            "fontFamily": "{semantic.type.font-families.system-bold}",
             "fontWeight": "{primitive.type.font-weight.bold}",
             "lineHeight": "{primitive.type.line-height.200}",
             "fontSize": "{primitive.type.font-size.100}",
@@ -591,7 +591,7 @@
         "medium-regular": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-regular}",
+            "fontFamily": "{semantic.type.font-families.system-regular}",
             "fontWeight": "{primitive.type.font-weight.regular}",
             "lineHeight": "{primitive.type.line-height.100}",
             "fontSize": "{primitive.type.font-size.75}",
@@ -606,7 +606,7 @@
         "medium-bold": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-bold}",
+            "fontFamily": "{semantic.type.font-families.system-bold}",
             "fontWeight": "{primitive.type.font-weight.bold}",
             "lineHeight": "{primitive.type.line-height.100}",
             "fontSize": "{primitive.type.font-size.75}",
@@ -621,7 +621,7 @@
         "medium-link": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-bold}",
+            "fontFamily": "{semantic.type.font-families.system-bold}",
             "fontWeight": "{primitive.type.font-weight.bold}",
             "lineHeight": "{primitive.type.line-height.100}",
             "fontSize": "{primitive.type.font-size.75}",
@@ -636,7 +636,7 @@
         "small-regular": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-regular}",
+            "fontFamily": "{semantic.type.font-families.system-regular}",
             "fontWeight": "{primitive.type.font-weight.regular}",
             "lineHeight": "{primitive.type.line-height.50}",
             "fontSize": "{primitive.type.font-size.50}",
@@ -651,7 +651,7 @@
         "small-bold": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-bold}",
+            "fontFamily": "{semantic.type.font-families.system-bold}",
             "fontWeight": "{primitive.type.font-weight.bold}",
             "lineHeight": "{primitive.type.line-height.50}",
             "fontSize": "{primitive.type.font-size.50}",
@@ -666,7 +666,7 @@
         "small-link": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-bold}",
+            "fontFamily": "{semantic.type.font-families.system-bold}",
             "fontWeight": "{primitive.type.font-weight.bold}",
             "lineHeight": "{primitive.type.line-height.50}",
             "fontSize": "{primitive.type.font-size.50}",
@@ -681,7 +681,7 @@
         "xSmall-regular": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-regular}",
+            "fontFamily": "{semantic.type.font-families.system-regular}",
             "fontWeight": "{primitive.type.font-weight.regular}",
             "lineHeight": "{primitive.type.line-height.10}",
             "fontSize": "{primitive.type.font-size.25}",
@@ -696,7 +696,7 @@
         "xSmall-bold": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-bold}",
+            "fontFamily": "{semantic.type.font-families.system-bold}",
             "fontWeight": "{primitive.type.font-weight.bold}",
             "lineHeight": "{primitive.type.line-height.10}",
             "fontSize": "{primitive.type.font-size.25}",
@@ -711,7 +711,7 @@
         "xSmall-link": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-bold}",
+            "fontFamily": "{semantic.type.font-families.system-bold}",
             "fontWeight": "{primitive.type.font-weight.bold}",
             "lineHeight": "{primitive.type.line-height.10}",
             "fontSize": "{primitive.type.font-size.25}",
@@ -728,7 +728,7 @@
         "large": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-bold}",
+            "fontFamily": "{semantic.type.font-families.system-bold}",
             "fontWeight": "{primitive.type.font-weight.bold}",
             "lineHeight": "{primitive.type.line-height.200}",
             "fontSize": "{primitive.type.font-size.100}",
@@ -743,7 +743,7 @@
         "medium": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-bold}",
+            "fontFamily": "{semantic.type.font-families.system-bold}",
             "fontWeight": "{primitive.type.font-weight.bold}",
             "lineHeight": "{primitive.type.line-height.100}",
             "fontSize": "{primitive.type.font-size.75}",
@@ -758,7 +758,7 @@
         "small": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-bold}",
+            "fontFamily": "{semantic.type.font-families.system-bold}",
             "fontWeight": "{primitive.type.font-weight.bold}",
             "lineHeight": "{primitive.type.line-height.75}",
             "fontSize": "{primitive.type.font-size.50}",
@@ -773,7 +773,7 @@
         "xSmall": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-bold}",
+            "fontFamily": "{semantic.type.font-families.system-bold}",
             "fontWeight": "{primitive.type.font-weight.bold}",
             "lineHeight": "{primitive.type.line-height.25}",
             "fontSize": "{primitive.type.font-size.25}",
@@ -788,7 +788,7 @@
         "xxSmall": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-bold}",
+            "fontFamily": "{semantic.type.font-families.system-bold}",
             "fontWeight": "{primitive.type.font-weight.bold}",
             "lineHeight": "{primitive.type.line-height.10}",
             "fontSize": "{primitive.type.font-size.10}",
@@ -805,7 +805,7 @@
         "xxLarge": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.brand-title}",
+            "fontFamily": "{semantic.type.font-families.brand-title}",
             "fontWeight": "{primitive.type.font-weight.title}",
             "lineHeight": "{primitive.type.line-height.350}",
             "fontSize": "{primitive.type.font-size.350}",
@@ -819,7 +819,7 @@
         "xLarge": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.brand-title}",
+            "fontFamily": "{semantic.type.font-families.brand-title}",
             "fontWeight": "{primitive.type.font-weight.title}",
             "lineHeight": "{primitive.type.line-height.300}",
             "fontSize": "{primitive.type.font-size.300}",
@@ -833,7 +833,7 @@
         "large": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.brand-title}",
+            "fontFamily": "{semantic.type.font-families.brand-title}",
             "fontWeight": "{primitive.type.font-weight.title}",
             "lineHeight": "{primitive.type.line-height.275}",
             "fontSize": "{primitive.type.font-size.275}",
@@ -847,7 +847,7 @@
         "medium": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.brand-title}",
+            "fontFamily": "{semantic.type.font-families.brand-title}",
             "lineHeight": "{primitive.type.line-height.250}",
             "fontSize": "{primitive.type.font-size.250}",
             "letterSpacing": "{primitive.type.letter-spacing.large}",
@@ -861,7 +861,7 @@
         "small": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-regular}",
+            "fontFamily": "{semantic.type.font-families.system-regular}",
             "fontWeight": "{primitive.type.font-weight.regular}",
             "lineHeight": "{primitive.type.line-height.100}",
             "fontSize": "{primitive.type.font-size.200}",
@@ -875,7 +875,7 @@
         "xSmall": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.system-regular}",
+            "fontFamily": "{semantic.type.font-families.system-regular}",
             "fontWeight": "{primitive.type.font-weight.regular}",
             "lineHeight": "{primitive.type.line-height.75}",
             "fontSize": "{primitive.type.font-size.100}",
@@ -891,7 +891,7 @@
         "xxLarge": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.brand-title}",
+            "fontFamily": "{semantic.type.font-families.brand-title}",
             "fontWeight": "{primitive.type.font-weight.title}",
             "lineHeight": "{primitive.type.line-height.550}",
             "fontSize": "{primitive.type.font-size.550}",
@@ -905,7 +905,7 @@
         "xLarge": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.brand-title}",
+            "fontFamily": "{semantic.type.font-families.brand-title}",
             "fontWeight": "{primitive.type.font-weight.title}",
             "lineHeight": "{primitive.type.line-height.500}",
             "fontSize": "{primitive.type.font-size.500}",
@@ -919,7 +919,7 @@
         "large": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.brand-title}",
+            "fontFamily": "{semantic.type.font-families.brand-title}",
             "fontWeight": "{primitive.type.font-weight.title}",
             "lineHeight": "{primitive.type.line-height.450}",
             "fontSize": "{primitive.type.font-size.450}",
@@ -933,7 +933,7 @@
         "medium": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.brand-title}",
+            "fontFamily": "{semantic.type.font-families.brand-title}",
             "fontWeight": "{primitive.type.font-weight.title}",
             "lineHeight": "{primitive.type.line-height.400}",
             "fontSize": "{primitive.type.font-size.400}",
@@ -947,7 +947,7 @@
         "small": {
           "$type": "typography",
           "$value": {
-            "fontFamily": "{semantic.type.font-weight.brand-title}",
+            "fontFamily": "{semantic.type.font-families.brand-title}",
             "fontWeight": "{primitive.type.font-weight.title}",
             "lineHeight": "{primitive.type.line-height.375}",
             "fontSize": "{primitive.type.font-size.375}",
