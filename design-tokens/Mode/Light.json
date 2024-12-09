@@ -178,8 +178,9 @@
           "$description": "Description goes here"
         },
         "on-brand-accent-secondary": {
+          "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.color.brand-accent-secondary.on-background.light}",
+          "$value": "{primitive.color.brand-accent-secondary.onBackground.light}",
           "$description": "Description goes here"
         },
         "on-neutral-brand-accent-primary": {
@@ -214,8 +215,9 @@
       },
       "border": {
         "brand-accent-primary": {
+          "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.color.brand-accent-primary.border.light}",
+          "$value": "{primitive.color.brand-accent-primary.background.light}",
           "$description": "Description goes here"
         },
         "container": {
@@ -254,8 +256,9 @@
           "$value": "#00000052"
         },
         "brand-accent-secondary": {
+          "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.color.brand-accent-secondary.border.light}",
+          "$value": "{primitive.color.brand-accent-primary.foreground.light}",
           "$description": "Description goes here"
         },
         "brand": {
@@ -275,40 +278,47 @@
       "state-layer": {
         "darken-fixed": {
           "hovered": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#224ee03d",
+            "$value": "#224EE03D",
             "$description": "Description goes here"
           },
           "pressed": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#224ee05c",
+            "$value": "#224EE05C",
             "$description": "Description goes here"
           },
           "focused": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#224ee047",
+            "$value": "#224EE047",
             "$description": "Description goes here"
           },
           "dragged": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#224ee052",
+            "$value": "#224EE052",
             "$description": "Description goes here"
           },
           "resting": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#224ee029",
+            "$value": "#224EE029",
             "$description": "Description goes here"
           }
         },
         "lighten-fixed": {
           "hovered": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#ffffff3d",
+            "$value": "#ffffff3D",
             "$description": "Description goes here"
           },
           "pressed": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#ffffff5c",
+            "$value": "#ffffff5C",
             "$description": "Description goes here"
           },
           "focused": {
@@ -332,40 +342,47 @@
         },
         "darken-invertible": {
           "hovered": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#224ee03d",
+            "$value": "#224EE03D",
             "$description": "Description goes here"
           },
           "pressed": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#224ee05c",
+            "$value": "#224EE05C",
             "$description": "Description goes here"
           },
           "focused": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#224ee047",
+            "$value": "#224EE047",
             "$description": "Description goes here"
           },
           "dragged": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#224ee052",
+            "$value": "#224EE052",
             "$description": "Description goes here"
           },
           "resting": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#224ee029",
+            "$value": "#224EE029",
             "$description": "Description goes here"
           }
         },
         "lighten-invertible": {
           "hovered": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#ffffff3d",
+            "$value": "#ffffff3D",
             "$description": "Description goes here"
           },
           "pressed": {
+            "parent": "Mode/Light",
             "$type": "color",
-            "$value": "#ffffff5c",
+            "$value": "#ffffff5C",
             "$description": "Description goes here"
           },
           "focused": {
@@ -436,11 +453,13 @@
     "navigation-bar": {
       "background-primary": {
         "$type": "color",
-        "$value": "{primitive.color-ramp.brand-neutral.1100.dark}"
+        "$value": "{primitive.color-ramp.brand-neutral.1100.dark}",
+        "$description": "Only to be used as the background colour of the navi bar"
       },
       "on-background-primary": {
         "$type": "color",
-        "$value": "{primitive.color-ramp.brand-neutral.1300.light}"
+        "$value": "{primitive.color-ramp.brand-neutral.1300.light}",
+        "$description": "Only to be used as the background colour of the navi bar"
       }
     }
   },

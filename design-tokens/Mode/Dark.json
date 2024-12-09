@@ -178,8 +178,9 @@
           "$description": "Description goes here"
         },
         "on-brand-accent-secondary": {
+          "parent": "Mode/Dark",
           "$type": "color",
-          "$value": "{primitive.color.brand-accent-secondary.on-background.dark}",
+          "$value": "{primitive.color.brand-accent-secondary.onBackground.dark}",
           "$description": "Description goes here"
         },
         "on-neutral-brand-accent-primary": {
@@ -214,8 +215,9 @@
       },
       "border": {
         "brand-accent-primary": {
+          "parent": "Mode/Dark",
           "$type": "color",
-          "$value": "{primitive.color.brand-accent-primary.border.dark}",
+          "$value": "{primitive.color.brand-accent-primary.background.dark}",
           "$description": "Description goes here"
         },
         "container": {
@@ -276,40 +278,47 @@
       "state-layer": {
         "darken-fixed": {
           "hovered": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#7089ec3d",
+            "$value": "#7089EC3D",
             "$description": "Description goes here"
           },
           "pressed": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#7089ec5c",
+            "$value": "#7089EC5C",
             "$description": "Description goes here"
           },
           "focused": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#7089ec47",
+            "$value": "#7089EC47",
             "$description": "Description goes here"
           },
           "dragged": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#7089ec52",
+            "$value": "#7089EC52",
             "$description": "Description goes here"
           },
           "resting": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#7089ec29",
+            "$value": "#7089EC29",
             "$description": "Description goes here"
           }
         },
         "lighten-fixed": {
           "hovered": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff3d",
+            "$value": "#ffffff3D",
             "$description": "Description goes here"
           },
           "pressed": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff5c",
+            "$value": "#ffffff5C",
             "$description": "Description goes here"
           },
           "focused": {
@@ -333,13 +342,15 @@
         },
         "darken-invertible": {
           "hovered": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff3d",
+            "$value": "#ffffff3D",
             "$description": "Description goes here"
           },
           "pressed": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#ffffff5c",
+            "$value": "#ffffff5C",
             "$description": "Description goes here"
           },
           "focused": {
@@ -363,28 +374,33 @@
         },
         "lighten-invertible": {
           "hovered": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#7089ec3d",
+            "$value": "#7089EC3D",
             "$description": "Description goes here"
           },
           "pressed": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#7089ec5c",
+            "$value": "#7089EC5C",
             "$description": "Description goes here"
           },
           "focused": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#7089ec47",
+            "$value": "#7089EC47",
             "$description": "Description goes here"
           },
           "dragged": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#7089ec52",
+            "$value": "#7089EC52",
             "$description": "Description goes here"
           },
           "resting": {
+            "parent": "Mode/Dark",
             "$type": "color",
-            "$value": "#7089ec29",
+            "$value": "#7089EC29",
             "$description": "Description goes here"
           }
         }
@@ -437,11 +453,13 @@
     "navigation-bar": {
       "background-primary": {
         "$type": "color",
-        "$value": "{primitive.color-ramp.brand-neutral.1100.dark}"
+        "$value": "{primitive.color-ramp.brand-neutral.1100.dark}",
+        "$description": "Only to be used as the background colour of the navi bar"
       },
       "on-background-primary": {
         "$type": "color",
-        "$value": "{primitive.color-ramp.brand-neutral.1300.light}"
+        "$value": "{primitive.color-ramp.brand-neutral.1300.light}",
+        "$description": "Only to be used as the background colour of the navi bar"
       }
     }
   },
