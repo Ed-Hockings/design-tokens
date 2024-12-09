@@ -1888,8 +1888,9 @@
         },
         "border": {
           "light": {
+            "parent": "Brand/Kinto",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.600.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.500.dark}"
           },
           "dark": {
             "parent": "Brand/Kinto",
@@ -1961,16 +1962,6 @@
           },
           "dark": {
             "parent": "Brand/Kinto",
-            "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.900.dark}"
-          }
-        },
-        "on-background": {
-          "light": {
-            "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.1300.light}"
-          },
-          "dark": {
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.900.dark}"
           }
@@ -2108,7 +2099,7 @@
       }
     },
     "type": {
-      "font-weight": {
+      "font-families": {
         "system-regular": {
           "$type": "fontWeights",
           "$value": "{primitive.type.font-families.arial-regular}"
@@ -2130,44 +2121,6 @@
           "$value": "{primitive.type.font-families.toyota-type-w02-bold}"
         }
       }
-    },
-    "button": {
-      "padding": {
-        "small-horizontal": {
-          "$type": "dimension",
-          "$value": "{primitive.layout.space.xxSmall}"
-        },
-        "medium-horizontal": {
-          "$type": "dimension",
-          "$value": "{primitive.layout.space.xSmall}"
-        },
-        "small-vertical": {
-          "$type": "dimension",
-          "$value": "{primitive.layout.space.xSmall}"
-        },
-        "medium-vertical": {
-          "$type": "dimension",
-          "$value": "{primitive.layout.space.medium}"
-        }
-      },
-      "border": {
-        "radius": {
-          "$type": "dimension",
-          "$value": "{semantic.border.radius.xSmall}"
-        }
-      }
     }
-  },
-  "isToyota-Hybrid": {
-    "$type": "boolean",
-    "$value": "false"
-  },
-  "isLexus-Hybrid": {
-    "$type": "boolean",
-    "$value": "false"
-  },
-  "isSubaru-Hybrid": {
-    "$type": "boolean",
-    "$value": "false"
   }
 }

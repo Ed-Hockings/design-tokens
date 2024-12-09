@@ -1965,16 +1965,6 @@
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.800.dark}"
           }
-        },
-        "on-background": {
-          "light": {
-            "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.1300.light}"
-          },
-          "dark": {
-            "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.800.dark}"
-          }
         }
       },
       "icon": {
@@ -2108,7 +2098,7 @@
       }
     },
     "type": {
-      "font-weight": {
+      "font-families": {
         "system-regular": {
           "$type": "fontWeights",
           "$value": "{primitive.type.font-families.roboto-regular}"
@@ -2130,44 +2120,6 @@
           "$value": "{primitive.type.font-families.roboto-regular}"
         }
       }
-    },
-    "button": {
-      "padding": {
-        "small-horizontal": {
-          "$type": "dimension",
-          "$value": "{primitive.layout.space.xxSmall}"
-        },
-        "medium-horizontal": {
-          "$type": "dimension",
-          "$value": "{primitive.layout.space.xSmall}"
-        },
-        "small-vertical": {
-          "$type": "dimension",
-          "$value": "{primitive.layout.space.xSmall}"
-        },
-        "medium-vertical": {
-          "$type": "dimension",
-          "$value": "{primitive.layout.space.medium}"
-        }
-      },
-      "border": {
-        "radius": {
-          "$type": "dimension",
-          "$value": "{semantic.border.radius.xSmall}"
-        }
-      }
     }
-  },
-  "isToyota-Hybrid": {
-    "$type": "boolean",
-    "$value": "false"
-  },
-  "isLexus-Hybrid": {
-    "$type": "boolean",
-    "$value": "false"
-  },
-  "isSubaru-Hybrid": {
-    "$type": "boolean",
-    "$value": "false"
   }
 }

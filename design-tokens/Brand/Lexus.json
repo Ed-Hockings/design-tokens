@@ -1865,8 +1865,9 @@
             "$value": "{primitive.color-ramp.brand-accent-primary.300.light}"
           },
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.800.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.700.dark}"
           }
         },
         "foreground": {
@@ -1876,18 +1877,23 @@
             "$value": "{primitive.color-ramp.brand-neutral.400.light}"
           },
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.800.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.700.dark}"
           }
         },
         "border": {
           "light": {
+            "parent": "Brand/Lexus",
+            "description": "",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.400.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
+            "parent": "Brand/Lexus",
+            "description": "",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.600.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         },
         "onBackground": {
@@ -1960,16 +1966,6 @@
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.1100.dark}"
           }
-        },
-        "on-background": {
-          "light": {
-            "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.1300.light}"
-          },
-          "dark": {
-            "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.1100.dark}"
-          }
         }
       },
       "icon": {
@@ -2026,8 +2022,9 @@
     "layout": {
       "section": {
         "padding-horizontal": {
+          "parent": "Brand/Lexus",
           "$type": "dimension",
-          "$value": "{primitive.layout.space.large}",
+          "$value": "{primitive.layout.space.xLarge}",
           "$description": "Horizontal section padding"
         },
         "gap-between-items": {
@@ -2103,7 +2100,7 @@
       }
     },
     "type": {
-      "font-weight": {
+      "font-families": {
         "system-regular": {
           "$type": "fontWeights",
           "$value": "{primitive.type.font-families.inter-regular}"
@@ -2125,44 +2122,6 @@
           "$value": "{primitive.type.font-families.nobel-book}"
         }
       }
-    },
-    "button": {
-      "padding": {
-        "small-horizontal": {
-          "$type": "dimension",
-          "$value": "{primitive.layout.space.xxSmall}"
-        },
-        "medium-horizontal": {
-          "$type": "dimension",
-          "$value": "{primitive.layout.space.xSmall}"
-        },
-        "small-vertical": {
-          "$type": "dimension",
-          "$value": "{primitive.layout.space.xSmall}"
-        },
-        "medium-vertical": {
-          "$type": "dimension",
-          "$value": "{primitive.layout.space.medium}"
-        }
-      },
-      "border": {
-        "radius": {
-          "$type": "dimension",
-          "$value": "{semantic.border.radius.xSmall}"
-        }
-      }
     }
-  },
-  "isToyota-Hybrid": {
-    "$type": "boolean",
-    "$value": "false"
-  },
-  "isLexus-Hybrid": {
-    "$type": "boolean",
-    "$value": "false"
-  },
-  "isSubaru-Hybrid": {
-    "$type": "boolean",
-    "$value": "false"
   }
 }
