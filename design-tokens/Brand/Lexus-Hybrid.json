@@ -4,11 +4,13 @@
       "brand-neutral": {
         "100": {
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#000000",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
           },
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffffff",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
@@ -16,11 +18,13 @@
         },
         "200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#e8e8eb",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#191b1e",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
@@ -28,11 +32,13 @@
         },
         "300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#cacdd1",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#2e3035",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
@@ -40,11 +46,13 @@
         },
         "400": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#a9adb1",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#434750",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
@@ -52,11 +60,13 @@
         },
         "500": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#8b8f96",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#595e67",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
@@ -64,11 +74,13 @@
         },
         "600": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#747981",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#6d727a",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
@@ -76,11 +88,13 @@
         },
         "700": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#636870",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#7f848c",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
@@ -88,11 +102,13 @@
         },
         "800": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#444851",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#a7abb0",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
@@ -100,11 +116,13 @@
         },
         "900": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#33353b",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#c2c6ca",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
@@ -112,35 +130,41 @@
         },
         "1000": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#ffffff",
+            "$value": "#1f2225",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#ffffff",
+            "$value": "#e0e2e5",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
           }
         },
         "1100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#ffffff",
+            "$value": "#121315",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#ffffff",
+            "$value": "#f0f0f2",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#050708",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fcfcfc",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
@@ -148,13 +172,15 @@
         },
         "1300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#ffffff",
+            "$value": "#010202",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#ffffff",
+            "$value": "#fefefe",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
@@ -162,11 +188,13 @@
       "brand-accent-primary": {
         "100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffffff",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#000000",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
@@ -174,11 +202,13 @@
         },
         "200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fefefe",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#14223b",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
@@ -186,11 +216,13 @@
         },
         "300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f9f9fa",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#263c61",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
@@ -198,11 +230,13 @@
         },
         "400": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#eceef1",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#425475",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
@@ -210,11 +244,13 @@
         },
         "500": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#dadde4",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#586885",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
@@ -222,11 +258,13 @@
         },
         "600": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#b6beca",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#6c7a94",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
@@ -234,11 +272,13 @@
         },
         "700": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#97a2b3",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#97a2b3",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
@@ -246,11 +286,13 @@
         },
         "800": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#6c7a94",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#b6beca",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
@@ -258,11 +300,13 @@
         },
         "900": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#586885",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#dadde4",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
@@ -270,11 +314,13 @@
         },
         "1000": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#425475",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#eceef1",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
@@ -282,11 +328,13 @@
         },
         "1100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#263c61",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f9f9fa",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
@@ -294,11 +342,13 @@
         },
         "1200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#14223b",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fefefe",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
@@ -306,11 +356,13 @@
         },
         "1300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#020305",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fefefe",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
@@ -320,11 +372,13 @@
       "red": {
         "100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffffff",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#000000",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
@@ -332,11 +386,13 @@
         },
         "200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffe2e0",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#3a0805",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
@@ -344,11 +400,13 @@
         },
         "300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffbcb8",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#620d08",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
@@ -356,11 +414,13 @@
         },
         "400": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ff8b83",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#8e140c",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
@@ -368,35 +428,41 @@
         },
         "500": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#b12a31",
+            "$value": "#B12A31",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#b12a31",
+            "$value": "#B12A31",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
         "600": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#b12a31",
+            "$value": "#B12A31",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#b12a31",
+            "$value": "#B12A31",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ca2117",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f9362a",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
@@ -404,11 +470,13 @@
         },
         "800": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#91140d",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ff8980",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
@@ -416,11 +484,13 @@
         },
         "900": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#6d0f09",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffb2ad",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
@@ -428,11 +498,13 @@
         },
         "1000": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#450a06",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffd8d5",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
@@ -440,23 +512,27 @@
         },
         "1100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#faeaeb",
+            "$value": "#FAEAEB",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#faeaeb",
+            "$value": "#FAEAEB",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#110302",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fff9f8",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
@@ -464,11 +540,13 @@
         },
         "1300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#040101",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fffdfd",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
@@ -478,11 +556,13 @@
       "blue": {
         "100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffffff",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#000000",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
@@ -490,11 +570,13 @@
         },
         "200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#e4e8fb",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#0d193b",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
@@ -502,11 +584,13 @@
         },
         "300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#c3cbf5",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#172b6a",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
@@ -514,11 +598,13 @@
         },
         "400": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#99a9f1",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#1e3da4",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
@@ -526,35 +612,41 @@
         },
         "500": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#005fb6",
+            "$value": "#005FB6",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#005fb6",
+            "$value": "#005FB6",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
         "600": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#005fb6",
+            "$value": "#005FB6",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#005fb6",
+            "$value": "#005FB6",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#315ae6",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#5e7dec",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
@@ -562,11 +654,13 @@
         },
         "800": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#1e3ea7",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#97a7f0",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
@@ -574,11 +668,13 @@
         },
         "900": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#193075",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#b9c3f4",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
@@ -586,11 +682,13 @@
         },
         "1000": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#101e4a",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#dbe0f9",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
@@ -598,23 +696,27 @@
         },
         "1100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#e6eff8",
+            "$value": "#E6EFF8",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#e6eff8",
+            "$value": "#E6EFF8",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#03050c",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fbfcfe",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
@@ -622,11 +724,13 @@
         },
         "1300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#010206",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fefeff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
@@ -636,11 +740,13 @@
       "gray": {
         "100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffffff",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#000000",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
@@ -648,11 +754,13 @@
         },
         "200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#e8e8e8",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#1b1b1b",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
@@ -660,11 +768,13 @@
         },
         "300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#cdcdcd",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#303030",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
@@ -672,11 +782,13 @@
         },
         "400": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#acacac",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#474747",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
@@ -684,11 +796,13 @@
         },
         "500": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#8f8f8f",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#5e5e5e",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
@@ -696,11 +810,13 @@
         },
         "600": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#797979",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#727272",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
@@ -708,11 +824,13 @@
         },
         "700": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#676767",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#848484",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
@@ -720,11 +838,13 @@
         },
         "800": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#484848",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ababab",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
@@ -732,11 +852,13 @@
         },
         "900": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#353535",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#c6c6c6",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
@@ -744,11 +866,13 @@
         },
         "1000": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#212121",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#e1e1e1",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
@@ -756,11 +880,13 @@
         },
         "1100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#141414",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f1f1f1",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
@@ -768,11 +894,13 @@
         },
         "1200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#060606",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fbfbfb",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
@@ -780,11 +908,13 @@
         },
         "1300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#020202",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fefefe",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
@@ -794,11 +924,13 @@
       "teal": {
         "100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffffff",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#000000",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
@@ -806,11 +938,13 @@
         },
         "200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ccf0eb",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#001f1b",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
@@ -818,11 +952,13 @@
         },
         "300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#87dcd2",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#003730",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
@@ -830,11 +966,13 @@
         },
         "400": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#3bbfaf",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#005046",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
@@ -842,11 +980,13 @@
         },
         "500": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#0fa08f",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#006a5d",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
@@ -854,11 +994,13 @@
         },
         "600": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#038878",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#018071",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
@@ -866,11 +1008,13 @@
         },
         "700": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#007566",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#089483",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
@@ -878,11 +1022,13 @@
         },
         "800": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#005248",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#38bead",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
@@ -890,11 +1036,13 @@
         },
         "900": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#003d35",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#74d6ca",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
@@ -902,11 +1050,13 @@
         },
         "1000": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#002722",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#b9ebe5",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
@@ -914,11 +1064,13 @@
         },
         "1100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#001714",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#dff5f2",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
@@ -926,11 +1078,13 @@
         },
         "1200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#000807",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f7fcfc",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
@@ -938,11 +1092,13 @@
         },
         "1300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#000302",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fbfefd",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
@@ -952,11 +1108,13 @@
       "green": {
         "100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffffff",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#000000",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
@@ -964,11 +1122,13 @@
         },
         "200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#c1f5ce",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#05200c",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
@@ -976,11 +1136,13 @@
         },
         "300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#6ee48b",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#083814",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
@@ -988,11 +1150,13 @@
         },
         "400": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#34c558",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#0c521d",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
@@ -1000,11 +1164,13 @@
         },
         "500": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#20a440",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#106d27",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
@@ -1012,23 +1178,27 @@
         },
         "600": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#73be50",
+            "$value": "#73BE50",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#73be50",
+            "$value": "#73BE50",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#13782c",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#1b983a",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
@@ -1036,11 +1206,13 @@
         },
         "800": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#0c541e",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#32c355",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
@@ -1048,11 +1220,13 @@
         },
         "900": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#093e16",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#5bde7b",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
@@ -1060,11 +1234,13 @@
         },
         "1000": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#06270e",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#a9f2bb",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
@@ -1072,23 +1248,27 @@
         },
         "1100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#f0f8ec",
+            "$value": "#F0F8EC",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#f0f8ec",
+            "$value": "#F0F8EC",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
         "1200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#020803",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f6fdf8",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
@@ -1096,11 +1276,13 @@
         },
         "1300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#010301",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fdfefd",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
@@ -1110,11 +1292,13 @@
       "orange": {
         "100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fdefe6",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#451d00",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
@@ -1122,11 +1306,13 @@
         },
         "200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f8cfb3",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#733000",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
@@ -1134,11 +1320,13 @@
         },
         "300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f3b080",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#a14300",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
@@ -1146,11 +1334,13 @@
         },
         "400": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f0a066",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#b84d00",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
@@ -1158,35 +1348,41 @@
         },
         "500": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#db6024",
+            "$value": "#DB6024",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#db6024",
+            "$value": "#DB6024",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
         "600": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#db6024",
+            "$value": "#DB6024",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#db6024",
+            "$value": "#DB6024",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
         "700": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#e9701a",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#e9701a",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
@@ -1194,11 +1390,13 @@
         },
         "800": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#e66000",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#eb8033",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
@@ -1206,11 +1404,13 @@
         },
         "900": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#cf5600",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ee904d",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
@@ -1218,11 +1418,13 @@
         },
         "1000": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#b84d00",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f0a066",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
@@ -1230,11 +1432,13 @@
         },
         "1100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#a14300",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f3b080",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
@@ -1242,11 +1446,13 @@
         },
         "1200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#733000",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f8cfb3",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
@@ -1254,13 +1460,15 @@
         },
         "1300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#fbefe9",
+            "$value": "#FBEFE9",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#fbefe9",
+            "$value": "#FBEFE9",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
@@ -1268,11 +1476,13 @@
       "purple": {
         "100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffffff",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#000000",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
@@ -1280,11 +1490,13 @@
         },
         "200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#eae5fe",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#1b1734",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
@@ -1292,11 +1504,13 @@
         },
         "300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#cfc6fa",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#31285b",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
@@ -1304,11 +1518,13 @@
         },
         "400": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#afa2f4",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#483b88",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
@@ -1316,11 +1532,13 @@
         },
         "500": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#9180e9",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#5f4eb4",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
@@ -1328,11 +1546,13 @@
         },
         "600": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#7b69d4",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#7462cc",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
@@ -1340,11 +1560,13 @@
         },
         "700": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#6957c1",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#8674df",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
@@ -1352,11 +1574,13 @@
         },
         "800": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#493c8b",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#aea0f4",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
@@ -1364,11 +1588,13 @@
         },
         "900": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#362d65",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#c9bff9",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
@@ -1376,11 +1602,13 @@
         },
         "1000": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#211c3e",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#e4ddfe",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
@@ -1388,11 +1616,13 @@
         },
         "1100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#131023",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f2eeff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
@@ -1400,11 +1630,13 @@
         },
         "1200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#05040a",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fcfbff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
@@ -1412,11 +1644,13 @@
         },
         "1300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#030205",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fefdff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
@@ -1426,11 +1660,13 @@
       "yellow": {
         "100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffffff",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#000000",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 21:1 against background #ffffff"
@@ -1438,11 +1674,13 @@
         },
         "200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ffe974",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#231a01",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 17.22:1 against background #ffffff"
@@ -1450,11 +1688,13 @@
         },
         "300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#f1c93c",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#3c2e01",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 13.2:1 against background #ffffff"
@@ -1462,11 +1702,13 @@
         },
         "400": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#d1a716",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#574503",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 9.29:1 against background #ffffff"
@@ -1474,11 +1716,13 @@
         },
         "500": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#af8a05",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#735b05",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
@@ -1486,11 +1730,13 @@
         },
         "600": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#947508",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#8b6e08",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
@@ -1498,11 +1744,13 @@
         },
         "700": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#7f6407",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#a18007",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
@@ -1510,11 +1758,13 @@
         },
         "800": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#594603",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#cfa615",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 2.3:1 against background #ffffff"
@@ -1522,11 +1772,13 @@
         },
         "900": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#423302",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#ebc233",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.71:1 against background #ffffff"
@@ -1534,11 +1786,13 @@
         },
         "1000": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#2a2001",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fde15e",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
@@ -1546,11 +1800,13 @@
         },
         "1100": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#1b1300",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fff2b1",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
@@ -1558,11 +1814,13 @@
         },
         "1200": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#090500",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fefdea",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.03:1 against background #ffffff"
@@ -1570,11 +1828,13 @@
         },
         "1300": {
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#010000",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "#fffef3",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
@@ -1585,10 +1845,14 @@
     "color": {
       "fixed": {
         "black": {
+          "parent": "Brand/Lexus",
+          "description": "",
           "$type": "color",
           "$value": "#000000"
         },
         "white": {
+          "parent": "Brand/Lexus",
+          "description": "",
           "$type": "color",
           "$value": "#ffffff"
         }
@@ -1596,40 +1860,51 @@
       "brand-accent-primary": {
         "background": {
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.1300.dark}"
           }
         },
         "foreground": {
           "light": {
+            "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-neutral.100.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.1300.dark}"
           }
         },
         "border": {
           "light": {
+            "parent": "Brand/Lexus",
+            "description": "",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.1300.dark}"
           }
         },
         "onBackground": {
           "light": {
+            "parent": "Brand/Lexus",
+            "description": "",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.1300.light}"
           },
           "dark": {
+            "parent": "Brand/Lexus",
+            "description": "",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
@@ -1638,40 +1913,55 @@
       "brand-accent-secondary": {
         "background": {
           "light": {
+            "parent": "Brand/Lexus",
+            "description": "",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
+            "parent": "Brand/Lexus",
+            "description": "",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         },
         "foreground": {
           "light": {
+            "parent": "Brand/Lexus",
+            "description": "",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
+            "parent": "Brand/Lexus",
+            "description": "",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         },
         "border": {
           "light": {
+            "parent": "Brand/Lexus",
+            "description": "",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
+            "parent": "Brand/Lexus",
+            "description": "",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
         },
-        "on-background": {
+        "onBackground": {
           "light": {
+            "parent": "Brand/Lexus",
+            "description": "",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.1300.light}"
           },
           "dark": {
+            "parent": "Brand/Lexus",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.1100.dark}"
           }
@@ -1679,10 +1969,12 @@
       },
       "icon": {
         "light": {
+          "parent": "Brand/Lexus",
           "$type": "color",
           "$value": "{primitive.color-ramp.brand-neutral.100.light}"
         },
         "dark": {
+          "parent": "Brand/Lexus",
           "$type": "color",
           "$value": "{primitive.color-ramp.brand-neutral.100.light}"
         }
@@ -1699,114 +1991,128 @@
       }
     }
   },
-  "isToyota-Hybrid": {
-    "$type": "boolean",
-    "$value": "false"
-  },
   "isToyota": {
+    "parent": "Brand/Lexus",
     "$type": "boolean",
     "$value": "false",
     "$description": "For Figma Variables"
   },
   "isLexus": {
+    "parent": "Brand/Lexus",
     "$type": "boolean",
-    "$value": "false",
+    "$value": "true",
     "$description": "For Figma Variables"
   },
   "isSubaru": {
+    "parent": "Brand/Lexus",
     "$type": "boolean",
     "$value": "false",
     "$description": "For Figma Variables"
   },
   "isKinto": {
-    "$type": "boolean",
-    "$value": "false"
-  },
-  "isLexus-Hybrid": {
-    "$type": "boolean",
-    "$value": "true"
-  },
-  "isSubaru-Hybrid": {
+    "parent": "Brand/Lexus",
+    "description": "",
     "$type": "boolean",
     "$value": "false"
   },
   "semantic": {
-    "border": {
-      "radius": {
-        "xxSmall": {
-          "$type": "dimension",
-          "$value": "0rem"
-        },
-        "xSmall": {
-          "$type": "dimension",
-          "$value": "0rem"
-        },
-        "small": {
-          "$type": "dimension",
-          "$value": "0rem"
-        },
-        "medium": {
-          "$type": "dimension",
-          "$value": "0.125rem"
-        },
-        "large": {
-          "$type": "dimension",
-          "$value": "0.25rem"
-        },
-        "xLarge": {
-          "$type": "dimension",
-          "$value": "0.5rem"
-        },
-        "xxLarge": {
-          "$type": "dimension",
-          "$value": "0.5rem"
-        },
-        "circle": {
-          "$type": "dimension",
-          "$value": "25rem"
-        },
-        "none": {
-          "$type": "dimension",
-          "$value": "0rem"
-        }
-      }
-    },
     "layout": {
       "section": {
         "padding-horizontal": {
+          "parent": "Brand/Lexus",
           "$type": "dimension",
-          "$value": "{primitive.layout.space.large}",
+          "$value": "{primitive.layout.space.xLarge}",
           "$description": "Horizontal section padding"
         },
         "gap-between-items": {
+          "parent": "Brand/Lexus",
           "$type": "dimension",
           "$value": "{primitive.layout.space.small}",
           "$description": "The gap between items"
         },
         "padding-vertical": {
+          "parent": "Brand/Lexus",
           "$type": "dimension",
           "$value": "{primitive.layout.space.small}",
           "$description": "Horizontal section padding"
         }
       }
     },
+    "border": {
+      "radius": {
+        "xxSmall": {
+          "parent": "Brand/Lexus",
+          "description": "",
+          "$type": "dimension",
+          "$value": "0rem"
+        },
+        "xSmall": {
+          "parent": "Brand/Lexus",
+          "description": "",
+          "$type": "dimension",
+          "$value": "0rem"
+        },
+        "small": {
+          "parent": "Brand/Lexus",
+          "description": "",
+          "$type": "dimension",
+          "$value": "0rem"
+        },
+        "medium": {
+          "parent": "Brand/Lexus",
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.125rem"
+        },
+        "large": {
+          "parent": "Brand/Lexus",
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.25rem"
+        },
+        "xLarge": {
+          "parent": "Brand/Lexus",
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.5rem"
+        },
+        "xxLarge": {
+          "parent": "Brand/Lexus",
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.5rem"
+        },
+        "circle": {
+          "parent": "Brand/Lexus",
+          "description": "",
+          "$type": "dimension",
+          "$value": "25rem"
+        },
+        "none": {
+          "parent": "Brand/Lexus",
+          "description": "",
+          "$type": "dimension",
+          "$value": "0rem"
+        }
+      }
+    },
     "type": {
-      "font-weight": {
+      "font-families": {
         "system-regular": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.nobel-book}"
+          "$value": "{primitive.type.font-families.inter-regular}"
         },
         "system-bold": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.nobel-regular}"
+          "$value": "{primitive.type.font-families.inter-bold}"
         },
         "brand-regular": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.nobel-book}"
+          "$value": "{primitive.type.font-families.nobel-regular}"
         },
         "brand-bold": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.nobel-regular}"
+          "$value": "{primitive.type.font-families.nobel-bold}"
         },
         "brand-title": {
           "$type": "fontWeights",
@@ -1815,28 +2121,28 @@
       }
     },
     "button": {
+      "border": {
+        "radius": {
+          "$type": "borderRadius",
+          "$value": "{semantic.border.radius.none}"
+        }
+      },
       "padding": {
         "small-horizontal": {
-          "$type": "dimension",
+          "$type": "spacing",
           "$value": "{primitive.layout.space.xxSmall}"
         },
         "medium-horizontal": {
-          "$type": "dimension",
+          "$type": "spacing",
           "$value": "{primitive.layout.space.xSmall}"
         },
         "small-vertical": {
-          "$type": "dimension",
+          "$type": "spacing",
           "$value": "{primitive.layout.space.small}"
         },
         "medium-vertical": {
-          "$type": "dimension",
+          "$type": "spacing",
           "$value": "{primitive.layout.space.medium}"
-        }
-      },
-      "border": {
-        "radius": {
-          "$type": "dimension",
-          "$value": "{semantic.border.radius.xSmall}"
         }
       }
     }

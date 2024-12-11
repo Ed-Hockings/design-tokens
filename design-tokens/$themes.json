@@ -10,42 +10,22 @@
     }
   },
   {
-    "id": "3df02b15d10434ffbaa62413acdacb63c67117d7",
-    "name": "lexusLight",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Mode/Light": "enabled",
-      "Brand/Lexus": "enabled",
-      "Global": "enabled"
-    }
-  },
-  {
-    "id": "f4844c548de2f28fa8157984cdfbb39b71b00637",
-    "name": "subaruLight",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Mode/Light": "enabled",
-      "Brand/Subaru": "enabled",
-      "Global": "enabled"
-    }
-  },
-  {
-    "id": "ea020dc259d938586dd3ee0339936e3971fa4f15",
-    "name": "kintoLight",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "Mode/Light": "enabled",
-      "Brand/Kinto": "enabled",
-      "Global": "enabled"
-    }
-  },
-  {
     "id": "adde55934f2309bb728c3881c9a3e64a7f18ad02",
     "name": "toyotaDark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Mode/Dark": "enabled",
       "Brand/Toyota": "enabled",
+      "Global": "enabled"
+    }
+  },
+  {
+    "id": "3df02b15d10434ffbaa62413acdacb63c67117d7",
+    "name": "lexusLight",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Mode/Light": "enabled",
+      "Brand/Lexus": "enabled",
       "Global": "enabled"
     }
   },
@@ -60,12 +40,30 @@
     }
   },
   {
+    "id": "f4844c548de2f28fa8157984cdfbb39b71b00637",
+    "name": "subaruLight",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Mode/Light": "enabled",
+      "Global": "enabled"
+    }
+  },
+  {
     "id": "a47d702e0298019f9373e1cfa888055ad76fd185",
     "name": "subaruDark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Mode/Dark": "enabled",
-      "Brand/Subaru": "enabled",
+      "Global": "enabled"
+    }
+  },
+  {
+    "id": "ea020dc259d938586dd3ee0339936e3971fa4f15",
+    "name": "kintoLight",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Mode/Light": "enabled",
+      "Brand/Kinto": "enabled",
       "Global": "enabled"
     }
   },
@@ -77,6 +75,66 @@
       "Mode/Dark": "enabled",
       "Brand/Kinto": "enabled",
       "Global": "enabled"
+    }
+  },
+  {
+    "id": "decf76f212e10bbf99bdcbf8373e59c49874f979",
+    "name": "toyota-HybridLight",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Mode/Light": "enabled",
+      "Brand/Toyota-Hybrid": "enabled"
+    }
+  },
+  {
+    "id": "9f04a1a719b0be3a514b80bd70b667be78c36e54",
+    "name": "toyota-HybridDark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Mode/Dark": "enabled",
+      "Brand/Toyota-Hybrid": "enabled"
+    }
+  },
+  {
+    "id": "782345f210c36f71f8365b8be89c55d379880a31",
+    "name": "lexus-HybridLight",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Mode/Light": "enabled",
+      "Brand/Lexus-Hybrid": "enabled"
+    }
+  },
+  {
+    "id": "d28ccdad29ae30ad7f6f528b7081723bc99c498b",
+    "name": "lexus-HybridDark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Mode/Dark": "enabled",
+      "Brand/Lexus-Hybrid": "enabled"
+    }
+  },
+  {
+    "id": "8dda124af609cd45047de643e37d66de3c997b74",
+    "name": "subaru-HybridLight",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Mode/Light": "enabled",
+      "Brand/Subaru-Hybrid": "enabled"
+    }
+  },
+  {
+    "id": "8f2265bae50afcf3efcda20a36934ba7027e8e77",
+    "name": "subaru-HybridDark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Global": "enabled",
+      "Mode/Dark": "enabled",
+      "Brand/Subaru-Hybrid": "enabled"
     }
   }
 ]

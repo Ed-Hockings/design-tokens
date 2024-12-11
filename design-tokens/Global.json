@@ -389,159 +389,7 @@
           "$type": "spacing",
           "$value": "18"
         }
-      }
-    },
-    "layout": {
-      "icon-size": {
-        "xSmall": {
-          "$type": "sizing",
-          "$value": "12"
-        },
-        "small": {
-          "$type": "sizing",
-          "$value": "16"
-        },
-        "medium": {
-          "$type": "sizing",
-          "$value": "24"
-        },
-        "large": {
-          "$type": "sizing",
-          "$value": "32"
-        },
-        "xLarge": {
-          "$type": "sizing",
-          "$value": "48"
-        }
       },
-      "space": {
-        "none": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "0rem",
-          "$description": "Equates to `0`. Use for resetting default spacing styles."
-        },
-        "mini": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "0.125rem",
-          "$description": "Use for small and compact pieces of UI."
-        },
-        "xxxSmall": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "0.25rem",
-          "$description": "Use for small and compact pieces of UI."
-        },
-        "xxSmall": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "0.375rem",
-          "$description": "Use for small and compact pieces of UI."
-        },
-        "xSmall": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "0.5rem",
-          "$description": "Use for small and compact pieces of UI."
-        },
-        "small": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "0.75rem",
-          "$description": "Use for larger and less dense pieces of UI."
-        },
-        "medium": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "1rem",
-          "$description": "Use for larger and less dense pieces of UI."
-        },
-        "large": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "1.25rem",
-          "$description": "Use for larger and less dense pieces of UI."
-        },
-        "xLarge": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "1.5rem",
-          "$description": "Use for larger and less dense pieces of UI."
-        },
-        "xxLarge": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "2rem",
-          "$description": "Use for the largest pieces of UI and for layout elements."
-        },
-        "xxxLarge": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "2.5rem",
-          "$description": "Use for the largest pieces of UI and for layout elements."
-        },
-        "huge": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "3rem",
-          "$description": "Use for the largest pieces of UI and for layout elements."
-        },
-        "xHuge": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "3.5rem",
-          "$description": "Use for the largest pieces of UI and for layout elements."
-        },
-        "xxHuge": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "4rem",
-          "$description": "Use for the largest pieces of UI and for layout elements."
-        },
-        "xxxHuge": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "4.5rem",
-          "$description": "Use for the largest pieces of UI and for layout elements."
-        },
-        "giant": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "5rem",
-          "$description": "Use for the largest pieces of UI and for layout elements."
-        },
-        "xGiant": {
-          "parent": "Brand/Toyota",
-          "$type": "dimension",
-          "$value": "6rem",
-          "$description": "Use for the largest pieces of UI and for layout elements."
-        }
-      }
-    },
-    "border": {
-      "width": {
-        "light": {
-          "$type": "borderWidth",
-          "$value": "1"
-        },
-        "medium": {
-          "$type": "borderWidth",
-          "$value": "2"
-        },
-        "thick": {
-          "$type": "borderWidth",
-          "$value": "3"
-        },
-        "heavy": {
-          "$type": "borderWidth",
-          "$value": "4"
-        }
-      }
-    }
-  },
-  "semantic": {
-    "type": {
       "body": {
         "large-regular": {
           "$type": "typography",
@@ -957,6 +805,154 @@
             "textCase": "{primitive.type.text-case.uppercase}",
             "textDecoration": "{primitive.type.text-decoration.none}"
           }
+        }
+      }
+    },
+    "layout": {
+      "icon-size": {
+        "xSmall": {
+          "$type": "sizing",
+          "$value": "12"
+        },
+        "small": {
+          "$type": "sizing",
+          "$value": "16"
+        },
+        "medium": {
+          "$type": "sizing",
+          "$value": "24"
+        },
+        "large": {
+          "$type": "sizing",
+          "$value": "32"
+        },
+        "xLarge": {
+          "$type": "sizing",
+          "$value": "48"
+        }
+      },
+      "space": {
+        "none": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "0rem",
+          "$description": "Equates to `0`. Use for resetting default spacing styles."
+        },
+        "mini": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "0.125rem",
+          "$description": "Use for small and compact pieces of UI."
+        },
+        "xxxSmall": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "0.25rem",
+          "$description": "Use for small and compact pieces of UI."
+        },
+        "xxSmall": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "0.375rem",
+          "$description": "Use for small and compact pieces of UI."
+        },
+        "xSmall": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "0.5rem",
+          "$description": "Use for small and compact pieces of UI."
+        },
+        "small": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "0.75rem",
+          "$description": "Use for larger and less dense pieces of UI."
+        },
+        "medium": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "1rem",
+          "$description": "Use for larger and less dense pieces of UI."
+        },
+        "large": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "1.25rem",
+          "$description": "Use for larger and less dense pieces of UI."
+        },
+        "xLarge": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "1.5rem",
+          "$description": "Use for larger and less dense pieces of UI."
+        },
+        "xxLarge": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "2rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
+        },
+        "xxxLarge": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "2.5rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
+        },
+        "huge": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "3rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
+        },
+        "xHuge": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "3.5rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
+        },
+        "xxHuge": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "4rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
+        },
+        "xxxHuge": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "4.5rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
+        },
+        "giant": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "5rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
+        },
+        "xGiant": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "6rem",
+          "$description": "Use for the largest pieces of UI and for layout elements."
+        }
+      }
+    },
+    "border": {
+      "width": {
+        "light": {
+          "$type": "borderWidth",
+          "$value": "1"
+        },
+        "medium": {
+          "$type": "borderWidth",
+          "$value": "2"
+        },
+        "thick": {
+          "$type": "borderWidth",
+          "$value": "3"
+        },
+        "heavy": {
+          "$type": "borderWidth",
+          "$value": "4"
         }
       }
     }
