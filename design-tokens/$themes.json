@@ -6,11 +6,7 @@
     "selectedTokenSets": {
       "Mode/Light": "enabled",
       "Brand/Toyota": "enabled",
-      "Global": "enabled",
-      "Brand/Toyota-Hybrid": "disabled",
-      "Brand/Lexus-Hybrid": "disabled",
-      "Brand/Subaru": "disabled",
-      "Brand/Subaru-Hybrid": "disabled"
+      "Global": "enabled"
     }
   },
   {
@@ -20,11 +16,7 @@
     "selectedTokenSets": {
       "Mode/Dark": "enabled",
       "Brand/Toyota": "enabled",
-      "Global": "enabled",
-      "Brand/Toyota-Hybrid": "disabled",
-      "Brand/Lexus-Hybrid": "disabled",
-      "Brand/Subaru": "disabled",
-      "Brand/Subaru-Hybrid": "disabled"
+      "Global": "enabled"
     }
   },
   {
@@ -34,11 +26,7 @@
     "selectedTokenSets": {
       "Mode/Light": "enabled",
       "Brand/Lexus": "enabled",
-      "Global": "enabled",
-      "Brand/Toyota-Hybrid": "disabled",
-      "Brand/Lexus-Hybrid": "disabled",
-      "Brand/Subaru": "disabled",
-      "Brand/Subaru-Hybrid": "disabled"
+      "Global": "enabled"
     }
   },
   {
@@ -48,11 +36,7 @@
     "selectedTokenSets": {
       "Brand/Lexus": "enabled",
       "Global": "enabled",
-      "Mode/Dark": "enabled",
-      "Brand/Toyota-Hybrid": "disabled",
-      "Brand/Lexus-Hybrid": "disabled",
-      "Brand/Subaru": "disabled",
-      "Brand/Subaru-Hybrid": "disabled"
+      "Mode/Dark": "enabled"
     }
   },
   {
@@ -61,11 +45,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Mode/Light": "enabled",
-      "Brand/Subaru": "disabled",
-      "Global": "enabled",
-      "Brand/Toyota-Hybrid": "disabled",
-      "Brand/Lexus-Hybrid": "disabled",
-      "Brand/Subaru-Hybrid": "disabled"
+      "Global": "enabled"
     }
   },
   {
@@ -74,11 +54,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Mode/Dark": "enabled",
-      "Brand/Subaru": "disabled",
-      "Global": "enabled",
-      "Brand/Toyota-Hybrid": "disabled",
-      "Brand/Lexus-Hybrid": "disabled",
-      "Brand/Subaru-Hybrid": "disabled"
+      "Global": "enabled"
     }
   },
   {
@@ -88,11 +64,7 @@
     "selectedTokenSets": {
       "Mode/Light": "enabled",
       "Brand/Kinto": "enabled",
-      "Global": "enabled",
-      "Brand/Toyota-Hybrid": "disabled",
-      "Brand/Lexus-Hybrid": "disabled",
-      "Brand/Subaru": "disabled",
-      "Brand/Subaru-Hybrid": "disabled"
+      "Global": "enabled"
     }
   },
   {
@@ -102,11 +74,7 @@
     "selectedTokenSets": {
       "Mode/Dark": "enabled",
       "Brand/Kinto": "enabled",
-      "Global": "enabled",
-      "Brand/Toyota-Hybrid": "disabled",
-      "Brand/Lexus-Hybrid": "disabled",
-      "Brand/Subaru": "disabled",
-      "Brand/Subaru-Hybrid": "disabled"
+      "Global": "enabled"
     }
   },
   {

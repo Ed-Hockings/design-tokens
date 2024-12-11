@@ -217,7 +217,7 @@
         "brand-accent-primary": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{primitive.color.brand-accent-primary.background.light}",
+          "$value": "{primitive.color.brand-accent-primary.border.light}",
           "$description": "Description goes here"
         },
         "container": {

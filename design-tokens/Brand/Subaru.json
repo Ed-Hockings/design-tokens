@@ -2120,6 +2120,32 @@
           "$value": "{primitive.type.font-families.roboto-regular}"
         }
       }
+    },
+    "button": {
+      "border": {
+        "radius": {
+          "$type": "borderRadius",
+          "$value": "{semantic.border.radius.xSmall}"
+        }
+      },
+      "padding": {
+        "small-horizontal": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xxSmall}"
+        },
+        "medium-horizontal": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xSmall}"
+        },
+        "small-vertical": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xSmall}"
+        },
+        "medium-vertical": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.medium}"
+        }
+      }
     }
   }
 }

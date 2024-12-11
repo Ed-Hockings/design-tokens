@@ -132,13 +132,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#19222f",
+            "$value": "#ffffff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#dfe1e7",
+            "$value": "#ffffff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
           }
         },
@@ -146,13 +146,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#0a1420",
+            "$value": "#ffffff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#f1f1f5",
+            "$value": "#ffffff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
@@ -174,13 +174,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#010103",
+            "$value": "#ffffff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#fffdff",
+            "$value": "#ffffff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
@@ -430,13 +430,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#ff5044",
+            "$value": "#ff0022",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#b91c13",
+            "$value": "#ff0022",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
@@ -444,13 +444,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#e82c20",
+            "$value": "#ff0022",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#dc271c",
+            "$value": "#ff0022",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
@@ -514,13 +514,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#2c0604",
+            "$value": "#FFE6E9",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#ffedec",
+            "$value": "#FFE6E9",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
@@ -614,13 +614,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#7089ec",
+            "$value": "#007BB8",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#224ee0",
+            "$value": "#007BB8",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
@@ -628,13 +628,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#4b70eb",
+            "$value": "#007BB8",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#4067ea",
+            "$value": "#007BB8",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
@@ -698,13 +698,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#0a122c",
+            "$value": "#CCE5F1",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#eff1fc",
+            "$value": "#CCE5F1",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
@@ -1180,13 +1180,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#178b34",
+            "$value": "#4CAF50",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#158330",
+            "$value": "#4CAF50",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
@@ -1250,13 +1250,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#041809",
+            "$value": "#EEF7EE",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#daf9e1",
+            "$value": "#EEF7EE",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
@@ -1350,13 +1350,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#ee904d",
+            "$value": "#FF9900",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#cf5600",
+            "$value": "#FF9900",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
@@ -1364,13 +1364,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#eb8033",
+            "$value": "#FF9900",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#e66000",
+            "$value": "#FF9900",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
@@ -1378,13 +1378,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#e9701a",
+            "$value": "#E9701A",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#e9701a",
+            "$value": "#E9701A",
             "$description": "Color can be used for UI elements or large text. WCAG 2.x (relative luminance) contrast is 3.74:1 against background #ffffff"
           }
         },
@@ -1462,13 +1462,13 @@
           "dark": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#451d00",
+            "$value": "#FFF5E6",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Toyota",
             "$type": "color",
-            "$value": "#fdefe6",
+            "$value": "#FFF5E6",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
@@ -1861,57 +1861,49 @@
         "background": {
           "light": {
             "parent": "Brand/Toyota",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
+            "$value": "#FF0022"
           },
           "dark": {
             "parent": "Brand/Toyota",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
+            "$value": "#FF0022"
           }
         },
         "foreground": {
           "light": {
             "parent": "Brand/Toyota",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
+            "$value": "#FF0022"
           },
           "dark": {
             "parent": "Brand/Toyota",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
+            "$value": "#FF0022"
           }
         },
         "border": {
           "light": {
             "parent": "Brand/Toyota",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
+            "$value": "#FF0022"
           },
           "dark": {
             "parent": "Brand/Toyota",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
+            "$value": "#FF0022"
           }
         },
         "onBackground": {
           "light": {
             "parent": "Brand/Toyota",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.1300.light}"
+            "$value": "#ffffff"
           },
           "dark": {
             "parent": "Brand/Toyota",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.1300.dark}"
+            "$value": "#ffffff"
           }
         }
       },
@@ -2125,6 +2117,32 @@
           "description": "",
           "$type": "dimension",
           "$value": "0rem"
+        }
+      }
+    },
+    "button": {
+      "border": {
+        "radius": {
+          "$type": "borderRadius",
+          "$value": "{semantic.border.radius.circle}"
+        }
+      },
+      "padding": {
+        "small-horizontal": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xxSmall}"
+        },
+        "medium-horizontal": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xxSmall}"
+        },
+        "small-vertical": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xxxLarge}"
+        },
+        "medium-vertical": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.huge}"
         }
       }
     }

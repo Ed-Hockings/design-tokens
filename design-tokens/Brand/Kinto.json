@@ -1890,7 +1890,7 @@
           "light": {
             "parent": "Brand/Kinto",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.500.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.600.dark}"
           },
           "dark": {
             "parent": "Brand/Kinto",
@@ -1907,7 +1907,6 @@
           },
           "dark": {
             "parent": "Brand/Kinto",
-            "description": "",
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
           }
@@ -2119,6 +2118,32 @@
         "brand-title": {
           "$type": "fontWeights",
           "$value": "{primitive.type.font-families.toyota-type-w02-bold}"
+        }
+      }
+    },
+    "button": {
+      "border": {
+        "radius": {
+          "$type": "borderRadius",
+          "$value": "{semantic.border.radius.xSmall}"
+        }
+      },
+      "padding": {
+        "small-horizontal": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xxSmall}"
+        },
+        "medium-horizontal": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xSmall}"
+        },
+        "small-vertical": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xSmall}"
+        },
+        "medium-vertical": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.medium}"
         }
       }
     }

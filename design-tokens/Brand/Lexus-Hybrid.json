@@ -430,13 +430,13 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#ff5044",
+            "$value": "#B12A31",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#b91c13",
+            "$value": "#B12A31",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
@@ -444,13 +444,13 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#e82c20",
+            "$value": "#B12A31",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#dc271c",
+            "$value": "#B12A31",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
@@ -514,13 +514,13 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#2c0604",
+            "$value": "#FAEAEB",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#ffedec",
+            "$value": "#FAEAEB",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
@@ -614,13 +614,13 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#7089ec",
+            "$value": "#005FB6",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#224ee0",
+            "$value": "#005FB6",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
@@ -628,13 +628,13 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#4b70eb",
+            "$value": "#005FB6",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#4067ea",
+            "$value": "#005FB6",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
@@ -698,13 +698,13 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#0a122c",
+            "$value": "#E6EFF8",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#eff1fc",
+            "$value": "#E6EFF8",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
@@ -1180,13 +1180,13 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#178b34",
+            "$value": "#73BE50",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#158330",
+            "$value": "#73BE50",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
@@ -1250,13 +1250,13 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#041809",
+            "$value": "#F0F8EC",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#daf9e1",
+            "$value": "#F0F8EC",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
@@ -1350,13 +1350,13 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#ee904d",
+            "$value": "#DB6024",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#cf5600",
+            "$value": "#DB6024",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 6.48:1 against background #ffffff"
           }
         },
@@ -1364,13 +1364,13 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#eb8033",
+            "$value": "#DB6024",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#e66000",
+            "$value": "#DB6024",
             "$description": "Color can be used for small text. WCAG 2.x (relative luminance) contrast is 4.81:1 against background #ffffff"
           }
         },
@@ -1462,13 +1462,13 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#451d00",
+            "$value": "#FBEFE9",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "#fdefe6",
+            "$value": "#FBEFE9",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #ffffff"
           }
         }
@@ -1862,24 +1862,24 @@
           "light": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.300.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.700.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.1300.dark}"
           }
         },
         "foreground": {
           "light": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-neutral.400.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
           },
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.700.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.1300.dark}"
           }
         },
         "border": {
@@ -1891,9 +1891,8 @@
           },
           "dark": {
             "parent": "Brand/Lexus",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.1300.dark}"
           }
         },
         "onBackground": {
@@ -1971,25 +1970,23 @@
       "icon": {
         "light": {
           "parent": "Brand/Lexus",
-          "description": "",
           "$type": "color",
-          "$value": "{primitive.color-ramp.brand-accent-primary.400.light}"
+          "$value": "{primitive.color-ramp.brand-neutral.100.light}"
         },
         "dark": {
           "parent": "Brand/Lexus",
-          "description": "",
           "$type": "color",
-          "$value": "{primitive.color-ramp.brand-accent-primary.300.dark}"
+          "$value": "{primitive.color-ramp.brand-neutral.100.light}"
         }
       },
       "brand": {
         "light": {
           "$type": "color",
-          "$value": "#b9c0c2"
+          "$value": "#000000"
         },
         "dark": {
           "$type": "color",
-          "$value": "#b9c0c2"
+          "$value": "#000000"
         }
       }
     }
@@ -2120,6 +2117,32 @@
         "brand-title": {
           "$type": "fontWeights",
           "$value": "{primitive.type.font-families.nobel-book}"
+        }
+      }
+    },
+    "button": {
+      "border": {
+        "radius": {
+          "$type": "borderRadius",
+          "$value": "{semantic.border.radius.none}"
+        }
+      },
+      "padding": {
+        "small-horizontal": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xxSmall}"
+        },
+        "medium-horizontal": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xSmall}"
+        },
+        "small-vertical": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.small}"
+        },
+        "medium-vertical": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.medium}"
         }
       }
     }
