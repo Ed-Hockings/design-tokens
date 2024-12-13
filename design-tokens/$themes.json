@@ -45,7 +45,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Mode/Light": "enabled",
-      "Global": "enabled"
+      "Global": "enabled",
+      "Brand/Subaru": "enabled"
     }
   },
   {
@@ -54,7 +55,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "Mode/Dark": "enabled",
-      "Global": "enabled"
+      "Global": "enabled",
+      "Brand/Subaru": "enabled"
     }
   },
   {
