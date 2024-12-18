@@ -2153,6 +2153,30 @@
           "$value": "{primitive.layout.space.medium}"
         }
       }
+    },
+    "checkbox": {
+      "color": {
+        "background": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.blue.600.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.blue.600.dark}"
+          }
+        },
+        "on-background": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.1300.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.100.dark}"
+          }
+        }
+      }
     }
   }
 }
