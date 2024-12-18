@@ -2123,6 +2123,30 @@
           "$value": "{primitive.layout.space.medium}"
         }
       }
+    },
+    "checkbox": {
+      "color": {
+        "background": {
+          "light": {
+            "$type": "color",
+            "$value": "#014E98"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.white}"
+          }
+        },
+        "on-background": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.white}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.black}"
+          }
+        }
+      }
     }
   }
 }

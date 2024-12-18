@@ -461,6 +461,16 @@
         "$value": "{primitive.color-ramp.brand-neutral.1300.light}",
         "$description": "Only to be used as the background colour of the navi bar"
       }
+    },
+    "checkbox": {
+      "background": {
+        "$type": "color",
+        "$value": "{semantic.checkbox.color.background.light}"
+      },
+      "on-background": {
+        "$type": "color",
+        "$value": "{semantic.checkbox.color.on-background.light}"
+      }
     }
   },
   "isLight": {
