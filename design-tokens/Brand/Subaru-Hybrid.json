@@ -2153,21 +2153,45 @@
         "background": {
           "light": {
             "$type": "color",
-            "$value": "{primitive.color-ramp.blue.600.light}"
+            "$value": "#014E98"
           },
           "dark": {
             "$type": "color",
-            "$value": "{primitive.color-ramp.blue.600.dark}"
+            "$value": "{primitive.color.fixed.white}"
           }
         },
         "on-background": {
           "light": {
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-neutral.1300.light}"
+            "$value": "{primitive.color.fixed.white}"
           },
           "dark": {
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-neutral.100.dark}"
+            "$value": "{primitive.color.fixed.black}"
+          }
+        }
+      }
+    },
+    "segmented-control": {
+      "color": {
+        "background": {
+          "light": {
+            "$type": "color",
+            "$value": "#014E98"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.white}"
+          }
+        },
+        "on-background": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.white}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.black}"
           }
         }
       }

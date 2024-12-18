@@ -475,11 +475,21 @@
     "radio-button": {
       "background": {
         "$type": "color",
-        "$value": "{semantic.checkbox.color.background.dark}"
+        "$value": "{semantic.radio-button.color.background.dark}"
       },
       "on-background": {
         "$type": "color",
-        "$value": "{semantic.checkbox.color.on-background.dark}"
+        "$value": "{semantic.radio-button.color.on-background.dark}"
+      }
+    },
+    "segmented-control": {
+      "background": {
+        "$type": "color",
+        "$value": "{semantic.segmented-control.color.background.dark}"
+      },
+      "on-background": {
+        "$type": "color",
+        "$value": "{semantic.segmented-control.color.on-background.dark}"
       }
     }
   },
