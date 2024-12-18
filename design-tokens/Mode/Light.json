@@ -480,6 +480,10 @@
       "on-background": {
         "$type": "color",
         "$value": "{semantic.radio-button.color.on-background.light}"
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{semantic.radio-button.color.border.dark}"
       }
     },
     "segmented-control": {
@@ -490,6 +494,10 @@
       "on-background": {
         "$type": "color",
         "$value": "{semantic.segmented-control.color.on-background.light}"
+      },
+      "border": {
+        "$type": "color",
+        "$value": "{semantic.segmented-control.color.border.light}"
       }
     },
     "toggle": {
