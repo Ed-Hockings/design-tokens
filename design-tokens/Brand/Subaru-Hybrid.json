@@ -2169,6 +2169,16 @@
             "$type": "color",
             "$value": "{primitive.color.fixed.black}"
           }
+        },
+        "border": {
+          "light": {
+            "$type": "color",
+            "$value": "#014E98"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.white}"
+          }
         }
       }
     },
@@ -2192,6 +2202,16 @@
           "dark": {
             "$type": "color",
             "$value": "{primitive.color.fixed.black}"
+          }
+        },
+        "border": {
+          "light": {
+            "$type": "color",
+            "$value": "#014E98"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.white}"
           }
         }
       }
@@ -2217,6 +2237,12 @@
             "$type": "color",
             "$value": "{primitive.color.fixed.black}"
           }
+        }
+      },
+      "border": {
+        "radius": {
+          "$type": "borderRadius",
+          "$value": "{semantic.border.radius.circle}"
         }
       }
     }

@@ -2199,6 +2199,16 @@
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-neutral.100.dark}"
           }
+        },
+        "border": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.blue.600.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.blue.600.dark}"
+          }
         }
       }
     },
@@ -2222,6 +2232,16 @@
           "dark": {
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-neutral.100.dark}"
+          }
+        },
+        "border": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.blue.600.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.blue.600.dark}"
           }
         }
       }
@@ -2247,6 +2267,12 @@
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-neutral.100.dark}"
           }
+        }
+      },
+      "border": {
+        "radius": {
+          "$type": "borderRadius",
+          "$value": "{semantic.border.radius.medium}"
         }
       }
     }
