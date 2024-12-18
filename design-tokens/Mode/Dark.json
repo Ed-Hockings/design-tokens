@@ -491,6 +491,16 @@
         "$type": "color",
         "$value": "{semantic.segmented-control.color.on-background.dark}"
       }
+    },
+    "toggle": {
+      "background": {
+        "$type": "color",
+        "$value": "{semantic.toggle.color.background.dark}"
+      },
+      "on-background": {
+        "$type": "color",
+        "$value": "{semantic.toggle.color.on-background.dark}"
+      }
     }
   },
   "isLight": {
