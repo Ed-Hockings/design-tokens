@@ -471,6 +471,16 @@
         "$type": "color",
         "$value": "{semantic.checkbox.color.on-background.dark}"
       }
+    },
+    "radio-button": {
+      "background": {
+        "$type": "color",
+        "$value": "{semantic.checkbox.color.background.dark}"
+      },
+      "on-background": {
+        "$type": "color",
+        "$value": "{semantic.checkbox.color.on-background.dark}"
+      }
     }
   },
   "isLight": {
