@@ -2195,6 +2195,30 @@
           }
         }
       }
+    },
+    "toggle": {
+      "color": {
+        "background": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.black}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.white}"
+          }
+        },
+        "on-background": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.white}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.black}"
+          }
+        }
+      }
     }
   }
 }
