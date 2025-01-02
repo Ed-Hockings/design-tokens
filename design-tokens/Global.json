@@ -538,6 +538,145 @@
           "$value": "4"
         }
       }
+    },
+    "motion": {
+      "duration": {
+        "instant": {
+          "$unit": "ms",
+          "$type": "Duration",
+          "$value": "100",
+          "$description": "Anything with a instant response."
+        },
+        "fast": {
+          "$unit": "ms",
+          "$type": "Duration",
+          "$value": "200",
+          "$description": "Checking a checkbox, flicking a toggle or exiting a model."
+        },
+        "moderate": {
+          "$unit": "ms",
+          "$type": "Duration",
+          "$value": "300",
+          "$description": "A loading spinner or object moving across a screen."
+        },
+        "slow": {
+          "$unit": "ms",
+          "$type": "Duration",
+          "$value": "400",
+          "$description": "A menu draw opening or the opening of a model."
+        },
+        "xSlow": {
+          "$unit": "ms",
+          "$type": "Duration",
+          "$value": "500",
+          "$description": "A card expanding to full screen or a page transitions."
+        }
+      },
+      "ease": {
+        "$type": "CubicBezier",
+        "$value": "[0.42, 0, 0.58, 1]",
+        "$description": "The ease effect specifies a transition effect with a slow start, then a fast transition, and then a slow transition at the end. An element must be visible throughout the motion to use the ease effect. "
+      },
+      "ease-in": {
+        "$type": "CubicBezier",
+        "$value": "[0.42, 0, 1, 1]",
+        "$description": "The start of ease-in animations is slow, and the end is fast. It is best used to remove objects from a screen."
+      },
+      "ease-out": {
+        "$type": "CubicBezier",
+        "$value": "[0, 0, 0.58, 1]",
+        "$description": "Ease-out animations start fast and gradually slow down. It is most appropriate to use ease-out when introducing an object from off the screen because of its abrupt start and slow finish.  "
+      },
+      "ease-in-out": {
+        "$type": "CubicBezier",
+        "$value": "[0.42, 0, 0.58, 1]",
+        "$description": "Ease-in-out animations start slow, speed up, then slow down again at the end. This type of timing function is perfect for moving objects from spot to spot on a screen."
+      },
+      "linear": {
+        "$type": "CubicBezier",
+        "$value": "[0, 0, 1, 1]",
+        "$description": "The linear transition effect specifies a continuous transition speed. It can be used when the object's colour or transparency changes. As a rule, we can use it for states where an object's position does not change. "
+      },
+      "keyframe": {
+        "spin": {
+          "$type": "Keyframe",
+          "$value": {
+            "transform": "rotate(360deg)",
+            "duration": "200ms",
+            "iterationCount": "infinite",
+            "timingFunction": "linear"
+          }
+        },
+        "pulse": {
+          "$type": "Keyframe",
+          "$value": {
+            "transform": "scale(1)",
+            "opacity": "1",
+            "duration": "100ms",
+            "timingFunction": "ease-in-out",
+            "iterationCount": "infinite",
+            "direction": "alternate"
+          }
+        },
+        "bounce": {
+          "$type": "Keyframe",
+          "$value": {
+            "transform": "cubic-bezier(0.68, -0.55, 0.27, 1.55)"
+          }
+        }
+      },
+      "transitions": {
+        "fade-in": {
+          "$type": "Transition",
+          "$value": {
+            "property": "opacity",
+            "duration": "300ms",
+            "timingFunction": "ease-in",
+            "from": "0",
+            "to": "1"
+          }
+        },
+        "fade-out": {
+          "$type": "Transition",
+          "$value": {
+            "property": "opacity",
+            "duration": "300ms",
+            "timingFunction": "ease-out",
+            "from": 1,
+            "to": 0
+          }
+        },
+        "slide-in": {
+          "$type": "Transition",
+          "$value": {
+            "property": "transform",
+            "duration": "400ms",
+            "timingFunction": "ease-out",
+            "from": "translateX(100%)",
+            "to": "translateX(0)"
+          }
+        },
+        "slide-out": {
+          "$type": "Transition",
+          "$value": {
+            "property": "transform",
+            "duration": "400ms",
+            "timingFunction": "ease-in",
+            "from": "translateX(0)",
+            "to": "translateX(100%)"
+          }
+        },
+        "scale": {
+          "$type": "Transition",
+          "$value": {
+            "property": "transform",
+            "duration": "200ms",
+            "timingFunction": "ease-in-out",
+            "from": "scale(0.95)",
+            "to": "scale(1)"
+          }
+        }
+      }
     }
   },
   "semantic": {
