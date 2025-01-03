@@ -574,7 +574,7 @@
       },
       "ease": {
         "$type": "CubicBezier",
-        "$value": "[0.42, 0, 0.58, 1]",
+        "$value": "[0.25, 0.1, 0.25, 1.0]",
         "$description": "The ease effect specifies a transition effect with a slow start, then a fast transition, and then a slow transition at the end. An element must be visible throughout the motion to use the ease effect. "
       },
       "ease-in": {
