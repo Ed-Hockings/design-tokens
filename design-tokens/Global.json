@@ -625,7 +625,7 @@
           }
         }
       },
-      "transitions": {
+      "transition": {
         "fade-in": {
           "$type": "Transition",
           "$value": {
@@ -642,8 +642,8 @@
             "property": "opacity",
             "duration": "300ms",
             "timingFunction": "ease-out",
-            "from": 1,
-            "to": 0
+            "from": "1",
+            "to": "0"
           }
         },
         "slide-in": {
@@ -675,6 +675,113 @@
             "from": "scale(0.95)",
             "to": "scale(1)"
           }
+        }
+      }
+    },
+    "haptic": {
+      "duration": {
+        "fast": {
+          "$unit": "ms",
+          "$type": "Duration",
+          "$value": "50"
+        },
+        "moderate": {
+          "$unit": "ms",
+          "$type": "Duration",
+          "$value": "100"
+        },
+        "slow": {
+          "$unit": "ms",
+          "$type": "Duration",
+          "$value": "200"
+        }
+      },
+      "transition": {
+        "single": {
+          "$type": "Transition",
+          "$value": {
+            "delay": "0ms",
+            "duration": "50ms",
+            "timingFunction": "[0, 0, 1, 1]"
+          }
+        },
+        "double": {
+          "$type": "Transition",
+          "$value": {
+            "delay": "100ms",
+            "duration": "50ms",
+            "timingFunction": "[0, 0, 1, 1]"
+          }
+        },
+        "triple": {
+          "$type": "Transition",
+          "$value": {
+            "delay": "100ms",
+            "duration": "50ms",
+            "timingFunction": "[0.5, 0, 0.75, 1]"
+          }
+        },
+        "rhythmic": {
+          "$type": "Transition",
+          "$value": {
+            "delay": "50ms",
+            "duration": "300ms",
+            "timingFunction": "[0.25, 0, 0.75, 1]"
+          }
+        }
+      },
+      "intensity": {
+        "low": {
+          "$type": "number",
+          "$value": "0.25"
+        },
+        "medium": {
+          "$type": "number",
+          "$value": "0.5"
+        },
+        "high": {
+          "$type": "number",
+          "$value": "1.0"
+        }
+      },
+      "purpose": {
+        "confirmation": {
+          "$type": "composition",
+          "$value": {
+            "intensity": "{primitive.haptic.intensity.medium}",
+            "duration": "{primitive.haptic.duration.fast}",
+            "pattern": "{primitive.haptic.transition.single}"
+          }
+        },
+        "error": {
+          "$type": "composition",
+          "$value": {
+            "intensity": "{primitive.haptic.intensity.high}",
+            "duration": "{primitive.haptic.duration.moderate}",
+            "pattern": "{primitive.haptic.transition.triple}"
+          }
+        },
+        "notification": {
+          "$type": "composition",
+          "$value": {
+            "intensity": "{primitive.haptic.intensity.medium}",
+            "duration": "{primitive.haptic.duration.moderate}",
+            "pattern": "{primitive.haptic.transition.double}"
+          }
+        },
+        "guidance": {
+          "$type": "composition",
+          "$value": {
+            "intensity": "{primitive.haptic.intensity.low}",
+            "duration": "{primitive.haptic.duration.slow}",
+            "pattern": "{primitive.haptic.transition.rhythmic}"
+          }
+        }
+      },
+      "accessibility": {
+        "reduced": {
+          "$type": "boolean",
+          "$value": "false"
         }
       }
     }
