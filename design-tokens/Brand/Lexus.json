@@ -1867,7 +1867,7 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.700.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.800.dark}"
           }
         },
         "foreground": {
@@ -1879,21 +1879,19 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.700.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.800.dark}"
           }
         },
         "border": {
           "light": {
             "parent": "Brand/Lexus",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.100.light}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.400.light}"
           },
           "dark": {
             "parent": "Brand/Lexus",
-            "description": "",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.100.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.600.dark}"
           }
         },
         "onBackground": {
@@ -1964,7 +1962,7 @@
           "dark": {
             "parent": "Brand/Lexus",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.1100.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.1300.dark}"
           }
         }
       },
