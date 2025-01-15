@@ -2296,6 +2296,24 @@
           "$value": "{semantic.border.radius.medium}"
         }
       }
+    },
+    "card": {
+      "border": {
+        "$type": "borderWidth",
+        "$value": "0"
+      },
+      "color": {
+        "border": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.1100.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.1100.dark}"
+          }
+        }
+      }
     }
   }
 }

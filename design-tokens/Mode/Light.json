@@ -509,6 +509,12 @@
         "$type": "color",
         "$value": "{semantic.toggle.color.on-background.light}"
       }
+    },
+    "card": {
+      "border": {
+        "$type": "color",
+        "$value": "{semantic.card.color.border.light}"
+      }
     }
   },
   "isLight": {
