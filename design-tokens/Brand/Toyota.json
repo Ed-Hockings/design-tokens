@@ -2050,7 +2050,13 @@
     },
     "layout": {
       "section": {
-        "padding-horizontal": {
+        "padding-top": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "{primitive.layout.space.xLarge}",
+          "$description": "Horizontal section padding"
+        },
+        "padding-bottom": {
           "parent": "Brand/Toyota",
           "$type": "dimension",
           "$value": "{primitive.layout.space.xLarge}",
@@ -2062,7 +2068,13 @@
           "$value": "{primitive.layout.space.medium}",
           "$description": "The gap between items"
         },
-        "padding-vertical": {
+        "padding-left": {
+          "parent": "Brand/Toyota",
+          "$type": "dimension",
+          "$value": "{primitive.layout.space.medium}",
+          "$description": "Horizontal section padding"
+        },
+        "padding-right": {
           "parent": "Brand/Toyota",
           "$type": "dimension",
           "$value": "{primitive.layout.space.medium}",
@@ -2136,19 +2148,31 @@
         }
       },
       "padding": {
-        "small-horizontal": {
+        "small-top": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.xxSmall}"
         },
-        "medium-horizontal": {
+        "small-bottom": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xxSmall}"
+        },
+        "medium-top": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.xSmall}"
         },
-        "small-vertical": {
+        "medium-bottom": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.xSmall}"
         },
-        "medium-vertical": {
+        "small-left": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xSmall}"
+        },
+        "small-right": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xSmall}"
+        },
+        "medium-right": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.medium}"
         }

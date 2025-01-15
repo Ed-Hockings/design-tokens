@@ -2019,7 +2019,13 @@
   "semantic": {
     "layout": {
       "section": {
-        "padding-horizontal": {
+        "padding-top": {
+          "parent": "Brand/Lexus",
+          "$type": "dimension",
+          "$value": "{primitive.layout.space.xLarge}",
+          "$description": "Horizontal section padding"
+        },
+        "padding-bottom": {
           "parent": "Brand/Lexus",
           "$type": "dimension",
           "$value": "{primitive.layout.space.xLarge}",
@@ -2031,7 +2037,13 @@
           "$value": "{primitive.layout.space.small}",
           "$description": "The gap between items"
         },
-        "padding-vertical": {
+        "padding-left": {
+          "parent": "Brand/Lexus",
+          "$type": "dimension",
+          "$value": "{primitive.layout.space.small}",
+          "$description": "Horizontal section padding"
+        },
+        "padding-right": {
           "parent": "Brand/Lexus",
           "$type": "dimension",
           "$value": "{primitive.layout.space.small}",
@@ -2129,19 +2141,35 @@
         }
       },
       "padding": {
-        "small-horizontal": {
+        "small-top": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.xxSmall}"
         },
-        "medium-horizontal": {
+        "small-bottom": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xxSmall}"
+        },
+        "medium-top": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.xSmall}"
         },
-        "small-vertical": {
+        "medium-bottom": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.xSmall}"
         },
-        "medium-vertical": {
+        "small-left": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xSmall}"
+        },
+        "small-right": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.xSmall}"
+        },
+        "medium-left": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.medium}"
+        },
+        "medium-right": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.medium}"
         }
