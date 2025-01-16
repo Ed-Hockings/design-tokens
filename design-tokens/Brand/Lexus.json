@@ -2037,13 +2037,13 @@
           "$value": "{primitive.layout.space.small}",
           "$description": "The gap between items"
         },
-        "padding-left": {
+        "padding-leading": {
           "parent": "Brand/Lexus",
           "$type": "dimension",
           "$value": "{primitive.layout.space.small}",
           "$description": "Horizontal section padding"
         },
-        "padding-right": {
+        "padding-trailing": {
           "parent": "Brand/Lexus",
           "$type": "dimension",
           "$value": "{primitive.layout.space.small}",
