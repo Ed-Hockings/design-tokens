@@ -2134,19 +2134,19 @@
           "$type": "spacing",
           "$value": "{primitive.layout.space.xSmall}"
         },
-        "small-left": {
+        "small-leading": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.small}"
         },
-        "small-right": {
+        "small-trailing": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.small}"
         },
-        "medium-left": {
+        "medium-leading": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.medium}"
         },
-        "medium-right": {
+        "medium-trailing": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.medium}"
         }
