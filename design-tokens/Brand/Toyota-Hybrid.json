@@ -2174,6 +2174,12 @@
             "$value": "{primitive.color.fixed.black}"
           }
         }
+      },
+      "border": {
+        "radius": {
+          "$type": "borderRadius",
+          "$value": "{semantic.border.radius.xxSmall}"
+        }
       }
     },
     "radio-button": {
