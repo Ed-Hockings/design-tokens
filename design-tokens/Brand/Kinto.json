@@ -2314,6 +2314,18 @@
           }
         }
       }
+    },
+    "list-item": {
+      "padding": {
+        "leading": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.medium}"
+        },
+        "trailing": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.medium}"
+        }
+      }
     }
   }
 }
