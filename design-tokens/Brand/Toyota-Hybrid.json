@@ -2291,6 +2291,18 @@
           }
         }
       }
+    },
+    "list-item": {
+      "padding": {
+        "leading": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.none}"
+        },
+        "trailing": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.none}"
+        }
+      }
     }
   }
 }
