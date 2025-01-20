@@ -2197,6 +2197,12 @@
             "$value": "{primitive.color-ramp.brand-neutral.100.dark}"
           }
         }
+      },
+      "border": {
+        "radius": {
+          "$type": "borderRadius",
+          "$value": "{semantic.border.radius.xxSmall}"
+        }
       }
     },
     "radio-button": {
