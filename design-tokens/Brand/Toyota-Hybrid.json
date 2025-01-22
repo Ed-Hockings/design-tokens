@@ -2061,55 +2061,6 @@
         }
       }
     },
-    "border": {
-      "radius": {
-        "xxSmall": {
-          "parent": "Brand/Toyota-Hybrid",
-          "$type": "dimension",
-          "$value": "0.25rem"
-        },
-        "xSmall": {
-          "parent": "Brand/Toyota-Hybrid",
-          "$type": "dimension",
-          "$value": "0.5rem"
-        },
-        "small": {
-          "parent": "Brand/Toyota-Hybrid",
-          "$type": "dimension",
-          "$value": "0.75rem"
-        },
-        "medium": {
-          "parent": "Brand/Toyota-Hybrid",
-          "$type": "dimension",
-          "$value": "1rem"
-        },
-        "large": {
-          "parent": "Brand/Toyota-Hybrid",
-          "$type": "dimension",
-          "$value": "1.5rem"
-        },
-        "xLarge": {
-          "parent": "Brand/Toyota-Hybrid",
-          "$type": "dimension",
-          "$value": "2rem"
-        },
-        "xxLarge": {
-          "parent": "Brand/Toyota-Hybrid",
-          "$type": "dimension",
-          "$value": "3rem"
-        },
-        "circle": {
-          "parent": "Brand/Toyota-Hybrid",
-          "$type": "dimension",
-          "$value": "25rem"
-        },
-        "none": {
-          "parent": "Brand/Toyota-Hybrid",
-          "$type": "dimension",
-          "$value": "0rem"
-        }
-      }
-    },
     "button": {
       "border": {
         "radius": {
@@ -2307,6 +2258,64 @@
         "trailing": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.none}"
+        }
+      }
+    },
+    "border": {
+      "radius": {
+        "xxSmall": {
+          "parent": "Brand/Kinto",
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.125rem"
+        },
+        "xSmall": {
+          "parent": "Brand/Kinto",
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.25rem"
+        },
+        "small": {
+          "parent": "Brand/Kinto",
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.5rem"
+        },
+        "medium": {
+          "parent": "Brand/Kinto",
+          "description": "",
+          "$type": "dimension",
+          "$value": "0.75rem"
+        },
+        "large": {
+          "parent": "Brand/Kinto",
+          "description": "",
+          "$type": "dimension",
+          "$value": "1rem"
+        },
+        "xLarge": {
+          "parent": "Brand/Kinto",
+          "description": "",
+          "$type": "dimension",
+          "$value": "1.5rem"
+        },
+        "xxLarge": {
+          "parent": "Brand/Kinto",
+          "description": "",
+          "$type": "dimension",
+          "$value": "2rem"
+        },
+        "circle": {
+          "parent": "Brand/Kinto",
+          "description": "",
+          "$type": "dimension",
+          "$value": "25rem"
+        },
+        "none": {
+          "parent": "Brand/Kinto",
+          "description": "",
+          "$type": "dimension",
+          "$value": "0rem"
         }
       }
     }
