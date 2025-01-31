@@ -2007,11 +2007,11 @@
       "font-families": {
         "system-regular": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.inter-regular}"
+          "$value": "{primitive.type.font-families.toyota-type-w02-regular}"
         },
         "system-bold": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.inter-bold}"
+          "$value": "{primitive.type.font-families.toyota-type-w02-bold}"
         },
         "brand-regular": {
           "$type": "fontWeights",
