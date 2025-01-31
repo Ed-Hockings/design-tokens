@@ -2041,23 +2041,23 @@
       "font-families": {
         "system-regular": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.roboto-regular}"
+          "$value": "{primitive.type.font-families.arial-regular}"
         },
         "system-bold": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.roboto-bold}"
+          "$value": "{primitive.type.font-families.arial-bold}"
         },
         "brand-regular": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.roboto-regular}"
+          "$value": "{primitive.type.font-families.arial-regular}"
         },
         "brand-bold": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.roboto-bold}"
+          "$value": "{primitive.type.font-families.arial-bold}"
         },
         "brand-title": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.roboto-regular}"
+          "$value": "{primitive.type.font-families.arial-regular}"
         }
       }
     },

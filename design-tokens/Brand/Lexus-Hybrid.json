@@ -2090,11 +2090,11 @@
       "font-families": {
         "system-regular": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.inter-regular}"
+          "$value": "{primitive.type.font-families.nobel-regular}"
         },
         "system-bold": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.inter-bold}"
+          "$value": "{primitive.type.font-families.nobel-bold}"
         },
         "brand-regular": {
           "$type": "fontWeights",
