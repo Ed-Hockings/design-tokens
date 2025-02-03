@@ -2310,6 +2310,74 @@
         }
       }
     },
+    "banner": {
+      "color": {
+        "background": {
+          "high": {
+            "light": {
+              "$type": "color",
+              "$value": "{primitive.color.brand-accent-primary.background.light}"
+            },
+            "dark": {
+              "$type": "color",
+              "$value": "{primitive.color.brand-accent-primary.background.dark}"
+            }
+          },
+          "medium": {
+            "light": {
+              "$type": "color",
+              "$value": "{primitive.color-ramp.blue.400.light}"
+            },
+            "dark": {
+              "$type": "color",
+              "$value": "{primitive.color-ramp.blue.900.dark}"
+            }
+          },
+          "low": {
+            "light": {
+              "$type": "color",
+              "$value": "{primitive.color-ramp.gray.500.light}"
+            },
+            "dark": {
+              "$type": "color",
+              "$value": "{primitive.color-ramp.gray.200.dark}"
+            }
+          }
+        },
+        "on-background": {
+          "high": {
+            "light": {
+              "$type": "color",
+              "$value": "{primitive.color-ramp.brand-neutral.1300.light}"
+            },
+            "dark": {
+              "$type": "color",
+              "$value": "{primitive.color-ramp.brand-neutral.1300.dark}"
+            }
+          },
+          "medium": {
+            "light": {
+              "$type": "color",
+              "$value": "{primitive.color-ramp.brand-neutral.1300.light}"
+            },
+            "dark": {
+              "$type": "color",
+              "$value": "{primitive.color-ramp.brand-neutral.100.dark}"
+            }
+          },
+          "low": {
+            "light": {
+              "$type": "color",
+              "$value": "{primitive.color-ramp.brand-neutral.1300.light}"
+            },
+            "dark": {
+              "$type": "color",
+              "$value": "{primitive.color-ramp.brand-neutral.1200.dark}"
+            }
+          }
+        }
+      }
+    },
     "card": {
       "border": {
         "$type": "borderWidth",
