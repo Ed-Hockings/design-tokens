@@ -500,6 +500,38 @@
         "$value": "{semantic.segmented-control.color.border.light}"
       }
     },
+    "banner": {
+      "high": {
+        "background": {
+          "$type": "color",
+          "$value": "{semantic.banner.color.background.high.light}"
+        },
+        "on-background": {
+          "$type": "color",
+          "$value": "{semantic.banner.color.on-background.high.light}"
+        }
+      },
+      "medium": {
+        "background": {
+          "$type": "color",
+          "$value": "{semantic.banner.color.background.medium.light}"
+        },
+        "on-background": {
+          "$type": "color",
+          "$value": "{semantic.banner.color.on-background.medium.light}"
+        }
+      },
+      "low": {
+        "background": {
+          "$type": "color",
+          "$value": "{semantic.banner.color.background.low.light}"
+        },
+        "on-background": {
+          "$type": "color",
+          "$value": "{semantic.banner.color.on-background.low.light}"
+        }
+      }
+    },
     "toggle": {
       "background": {
         "$type": "color",

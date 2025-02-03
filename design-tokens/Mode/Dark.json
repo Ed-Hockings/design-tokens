@@ -515,6 +515,38 @@
         "$type": "color",
         "$value": "{semantic.card.color.border.dark}"
       }
+    },
+    "banner": {
+      "high": {
+        "background": {
+          "$type": "color",
+          "$value": "{semantic.banner.color.background.high.dark}"
+        },
+        "on-background": {
+          "$type": "color",
+          "$value": "{semantic.banner.color.on-background.high.dark}"
+        }
+      },
+      "medium": {
+        "background": {
+          "$type": "color",
+          "$value": "{semantic.banner.color.background.medium.dark}"
+        },
+        "on-background": {
+          "$type": "color",
+          "$value": "{semantic.banner.color.on-background.medium.dark}"
+        }
+      },
+      "low": {
+        "background": {
+          "$type": "color",
+          "$value": "{semantic.banner.color.background.low.dark}"
+        },
+        "on-background": {
+          "$type": "color",
+          "$value": "{semantic.banner.color.on-background.low.dark}"
+        }
+      }
     }
   },
   "isLight": {
