@@ -132,13 +132,13 @@
           "dark": {
             "parent": "Brand/Subaru-Hybrid",
             "$type": "color",
-            "$value": "#012460",
+            "$value": "#ffffff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Subaru-Hybrid",
             "$type": "color",
-            "$value": "#dfe1e7",
+            "$value": "#ffffff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.3:1 against background #ffffff"
           }
         },
@@ -146,13 +146,13 @@
           "dark": {
             "parent": "Brand/Subaru-Hybrid",
             "$type": "color",
-            "$value": "#03173e",
+            "$value": "#ffffff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #000000"
           },
           "light": {
             "parent": "Brand/Subaru-Hybrid",
             "$type": "color",
-            "$value": "#f1f1f5",
+            "$value": "#ffffff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1.13:1 against background #ffffff"
           }
         },
@@ -174,7 +174,7 @@
           "dark": {
             "parent": "Brand/Subaru-Hybrid",
             "$type": "color",
-            "$value": "#000000",
+            "$value": "#ffffff",
             "$description": "Do not use for UI elements or text. WCAG 2.x (relative luminance) contrast is 1:1 against background #000000"
           },
           "light": {
