@@ -951,7 +951,7 @@
             "letterSpacing": "{primitive.type.letter-spacing.medium}",
             "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
             "paragraphIndent": "{primitive.type.paragraph-indent.none}",
-            "textCase": "{primitive.type.text-case.uppercase}",
+            "textCase": "{primitive.type.text-case.none}",
             "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
@@ -965,7 +965,7 @@
             "letterSpacing": "{primitive.type.letter-spacing.medium}",
             "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
             "paragraphIndent": "{primitive.type.paragraph-indent.none}",
-            "textCase": "{primitive.type.text-case.uppercase}",
+            "textCase": "{primitive.type.text-case.none}",
             "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
@@ -979,7 +979,7 @@
             "letterSpacing": "{primitive.type.letter-spacing.medium}",
             "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
             "paragraphIndent": "{primitive.type.paragraph-indent.none}",
-            "textCase": "{primitive.type.text-case.uppercase}",
+            "textCase": "{primitive.type.text-case.none}",
             "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
@@ -992,7 +992,7 @@
             "letterSpacing": "{primitive.type.letter-spacing.large}",
             "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
             "paragraphIndent": "{primitive.type.paragraph-indent.none}",
-            "textCase": "{primitive.type.text-case.uppercase}",
+            "textCase": "{primitive.type.text-case.none}",
             "textDecoration": "{primitive.type.text-decoration.none}",
             "fontWeight": "{primitive.type.font-weight.title}"
           }
@@ -1037,7 +1037,7 @@
             "letterSpacing": "{primitive.type.letter-spacing.medium}",
             "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
             "paragraphIndent": "{primitive.type.paragraph-indent.none}",
-            "textCase": "{primitive.type.text-case.uppercase}",
+            "textCase": "{primitive.type.text-case.none}",
             "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
@@ -1051,7 +1051,7 @@
             "letterSpacing": "{primitive.type.letter-spacing.medium}",
             "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
             "paragraphIndent": "{primitive.type.paragraph-indent.none}",
-            "textCase": "{primitive.type.text-case.uppercase}",
+            "textCase": "{primitive.type.text-case.none}",
             "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
@@ -1065,7 +1065,7 @@
             "letterSpacing": "{primitive.type.letter-spacing.medium}",
             "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
             "paragraphIndent": "{primitive.type.paragraph-indent.none}",
-            "textCase": "{primitive.type.text-case.uppercase}",
+            "textCase": "{primitive.type.text-case.none}",
             "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
@@ -1079,7 +1079,7 @@
             "letterSpacing": "{primitive.type.letter-spacing.medium}",
             "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
             "paragraphIndent": "{primitive.type.paragraph-indent.none}",
-            "textCase": "{primitive.type.text-case.uppercase}",
+            "textCase": "{primitive.type.text-case.none}",
             "textDecoration": "{primitive.type.text-decoration.none}"
           }
         },
@@ -1093,7 +1093,7 @@
             "letterSpacing": "{primitive.type.letter-spacing.medium}",
             "paragraphSpacing": "{primitive.type.paragraph-spacing.none}",
             "paragraphIndent": "{primitive.type.paragraph-indent.none}",
-            "textCase": "{primitive.type.text-case.uppercase}",
+            "textCase": "{primitive.type.text-case.none}",
             "textDecoration": "{primitive.type.text-decoration.none}"
           }
         }
