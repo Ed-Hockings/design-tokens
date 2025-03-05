@@ -2400,6 +2400,12 @@
           }
         }
       }
+    },
+    "topNavigation": {
+      "barHeight": {
+        "$type": "dimension",
+        "$value": "2px"
+      }
     }
   }
 }

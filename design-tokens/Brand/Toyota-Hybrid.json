@@ -2386,6 +2386,12 @@
           }
         }
       }
+    },
+    "topNavigation": {
+      "barHeight": {
+        "$type": "dimension",
+        "$value": "0px"
+      }
     }
   }
 }

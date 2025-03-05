@@ -2407,6 +2407,12 @@
           "$value": "{primitive.layout.space.medium}"
         }
       }
+    },
+    "topNavigation": {
+      "barHeight": {
+        "$type": "dimension",
+        "$value": "4px"
+      }
     }
   }
 }
