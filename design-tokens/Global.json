@@ -317,7 +317,7 @@
       "letter-spacing": {
         "small": {
           "$type": "letterSpacing",
-          "$value": "0.2"
+          "$value": "0.02"
         },
         "medium": {
           "$type": "letterSpacing",
