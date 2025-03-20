@@ -2087,19 +2087,19 @@
         },
         "small-leading": {
           "$type": "spacing",
-          "$value": "{primitive.layout.space.xxxLarge}"
+          "$value": "{primitive.layout.space.medium}"
         },
         "small-trailing": {
           "$type": "spacing",
-          "$value": "{primitive.layout.space.xxxLarge}"
+          "$value": "{primitive.layout.space.medium}"
         },
         "medium-leading": {
           "$type": "spacing",
-          "$value": "{primitive.layout.space.huge}"
+          "$value": "{primitive.layout.space.large}"
         },
         "medium-trailing": {
           "$type": "spacing",
-          "$value": "{primitive.layout.space.huge}"
+          "$value": "{primitive.layout.space.large}"
         }
       }
     },
