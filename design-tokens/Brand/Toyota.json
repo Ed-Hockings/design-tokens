@@ -2053,7 +2053,7 @@
         "padding-top": {
           "parent": "Brand/Toyota",
           "$type": "dimension",
-          "$value": "{primitive.layout.space.xLarge}",
+          "$value": "{primitive.layout.space.medium}",
           "$description": "Horizontal section padding"
         },
         "padding-bottom": {
@@ -2071,13 +2071,13 @@
         "padding-leading": {
           "parent": "Brand/Toyota",
           "$type": "dimension",
-          "$value": "{primitive.layout.space.medium}",
+          "$value": "{primitive.layout.space.xLarge}",
           "$description": "Horizontal section padding"
         },
         "padding-trailing": {
           "parent": "Brand/Toyota",
           "$type": "dimension",
-          "$value": "{primitive.layout.space.medium}",
+          "$value": "{primitive.layout.space.xLarge}",
           "$description": "Horizontal section padding"
         }
       }

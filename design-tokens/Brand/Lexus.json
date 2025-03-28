@@ -2022,13 +2022,13 @@
         "padding-top": {
           "parent": "Brand/Lexus",
           "$type": "dimension",
-          "$value": "{primitive.layout.space.xLarge}",
+          "$value": "{primitive.layout.space.small}",
           "$description": "Horizontal section padding"
         },
         "padding-bottom": {
           "parent": "Brand/Lexus",
           "$type": "dimension",
-          "$value": "{primitive.layout.space.xLarge}",
+          "$value": "{primitive.layout.space.medium}",
           "$description": "Horizontal section padding"
         },
         "gap-between-items": {
@@ -2040,13 +2040,13 @@
         "padding-leading": {
           "parent": "Brand/Lexus",
           "$type": "dimension",
-          "$value": "{primitive.layout.space.small}",
+          "$value": "{primitive.layout.space.large}",
           "$description": "Horizontal section padding"
         },
         "padding-trailing": {
           "parent": "Brand/Lexus",
           "$type": "dimension",
-          "$value": "{primitive.layout.space.small}",
+          "$value": "{primitive.layout.space.large}",
           "$description": "Horizontal section padding"
         }
       }
