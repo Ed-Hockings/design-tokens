@@ -2325,11 +2325,11 @@
       "padding": {
         "leading": {
           "$type": "spacing",
-          "$value": "{primitive.layout.space.medium}"
+          "$value": "{primitive.layout.space.small}"
         },
         "trailing": {
           "$type": "spacing",
-          "$value": "{primitive.layout.space.medium}"
+          "$value": "{primitive.layout.space.xSmall}"
         }
       }
     },
