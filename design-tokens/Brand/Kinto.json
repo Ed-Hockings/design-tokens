@@ -2331,6 +2331,20 @@
           "$type": "spacing",
           "$value": "{primitive.layout.space.medium}"
         }
+      },
+      "inset": {
+        "single": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.small}"
+        },
+        "double": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.medium}"
+        },
+        "triple": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.large}"
+        }
       }
     },
     "banner": {

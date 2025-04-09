@@ -2259,6 +2259,20 @@
           "$type": "spacing",
           "$value": "{primitive.layout.space.none}"
         }
+      },
+      "inset": {
+        "single": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.none}"
+        },
+        "double": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.small}"
+        },
+        "triple": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.medium}"
+        }
       }
     },
     "border": {
