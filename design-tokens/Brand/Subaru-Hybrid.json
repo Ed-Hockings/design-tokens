@@ -2267,11 +2267,11 @@
         },
         "double": {
           "$type": "spacing",
-          "$value": "{primitive.layout.space.small}"
+          "$value": "{primitive.layout.space.large}"
         },
         "triple": {
           "$type": "spacing",
-          "$value": "{primitive.layout.space.medium}"
+          "$value": "{primitive.layout.space.xxLarge}"
         }
       }
     },
