@@ -2247,6 +2247,10 @@
             "$value": "{primitive.color-ramp.brand-neutral.700.dark}"
           }
         }
+      },
+      "tripPadding": {
+        "$type": "dimension",
+        "$value": "{primitive.layout.space.small}"
       }
     },
     "list-item": {
