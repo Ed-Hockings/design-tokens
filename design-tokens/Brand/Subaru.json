@@ -2173,6 +2173,62 @@
           "$type": "spacing",
           "$value": "{primitive.layout.space.medium}"
         }
+      },
+      "primary": {
+        "forground": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.brand-accent-primary.onBackground.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.brand-accent-primary.onBackground.dark}"
+          }
+        },
+        "background": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.brand-accent-primary.background.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.brand-accent-primary.background.dark}"
+          }
+        }
+      },
+      "secondary": {
+        "foreground": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.brand-accent-primary.background.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.brand-accent-primary.background.dark}"
+          }
+        },
+        "border": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.brand-accent-primary.background.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.brand-accent-primary.background.dark}"
+          }
+        }
+      },
+      "tertiary": {
+        "foreground": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.brand-accent-primary.background.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.brand-accent-primary.background.dark}"
+          }
+        }
       }
     },
     "checkbox": {

@@ -547,6 +547,39 @@
           "$value": "{semantic.banner.color.on-background.low.dark}"
         }
       }
+    },
+    "button": {
+      "primary": {
+        "foreground": {
+          "parent": "Mode/Light",
+          "$type": "color",
+          "$value": "{semantic.button.primary.forground.dark}"
+        },
+        "background": {
+          "parent": "Mode/Light",
+          "$type": "color",
+          "$value": "{semantic.button.primary.background.dark}"
+        }
+      },
+      "secondary": {
+        "foreground": {
+          "parent": "Mode/Light",
+          "$type": "color",
+          "$value": "{semantic.button.secondary.foreground.dark}"
+        },
+        "border": {
+          "parent": "Mode/Light",
+          "$type": "color",
+          "$value": "{semantic.button.secondary.border.dark}"
+        },
+        "tertiary": {
+          "foreground": {
+            "parent": "Mode/Light",
+            "$type": "color",
+            "$value": "{semantic.button.tertiary.foreground.dark}"
+          }
+        }
+      }
     }
   },
   "isLight": {

@@ -2101,6 +2101,62 @@
           "$type": "spacing",
           "$value": "{primitive.layout.space.large}"
         }
+      },
+      "primary": {
+        "forground": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.brand-accent-primary.onBackground.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.brand-accent-primary.onBackground.dark}"
+          }
+        },
+        "background": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.brand.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.brand.dark}"
+          }
+        }
+      },
+      "secondary": {
+        "foreground": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.black}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.black}"
+          }
+        },
+        "border": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.black}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.black}"
+          }
+        }
+      },
+      "tertiary": {
+        "foreground": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.black}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.black}"
+          }
+        }
       }
     },
     "checkbox": {
