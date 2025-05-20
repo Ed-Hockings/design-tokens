@@ -2175,7 +2175,7 @@
         }
       },
       "primary": {
-        "forground": {
+        "foreground": {
           "light": {
             "$type": "color",
             "$value": "{primitive.color.brand-accent-primary.onBackground.light}"
