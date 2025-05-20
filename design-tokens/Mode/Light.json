@@ -553,7 +553,7 @@
         "foreground": {
           "parent": "Mode/Light",
           "$type": "color",
-          "$value": "{semantic.button.primary.forground.light}"
+          "$value": "{semantic.button.primary.foreground.light}"
         },
         "background": {
           "parent": "Mode/Light",
@@ -571,13 +571,13 @@
           "parent": "Mode/Light",
           "$type": "color",
           "$value": "{semantic.button.secondary.border.light}"
-        },
-        "tertiary": {
-          "foreground": {
-            "parent": "Mode/Light",
-            "$type": "color",
-            "$value": "{semantic.button.tertiary.foreground.light}"
-          }
+        }
+      },
+      "tertiary": {
+        "foreground": {
+          "parent": "Mode/Light",
+          "$type": "color",
+          "$value": "{semantic.button.tertiary.foreground.light}"
         }
       }
     }
