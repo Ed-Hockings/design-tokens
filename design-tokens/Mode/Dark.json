@@ -412,7 +412,7 @@
       "gas": {
         "parent": "Mode/Dark",
         "$type": "color",
-        "$value": "{primitive.color-ramp.purple.700.light}",
+        "$value": "{primitive.color-ramp.gray.600.dark}",
         "$description": "Description goes here"
       },
       "electric": {
