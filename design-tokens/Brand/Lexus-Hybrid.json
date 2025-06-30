@@ -2367,6 +2367,10 @@
         "trailing": {
           "$type": "spacing",
           "$value": "{primitive.layout.space.none}"
+        },
+        "icon-trailing": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.none}"
         }
       },
       "inset": {

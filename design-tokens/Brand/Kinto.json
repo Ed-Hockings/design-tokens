@@ -1890,12 +1890,12 @@
           "light": {
             "parent": "Brand/Kinto",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.600.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.600.light}"
           },
           "dark": {
             "parent": "Brand/Kinto",
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-accent-primary.300.dark}"
+            "$value": "{primitive.color-ramp.brand-accent-primary.700.dark}"
           }
         },
         "onBackground": {
@@ -2280,7 +2280,7 @@
           },
           "dark": {
             "$type": "color",
-            "$value": "{primitive.color-ramp.brand-neutral.100.dark}"
+            "$value": "{primitive.color-ramp.brand-neutral.1000.dark}"
           }
         },
         "border": {
@@ -2389,7 +2389,11 @@
         },
         "trailing": {
           "$type": "spacing",
-          "$value": "{primitive.layout.space.medium}"
+          "$value": "{primitive.layout.space.none}"
+        },
+        "icon-trailing": {
+          "$type": "spacing",
+          "$value": "{primitive.layout.space.small}"
         }
       },
       "inset": {
