@@ -328,7 +328,7 @@
             "$value": "rgba(230,96,0,0.56)",
             "$description": "Description goes here"
           },
-          "infromation": {
+          "information": {
             "$type": "color",
             "$value": "rgba(64,103,234,0.56)",
             "$description": "Description goes here"
