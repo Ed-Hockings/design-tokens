@@ -14,6 +14,23 @@
           "$value": "{primitive.color-ramp.brand-neutral.1100.dark}",
           "$description": "Description goes here"
         },
+        "neutral-bottom": {
+          "parent": "Mode/Dark",
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1300.dark}",
+          "$description": "Description goes here"
+        },
+        "brand": {
+          "$type": "color",
+          "$value": "{primitive.color.brand.dark}",
+          "$description": "Description goes here"
+        },
+        "brand-accent-primary": {
+          "parent": "Mode/Dark",
+          "$type": "color",
+          "$value": "{primitive.color.brand-accent-primary.background.dark}",
+          "$description": "Description goes here"
+        },
         "brand-accent-secondary": {
           "parent": "Mode/Dark",
           "$type": "color",
@@ -68,21 +85,16 @@
           "$value": "{primitive.color-ramp.blue.1100.dark}",
           "$description": "Description goes here"
         },
-        "neutral-bottom": {
+        "EV-top": {
           "parent": "Mode/Dark",
           "$type": "color",
-          "$value": "{primitive.color-ramp.brand-neutral.1300.dark}",
+          "$value": "{primitive.color-ramp.teal.400.dark}",
           "$description": "Description goes here"
         },
-        "brand-accent-primary": {
+        "EV-bottom": {
           "parent": "Mode/Dark",
           "$type": "color",
-          "$value": "{primitive.color.brand-accent-primary.background.dark}",
-          "$description": "Description goes here"
-        },
-        "brand": {
-          "$type": "color",
-          "$value": "{primitive.color.brand.dark}",
+          "$value": "{primitive.color-ramp.teal.1100.dark}",
           "$description": "Description goes here"
         }
       },
@@ -124,6 +136,12 @@
           "$description": "Description goes here"
         },
         "on-information-top": {
+          "parent": "Mode/Dark",
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.100.dark}",
+          "$description": "Description goes here"
+        },
+        "on-EV-top": {
           "parent": "Mode/Dark",
           "$type": "color",
           "$value": "{primitive.color-ramp.brand-neutral.100.dark}",
@@ -211,6 +229,21 @@
           "$type": "color",
           "$value": "{primitive.color.brand.light}",
           "$description": "Description goes here"
+        },
+        "on-neutral-EV": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.teal.400.dark}",
+          "$description": "Description goes here"
+        },
+        "on-EV-accent": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.teal.900.dark}",
+          "$description": "Description goes here"
+        },
+        "on-EV-bottom": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.teal.200.dark}",
+          "$description": "Description goes here"
         }
       },
       "border": {
@@ -265,6 +298,11 @@
           "$type": "color",
           "$value": "{primitive.color.brand.dark}",
           "$description": "Description goes here"
+        },
+        "EV": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.teal.400.dark}",
+          "$description": "Description goes here"
         }
       },
       "overlay": {
@@ -273,6 +311,28 @@
           "$type": "color",
           "$value": "#0000008f",
           "$description": "Description goes here"
+        },
+        "semantic-scrim": {
+          "error": {
+            "$type": "color",
+            "$value": "rgba(220,39,28,0.56)",
+            "$description": "Description goes here"
+          },
+          "positive": {
+            "$type": "color",
+            "$value": "rgba(21,131,48,0.56)",
+            "$description": "Description goes here"
+          },
+          "warning": {
+            "$type": "color",
+            "$value": "rgba(230,96,0,0.56)",
+            "$description": "Description goes here"
+          },
+          "infromation": {
+            "$type": "color",
+            "$value": "rgba(64,103,234,0.56)",
+            "$description": "Description goes here"
+          }
         }
       },
       "state-layer": {
