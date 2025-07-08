@@ -2399,7 +2399,7 @@
       "inset": {
         "single": {
           "$type": "spacing",
-          "$value": "{primitive.layout.space.small}"
+          "$value": "{primitive.layout.space.medium}"
         },
         "double": {
           "$type": "spacing",
