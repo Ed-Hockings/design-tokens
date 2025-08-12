@@ -2461,6 +2461,30 @@
         "$type": "dimension",
         "$value": "0px"
       }
+    },
+    "navigation-bar": {
+      "color": {
+        "background": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.1300.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.1100.dark}"
+          }
+        },
+        "on-background": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.200.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.1200.dark}"
+          }
+        }
+      }
     }
   }
 }
