@@ -2483,6 +2483,26 @@
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-neutral.1200.dark}"
           }
+        },
+        "on-background-secondary": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.900.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.200.dark}"
+          }
+        },
+        "on-background-primary": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.200.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.1200.dark}"
+          }
         }
       }
     }

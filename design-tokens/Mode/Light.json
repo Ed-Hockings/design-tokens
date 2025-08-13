@@ -522,7 +522,12 @@
       },
       "on-background-primary": {
         "$type": "color",
-        "$value": "{semantic.navigation-bar.color.on-background.light}",
+        "$value": "{semantic.navigation-bar.color.on-background-primary.light}",
+        "$description": "Only to be used as the background colour of the navi bar"
+      },
+      "on-background-secondary": {
+        "$type": "color",
+        "$value": "{semantic.navigation-bar.color.on-background-secondary.light}",
         "$description": "Only to be used as the background colour of the navi bar"
       }
     },

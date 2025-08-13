@@ -518,7 +518,12 @@
       },
       "on-background-primary": {
         "$type": "color",
-        "$value": "{semantic.navigation-bar.color.on-background.dark}",
+        "$value": "{semantic.navigation-bar.color.on-background-primary.dark}",
+        "$description": "Only to be used as the background colour of the navi bar"
+      },
+      "on-background-secondary": {
+        "$type": "color",
+        "$value": "{semantic.navigation-bar.color.on-background-secondary.dark}",
         "$description": "Only to be used as the background colour of the navi bar"
       }
     },

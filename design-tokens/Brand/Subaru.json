@@ -2497,7 +2497,7 @@
             "$value": "{primitive.color-ramp.brand-neutral.1100.dark}"
           }
         },
-        "on-background": {
+        "on-background-primary": {
           "light": {
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-neutral.1300.light}"
@@ -2505,6 +2505,16 @@
           "dark": {
             "$type": "color",
             "$value": "{primitive.color-ramp.brand-neutral.100.dark}"
+          }
+        },
+        "on-background-secondary": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.1100.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-neutral.200.dark}"
           }
         }
       }
