@@ -2090,7 +2090,7 @@
       "font-families": {
         "system-regular": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.nobel-regular}"
+          "$value": "{primitive.type.font-families.nobel-book}"
         },
         "system-bold": {
           "$type": "fontWeights",
@@ -2098,7 +2098,7 @@
         },
         "brand-regular": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.nobel-regular}"
+          "$value": "{primitive.type.font-families.nobel-book}"
         },
         "brand-bold": {
           "$type": "fontWeights",
