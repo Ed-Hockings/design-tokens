@@ -465,6 +465,27 @@
           }
         }
       }
+    },
+    "gradient": {
+      "climate": {
+        "$type": "color",
+        "$value": "linear-gradient(90deg, #2a5de1 0%, #0f2e7d 51.04%, #ca2117 100%)",
+        "$description": "blue60, blue80, red60"
+      },
+      "EV": {
+        "charging": {
+          "$type": "color",
+          "$value": "radial-gradient(circle,rgba(31, 47, 47, 1) 31%, rgba(12, 67, 67, 1) 100%)"
+        },
+        "paused": {
+          "$type": "color",
+          "$value": "radial-gradient(circle,rgba(50, 40, 25, 1) 31%, rgba(91, 65, 27, 1) 100%)"
+        },
+        "complete": {
+          "$type": "color",
+          "$value": "radial-gradient(circle,rgba(31, 40, 61, 1) 31%, rgba(34, 52, 98, 1) 100%)"
+        }
+      }
     }
   },
   "component": {
