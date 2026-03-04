@@ -489,6 +489,16 @@
         "$type": "color",
         "$value": "linear-gradient(90deg, #497cff 0%, #163ea4 51.04%, #f9362a 100%)",
         "$description": "blue60, blue30, red60"
+      },
+      "cs-card": {
+        "connected": {
+          "$type": "color",
+          "$value": "linear-gradient({component.cs-card.connected.01} 13%, {component.cs-card.connected.03} 69%, {component.cs-card.connected.04} 70%, {component.cs-card.connected.04} 83%, {component.cs-card.connected.03} 100%)"
+        },
+        "disconnected": {
+          "$type": "color",
+          "$value": "linear-gradient({component.cs-card.disconnected.01} 13%, {component.cs-card.disconnected.02} 33%, {component.cs-card.disconnected.04} 69%, {component.cs-card.disconnected.03} 70%, {component.cs-card.disconnected.04} 83%, {component.cs-card.disconnected.02} 100%)"
+        }
       }
     }
   },
@@ -668,6 +678,44 @@
           "parent": "Mode/Light",
           "$type": "color",
           "$value": "{semantic.button.tertiary.foreground.light}"
+        }
+      }
+    },
+    "cs-card": {
+      "connected": {
+        "01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1300.light}"
+        },
+        "02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1200.light}"
+        },
+        "03": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1100.light}"
+        },
+        "04": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.900.light}"
+        }
+      },
+      "disconnected": {
+        "01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1200.light}"
+        },
+        "02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1000.light}"
+        },
+        "03": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.700.light}"
+        },
+        "04": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.500.light}"
         }
       }
     }

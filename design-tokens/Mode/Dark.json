@@ -485,6 +485,16 @@
           "$type": "color",
           "$value": "linear-gradient(90deg,rgba(16, 30, 74, 1) 50%, rgba(25, 48, 117, 1) 100%)"
         }
+      },
+      "cs-card": {
+        "connected": {
+          "$type": "color",
+          "$value": "linear-gradient( {component.cs-card.connected.01} 13%, {component.cs-card.connected.03} 69%, {component.cs-card.connected.04} 70%, {component.cs-card.connected.04} 83%, {component.cs-card.connected.03} 100%)"
+        },
+        "disconnected": {
+          "$type": "color",
+          "$value": "linear-gradient( {component.cs-card.disconnected.01} 13%, {component.cs-card.disconnected.02} 33%, {component.cs-card.disconnected.04} 69%, {component.cs-card.disconnected.03} 70%, {component.cs-card.disconnected.04} 83%, {component.cs-card.disconnected.02} 100%)"
+        }
       }
     }
   },
@@ -664,6 +674,44 @@
           "parent": "Mode/Light",
           "$type": "color",
           "$value": "{semantic.button.tertiary.foreground.dark}"
+        }
+      }
+    },
+    "cs-card": {
+      "connected": {
+        "01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1000.dark}"
+        },
+        "02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1200.dark}"
+        },
+        "03": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.300.dark}"
+        },
+        "04": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1100.dark}"
+        }
+      },
+      "disconnected": {
+        "01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1300.dark}"
+        },
+        "02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.900.dark}"
+        },
+        "03": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1100.dark}"
+        },
+        "04": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.700.dark}"
         }
       }
     }
