@@ -489,11 +489,11 @@
       "cs-card": {
         "connected": {
           "$type": "color",
-          "$value": "linear-gradient( {component.cs-card.connected.01} 13%, {component.cs-card.connected.03} 69%, {component.cs-card.connected.04} 70%, {component.cs-card.connected.04} 83%, {component.cs-card.connected.03} 100%)"
+          "$value": "linear-gradient( {component.cs-card.connected-stop-01} 13%, {component.cs-card.connected-stop-03} 69%, {component.cs-card.connected-stop-04} 70%, {component.cs-card.connected-stop-04} 83%, {component.cs-card.connected-stop-03} 100%)"
         },
         "disconnected": {
           "$type": "color",
-          "$value": "linear-gradient( {component.cs-card.disconnected.01} 13%, {component.cs-card.disconnected.02} 33%, {component.cs-card.disconnected.04} 69%, {component.cs-card.disconnected.03} 70%, {component.cs-card.disconnected.04} 83%, {component.cs-card.disconnected.02} 100%)"
+          "$value": "linear-gradient( {component.cs-card.disconnected-stop-01} 13%, {component.cs-card.disconnected-stop-02} 33%, {component.cs-card.disconnected-stop-04} 69%, {component.cs-card.disconnected-stop-03} 70%, {component.cs-card.disconnected-stop-04} 83%, {component.cs-card.disconnected-stop-02} 100%)"
         }
       }
     }
@@ -678,41 +678,37 @@
       }
     },
     "cs-card": {
-      "connected": {
-        "01": {
-          "$type": "color",
-          "$value": "{primitive.color-ramp.brand-neutral.1000.dark}"
-        },
-        "02": {
-          "$type": "color",
-          "$value": "{primitive.color-ramp.brand-neutral.1200.dark}"
-        },
-        "03": {
-          "$type": "color",
-          "$value": "{primitive.color-ramp.brand-neutral.300.dark}"
-        },
-        "04": {
-          "$type": "color",
-          "$value": "{primitive.color-ramp.brand-neutral.1100.dark}"
-        }
+      "connected-stop-01": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.1000.dark}"
       },
-      "disconnected": {
-        "01": {
-          "$type": "color",
-          "$value": "{primitive.color-ramp.brand-neutral.1300.dark}"
-        },
-        "02": {
-          "$type": "color",
-          "$value": "{primitive.color-ramp.brand-neutral.900.dark}"
-        },
-        "03": {
-          "$type": "color",
-          "$value": "{primitive.color-ramp.brand-neutral.1100.dark}"
-        },
-        "04": {
-          "$type": "color",
-          "$value": "{primitive.color-ramp.brand-neutral.700.dark}"
-        }
+      "connected-stop-02": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.1200.dark}"
+      },
+      "connected-stop-03": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.300.dark}"
+      },
+      "connected-stop-04": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.1100.dark}"
+      },
+      "disconnected-stop-01": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.1300.dark}"
+      },
+      "disconnected-stop-02": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.900.dark}"
+      },
+      "disconnected-stop-03": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.1100.dark}"
+      },
+      "disconnected-stop-04": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.700.dark}"
       }
     }
   },
