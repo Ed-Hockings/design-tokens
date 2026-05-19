@@ -694,6 +694,42 @@
           "$value": "{primitive.color-ramp.green.900.dark}"
         }
       }
+    },
+    "charging-progress-bar": {
+      "foreground": {
+        "plugged-in": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.yellow.300.dark}"
+        },
+        "completed": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.blue.400.dark}"
+        },
+        "fuel": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.100.dark}"
+        },
+        "charging-stop-01": {
+          "$type": "color",
+          "$value": "#66FFFF"
+        },
+        "charging-stop-02": {
+          "$type": "color",
+          "$value": "#66FFCC"
+        }
+      },
+      "border": {
+        "neutral": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.300.dark}"
+        }
+      },
+      "background": {
+        "neutral": {
+          "$type": "color",
+          "$value": "rgba(200,205,214,0.4)"
+        }
+      }
     }
   },
   "isLight": {
