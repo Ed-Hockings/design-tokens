@@ -471,10 +471,10 @@
       }
     },
     "gradient": {
-      "EV": {
+      "ev-status-card": {
         "complete": {
           "$type": "color",
-          "$value": "linear-gradient(90deg,rgba(23, 43, 106, 1) 50%, rgba(30, 61, 164, 1) 100%)"
+          "$value": "linear-gradient(90deg, {component.charging-status-card.background.complete-stop-01} 50%, {component.charging-status-card.background.complete-stop-02} 100%)"
         },
         "paused": {
           "$type": "color",
@@ -668,6 +668,78 @@
           "parent": "Mode/Light",
           "$type": "color",
           "$value": "{semantic.button.tertiary.foreground.light}"
+        }
+      }
+    },
+    "charging-status-card": {
+      "background": {
+        "pause-stop-01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.yellow.300.light}"
+        },
+        "pause-stop-02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.yellow.500.light}"
+        },
+        "complete-stop-01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.blue.300.light}"
+        },
+        "complete-stop-02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.blue.400.light}"
+        },
+        "charging-stop-01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.teal.300.light}"
+        },
+        "charging-stop-02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.teal.500.light}"
+        }
+      },
+      "on-background": {
+        "$type": "color",
+        "$value": "{primitive.color.fixed.white}"
+      },
+      "foreground-fixed": {
+        "$type": "color",
+        "$value": "{primitive.color.fixed.black}"
+      }
+    },
+    "charging-progress-bar": {
+      "foreground": {
+        "plugged-in": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.yellow.900.light}"
+        },
+        "completed": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.blue.800.light}"
+        },
+        "fuel": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.gray.1000.light}"
+        },
+        "charging-stop-01": {
+          "$type": "color",
+          "$value": "#35EEEE"
+        },
+        "charging-stop-02": {
+          "$type": "color",
+          "$value": "#2DF7B3"
+        }
+      },
+      "border": {
+        "neutral": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.800.light}"
+        }
+      },
+      "background": {
+        "neutral": {
+          "$type": "color",
+          "$value": "rgba(192,199,209,0.4)"
         }
       }
     }

@@ -666,6 +666,34 @@
           "$value": "{semantic.button.tertiary.foreground.dark}"
         }
       }
+    },
+    "charging-status-card": {
+      "background": {
+        "pause-stop-01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.yellow.900.dark}"
+        },
+        "pause-stop-02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.yellow.800.dark}"
+        },
+        "complete-stop-01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.blue.1000.dark}"
+        },
+        "complete-stop-02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.blue.900.dark}"
+        },
+        "charging-stop-01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.green.1000.dark}"
+        },
+        "charging-stop-02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.green.900.dark}"
+        }
+      }
     }
   },
   "isLight": {
