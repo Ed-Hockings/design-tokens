@@ -482,18 +482,18 @@
         "$value": "linear-gradient(90deg, #2a5de1 0%, #0f2e7d 51.04%, #ca2117 100%)",
         "$description": "blue60, blue80, red60"
       },
-      "EV": {
-        "charging": {
+      "ev-status-card": {
+        "complete": {
           "$type": "color",
-          "$value": "linear-gradient(90deg,rgba(0, 39, 34, 1) 50%, rgba(0, 61, 53, 1) 100%)"
+          "$value": "linear-gradient(90deg, {component.charging-status-card.background.complete-stop-01} 50%, {component.charging-status-card.background.complete-stop-02} 100%)"
         },
         "paused": {
           "$type": "color",
-          "$value": "linear-gradient(90deg,rgba(66, 51, 2, 1) 50%, rgba(89, 70, 3, 1) 100%)"
+          "$value": "linear-gradient(90deg, {component.charging-status-card.background.pause-stop-01} 50%, {component.charging-status-card.background.pause-stop-02} 100%)"
         },
-        "complete": {
+        "charging": {
           "$type": "color",
-          "$value": "linear-gradient(90deg,rgba(16, 30, 74, 1) 50%, rgba(25, 48, 117, 1) 100%)"
+          "$value": "linear-gradient(90deg, {component.charging-status-card.background.charging-stop-01} 50%, {component.charging-status-card.background.charging-stop-02} 100%)"
         }
       }
     }
@@ -674,6 +674,70 @@
           "parent": "Mode/Light",
           "$type": "color",
           "$value": "{semantic.button.tertiary.foreground.dark}"
+        }
+      }
+    },
+    "charging-status-card": {
+      "background": {
+        "pause-stop-01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.yellow.900.dark}"
+        },
+        "pause-stop-02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.yellow.800.dark}"
+        },
+        "complete-stop-01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.blue.1000.dark}"
+        },
+        "complete-stop-02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.blue.900.dark}"
+        },
+        "charging-stop-01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.green.1000.dark}"
+        },
+        "charging-stop-02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.green.900.dark}"
+        }
+      }
+    },
+    "charging-progress-bar": {
+      "foreground": {
+        "plugged-in": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.yellow.300.dark}"
+        },
+        "completed": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.blue.400.dark}"
+        },
+        "fuel": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.100.dark}"
+        },
+        "charging-stop-01": {
+          "$type": "color",
+          "$value": "#66FFFF"
+        },
+        "charging-stop-02": {
+          "$type": "color",
+          "$value": "#66FFCC"
+        }
+      },
+      "border": {
+        "neutral": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.300.dark}"
+        }
+      },
+      "background": {
+        "neutral": {
+          "$type": "color",
+          "$value": "rgba(200,205,214,0.4)"
         }
       }
     }
