@@ -96,6 +96,11 @@
           "$type": "color",
           "$value": "{primitive.color-ramp.teal.1100.light}",
           "$description": "Description goes here"
+        },
+        "neutral-inverse": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.400.light}",
+          "$description": "Tooltip background"
         }
       },
       "foreground": {
@@ -244,6 +249,11 @@
           "$type": "color",
           "$value": "{primitive.color-ramp.teal.200.light}",
           "$description": "Description goes here"
+        },
+        "on-neutral-inverse": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1300.light}",
+          "$description": "Tooltip text, icon "
         }
       },
       "border": {
@@ -471,18 +481,18 @@
       }
     },
     "gradient": {
-      "EV": {
+      "ev-status-card": {
         "complete": {
           "$type": "color",
-          "$value": "linear-gradient(90deg,rgba(23, 43, 106, 1) 50%, rgba(30, 61, 164, 1) 100%)"
+          "$value": "linear-gradient(90deg, {component.charging-status-card.background.complete-stop-01} 50%, {component.charging-status-card.background.complete-stop-02} 100%)"
         },
         "paused": {
           "$type": "color",
-          "$value": "linear-gradient(90deg,rgba(60, 46, 1, 1) 50%, rgba(115, 91, 5, 1) 100%)"
+          "$value": "linear-gradient(90deg, {component.charging-status-card.background.pause-stop-01} 50%, {component.charging-status-card.background.pause-stop-02} 100%)"
         },
         "charging": {
           "$type": "color",
-          "$value": "linear-gradient(90deg,rgba(0, 55, 48, 1) 50%, rgba(0, 106, 93, 1) 100%)"
+          "$value": "linear-gradient(90deg, {component.charging-status-card.background.charging-stop-01} 50%, {component.charging-status-card.background.charging-stop-02} 100%)"
         }
       },
       "climate": {
@@ -713,6 +723,76 @@
       "disconnected-stop-04": {
         "$type": "color",
         "$value": "{primitive.color-ramp.brand-neutral.500.light}"
+    "charging-status-card": {
+      "background": {
+        "pause-stop-01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.yellow.300.light}"
+        },
+        "pause-stop-02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.yellow.500.light}"
+        },
+        "complete-stop-01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.blue.300.light}"
+        },
+        "complete-stop-02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.blue.400.light}"
+        },
+        "charging-stop-01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.teal.300.light}"
+        },
+        "charging-stop-02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.teal.500.light}"
+        }
+      },
+      "on-background": {
+        "$type": "color",
+        "$value": "{primitive.color.fixed.white}"
+      },
+      "foreground-fixed": {
+        "$type": "color",
+        "$value": "{primitive.color.fixed.black}"
+      }
+    },
+    "charging-progress-bar": {
+      "foreground": {
+        "plugged-in": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.yellow.900.light}"
+        },
+        "completed": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.blue.800.light}"
+        },
+        "fuel": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.gray.1000.light}"
+        },
+        "charging-stop-01": {
+          "$type": "color",
+          "$value": "#35EEEE"
+        },
+        "charging-stop-02": {
+          "$type": "color",
+          "$value": "#2DF7B3"
+        }
+      },
+      "border": {
+        "neutral": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.800.light}"
+        }
+      },
+      "background": {
+        "neutral": {
+          "$type": "color",
+          "$value": "rgba(192,199,209,0.4)"
+        }
       }
     }
   },
