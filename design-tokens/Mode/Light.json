@@ -478,11 +478,11 @@
         },
         "paused": {
           "$type": "color",
-          "$value": "linear-gradient(90deg,rgba(60, 46, 1, 1) 50%, rgba(115, 91, 5, 1) 100%)"
+          "$value": "linear-gradient(90deg, {component.charging-status-card.background.pause-stop-01} 50%, {component.charging-status-card.background.pause-stop-02} 100%)"
         },
         "charging": {
           "$type": "color",
-          "$value": "linear-gradient(90deg,rgba(0, 55, 48, 1) 50%, rgba(0, 106, 93, 1) 100%)"
+          "$value": "linear-gradient(90deg, {component.charging-status-card.background.charging-stop-01} 50%, {component.charging-status-card.background.charging-stop-02} 100%)"
         }
       },
       "climate": {
