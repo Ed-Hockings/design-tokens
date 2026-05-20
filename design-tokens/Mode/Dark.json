@@ -96,6 +96,11 @@
           "$type": "color",
           "$value": "{primitive.color-ramp.teal.1100.dark}",
           "$description": "Description goes here"
+        },
+        "neutral-inverse": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.200.dark}",
+          "$description": "Tooltip background"
         }
       },
       "foreground": {
@@ -244,6 +249,11 @@
           "$type": "color",
           "$value": "{primitive.color-ramp.teal.200.dark}",
           "$description": "Description goes here"
+        },
+        "on-neutral-inverse": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1300.dark}",
+          "$description": "Tooltip text, icon "
         }
       },
       "border": {
