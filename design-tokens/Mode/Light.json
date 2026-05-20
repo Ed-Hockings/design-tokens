@@ -499,6 +499,16 @@
         "$type": "color",
         "$value": "linear-gradient(90deg, #497cff 0%, #163ea4 51.04%, #f9362a 100%)",
         "$description": "blue60, blue30, red60"
+      },
+      "cs-card": {
+        "connected": {
+          "$type": "color",
+          "$value": "linear-gradient({component.cs-card.connected-stop-01} 13%, {component.cs-card.connected-stop-03} 69%, {component.cs-card.connected-stop-04} 70%, {component.cs-card.connected-stop-04} 83%, {component.cs-card.connected-stop-03} 100%)"
+        },
+        "disconnected": {
+          "$type": "color",
+          "$value": "linear-gradient({component.cs-card.disconnected-stop-01} 13%, {component.cs-card.disconnected-stop-02} 33%, {component.cs-card.disconnected-stop-04} 69%, {component.cs-card.disconnected-stop-03} 70%, {component.cs-card.disconnected-stop-04} 83%, {component.cs-card.disconnected-stop-02} 100%)"
+        }
       }
     }
   },
@@ -681,6 +691,38 @@
         }
       }
     },
+    "cs-card": {
+      "connected-stop-01": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.1300.light}"
+      },
+      "connected-stop-02": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.1200.light}"
+      },
+      "connected-stop-03": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.1100.light}"
+      },
+      "connected-stop-04": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.900.light}"
+      },
+      "disconnected-stop-01": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.1200.light}"
+      },
+      "disconnected-stop-02": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.1000.light}"
+      },
+      "disconnected-stop-03": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.700.light}"
+      },
+      "disconnected-stop-04": {
+        "$type": "color",
+        "$value": "{primitive.color-ramp.brand-neutral.500.light}"
     "charging-status-card": {
       "background": {
         "pause-stop-01": {
