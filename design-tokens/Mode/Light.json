@@ -793,7 +793,6 @@
         "neutral": {
           "$type": "color",
           "$value": "rgba(192,199,209,0.4)"
-        }
       }
     }
   },
