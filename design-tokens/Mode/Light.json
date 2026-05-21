@@ -807,5 +807,6 @@
     "$type": "boolean",
     "$value": "false",
     "$description": "For Figma Variables"
+    }
   }
 }
