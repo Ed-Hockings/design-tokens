@@ -719,6 +719,7 @@
       "disconnected-stop-04": {
         "$type": "color",
         "$value": "{primitive.color-ramp.brand-neutral.700.dark}"
+      },
     "charging-status-card": {
       "background": {
         "pause-stop-01": {
