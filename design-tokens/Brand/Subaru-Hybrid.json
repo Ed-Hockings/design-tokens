@@ -2144,6 +2144,16 @@
             "$type": "color",
             "$value": "{primitive.color.brand.dark}"
           }
+        },
+        "background": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.white}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color.fixed.white}"
+          }
         }
       },
       "tertiary": {

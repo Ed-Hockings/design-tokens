@@ -2216,6 +2216,16 @@
             "$type": "color",
             "$value": "{primitive.color.brand-accent-primary.background.dark}"
           }
+        },
+        "background": {
+          "light": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-accent-primary.1300.light}"
+          },
+          "dark": {
+            "$type": "color",
+            "$value": "{primitive.color-ramp.brand-accent-primary.1300.dark}"
+          }
         }
       },
       "tertiary": {
