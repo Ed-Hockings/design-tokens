@@ -747,6 +747,14 @@
           "$type": "color",
           "$value": "{primitive.color-ramp.green.900.dark}"
         }
+      },
+      "on-background": {
+        "$type": "color",
+        "$value": "{primitive.color.fixed.white}"
+      },
+      "foreground-fixed": {
+        "$type": "color",
+        "$value": "{primitive.color.fixed.black}"
       }
     },
     "charging-progress-bar": {
