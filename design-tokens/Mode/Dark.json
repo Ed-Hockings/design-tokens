@@ -485,25 +485,25 @@
       "ev-status-card": {
         "complete": {
           "$type": "color",
-          "$value": "linear-gradient(90deg, {component.charging-status-card.background.complete-stop-01} 50%, {component.charging-status-card.background.complete-stop-02} 100%)"
+          "$value": "linear-gradient(180deg, {component.charging-status-card.background.complete-stop-01} 0%, {component.charging-status-card.background.complete-stop-01} 50%, {component.charging-status-card.background.complete-stop-02} 100%)"
         },
         "paused": {
           "$type": "color",
-          "$value": "linear-gradient(90deg, {component.charging-status-card.background.pause-stop-01} 50%, {component.charging-status-card.background.pause-stop-02} 100%)"
+          "$value": "linear-gradient(180deg, {component.charging-status-card.background.pause-stop-01} 0%,{component.charging-status-card.background.pause-stop-01} 50%, {component.charging-status-card.background.pause-stop-02} 100%)"
         },
         "charging": {
           "$type": "color",
-          "$value": "linear-gradient(90deg, {component.charging-status-card.background.charging-stop-01} 50%, {component.charging-status-card.background.charging-stop-02} 100%)"
+          "$value": "linear-gradient(180deg, {component.charging-status-card.background.charging-stop-01} 0%,{component.charging-status-card.background.charging-stop-01} 50%, {component.charging-status-card.background.charging-stop-02} 100%)"
         }
       },
       "cs-card": {
         "connected": {
           "$type": "color",
-          "$value": "linear-gradient( {component.cs-card.connected-stop-01} 13%, {component.cs-card.connected-stop-03} 69%, {component.cs-card.connected-stop-04} 70%, {component.cs-card.connected-stop-04} 83%, {component.cs-card.connected-stop-03} 100%)"
+          "$value": "linear-gradient(180deg, {component.cs-card.connected-stop-01} 0%, {component.cs-card.connected-stop-01} 13%, {component.cs-card.connected-stop-02} 33%, {component.cs-card.connected-stop-04} 70%, {component.cs-card.connected-stop-04} 83%, {component.cs-card.connected-stop-03} 100%)"
         },
         "disconnected": {
           "$type": "color",
-          "$value": "linear-gradient( {component.cs-card.disconnected-stop-01} 13%, {component.cs-card.disconnected-stop-02} 33%, {component.cs-card.disconnected-stop-04} 69%, {component.cs-card.disconnected-stop-03} 70%, {component.cs-card.disconnected-stop-04} 83%, {component.cs-card.disconnected-stop-02} 100%)"
+          "$value": "linear-gradient(180deg, {component.cs-card.disconnected-stop-01} 0%,{component.cs-card.disconnected-stop-01} 13%, {component.cs-card.disconnected-stop-02} 33%, {component.cs-card.disconnected-stop-04} 69%, {component.cs-card.disconnected-stop-03} 70%, {component.cs-card.disconnected-stop-03} 83%, {component.cs-card.disconnected-stop-02} 100%)"
         }
       }
     }
