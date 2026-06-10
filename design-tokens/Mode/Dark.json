@@ -796,6 +796,16 @@
           "$value": "rgba(200,205,214,0.4)"
         }
       }
+    },
+    "loading-screen-copy": {
+      "background": {
+        "$type": "color",
+        "$value": "{primitive.color.fixed.black}"
+      },
+      "on-background": {
+        "$type": "color",
+        "$value": "{primitive.color.fixed.white}"
+      }
     }
   },
   "isLight": {
