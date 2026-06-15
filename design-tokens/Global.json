@@ -141,9 +141,17 @@
           "$type": "fontFamilies",
           "$value": "arial-regular"
         },
+        "arimo-regular": {
+          "$type": "fontFamilies",
+          "$value": "arimo-regular"
+        },
         "arial-bold": {
           "$type": "fontFamilies",
           "$value": "arial-bold"
+        },
+        "arimo-bold": {
+          "$type": "fontFamilies",
+          "$value": "arimo-bold"
         },
         "toyota-type-w02-regular": {
           "$type": "fontFamilies",
