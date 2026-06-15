@@ -2113,11 +2113,11 @@
       "font-families": {
         "system-regular": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.arial-regular}"
+          "$value": "{primitive.type.font-families.arimo-regular}"
         },
         "system-bold": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.arial-bold}"
+          "$value": "{primitive.type.font-families.arimo-bold}"
         },
         "brand-regular": {
           "$type": "fontWeights",
