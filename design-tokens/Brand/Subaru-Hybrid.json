@@ -2049,15 +2049,15 @@
         },
         "brand-regular": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.arial-regular}"
+          "$value": "{primitive.type.font-families.arimo-regular}"
         },
         "brand-bold": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.arial-bold}"
+          "$value": "{primitive.type.font-families.arimo-bold}"
         },
         "brand-title": {
           "$type": "fontWeights",
-          "$value": "{primitive.type.font-families.arial-regular}"
+          "$value": "{primitive.type.font-families.arimo-regular}"
         }
       }
     },
