@@ -137,17 +137,9 @@
           "$type": "fontFamilies",
           "$value": "roboto-bold"
         },
-        "arial-regular": {
-          "$type": "fontFamilies",
-          "$value": "arial-regular"
-        },
         "arimo-regular": {
           "$type": "fontFamilies",
           "$value": "arimo-regular"
-        },
-        "arial-bold": {
-          "$type": "fontFamilies",
-          "$value": "arial-bold"
         },
         "arimo-bold": {
           "$type": "fontFamilies",
