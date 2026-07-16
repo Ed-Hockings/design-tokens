@@ -495,6 +495,10 @@
           "$value": "linear-gradient(180deg, {component.charging-status-card.background.charging-stop-01} 0%,{component.charging-status-card.background.charging-stop-01} 50%, {component.charging-status-card.background.charging-stop-02} 100%)"
         }
       },
+      "ev-charging-two": {
+        "$type": "color",
+        "$value": "linear-gradient(180deg, {component.charging-status-card.background.charging-stop-01} 0%,{component.charging-status-card.background.charging-stop-01} 50%, {component.charging-status-card.background.charging-stop-02} 100%)"
+      },
       "climate": {
         "$type": "color",
         "$value": "linear-gradient(90deg, #497cff 0%, #163ea4 51.04%, #f9362a 100%)",
@@ -509,10 +513,6 @@
           "$type": "color",
           "$value": "linear-gradient(180deg, {component.cs-card.disconnected-stop-01} 0%,{component.cs-card.disconnected-stop-01} 13%, {component.cs-card.disconnected-stop-02} 33%, {component.cs-card.disconnected-stop-04} 69%, {component.cs-card.disconnected-stop-03} 70%, {component.cs-card.disconnected-stop-03} 83%, {component.cs-card.disconnected-stop-02} 100%)"
         }
-      },
-      "ev-charging": {
-        "$type": "color",
-        "$value": "linear-gradient(90deg, {component.charging-progress-bar.foreground.charging-stop-01} 0%, {component.charging-progress-bar.foreground.charging-stop-01} 50%, {component.charging-progress-bar.foreground.charging-stop-02} 100%)"
       }
     }
   },
