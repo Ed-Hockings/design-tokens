@@ -530,6 +530,12 @@
         "$type": "color",
         "$value": "{primitive.color-ramp.teal.600.light}",
         "$description": "Description goes here"
+      },
+      "discharging": {
+        "parent": "Mode/Light",
+        "$type": "color",
+        "$value": "{primitive.color-ramp.yellow.500.light}",
+        "$description": "Description goes here"
       }
     },
     "climate": {
