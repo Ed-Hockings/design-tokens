@@ -494,6 +494,10 @@
         "charging": {
           "$type": "color",
           "$value": "linear-gradient(180deg, {component.charging-status-card.background.charging-stop-01} 0%,{component.charging-status-card.background.charging-stop-01} 50%, {component.charging-status-card.background.charging-stop-02} 100%)"
+        },
+        "fuel": {
+          "$type": "color",
+          "$value": "linear-gradient(180deg, {component.charging-status-card.background.fuel-stop-01} 0%, {component.charging-status-card.background.fuel-stop-01} 50%, {component.charging-status-card.background.fuel-stop-02} 100%)"
         }
       },
       "cs-card": {
@@ -761,6 +765,14 @@
         "charging-stop-02": {
           "$type": "color",
           "$value": "{primitive.color-ramp.green.900.dark}"
+        },
+        "fuel-stop-01": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.1100.dark}"
+        },
+        "fuel-stop-02": {
+          "$type": "color",
+          "$value": "{primitive.color-ramp.brand-neutral.900.dark}"
         }
       },
       "on-background": {
